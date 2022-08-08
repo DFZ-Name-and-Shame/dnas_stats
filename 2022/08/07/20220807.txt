@@ -1,0 +1,1948 @@
+For 2022/08/07 17826204 BGP UPDATES were parsed. 17349884 UPDATES contained prefix advertisements. 1128925 UPDATES contained prefix withdraws.
+
+Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 3 bogon origin ASNs.
+Prefix 86.60.96.0/24 from origin ASN(s) AS23456 AS64523 AS64514
+
+Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS1103 (SURFNET-NL)
+
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 3 bogon ASNs.
+AS7713 (telkomnet-as-ap) is originating 3 bogon ASNs: 23456 64500 64501
+
+Longest AS path: 2 prefix(es) had an AS path length of 63 ASNs.
+Prefix 169.239.158.0/24 via peer AS18106 (VIEWQWEST-SG-AP) from origin ASN(s) AS37447 (ORANGE-RDC). AS Path length 63: AS18106 AS30844 AS30844 AS30844 AS30844 AS30844 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447.
+Prefix 169.239.158.0/24 via peer AS58952 (FRONTIIRCOLTD-MM) from origin ASN(s) AS37447 (ORANGE-RDC). AS Path length 63: AS58952 AS30844 AS30844 AS30844 AS30844 AS30844 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447 AS37447.
+
+Longest community set: 1 prefix(es) had a community set length of 207 communities.
+Prefix 94.142.187.0/24 via peer AS35280 from origin ASN(s) AS48463 (TRADITIONGROUP). Commnuity set length 207: 0:286 0:577 0:812 0:852 0:1241 0:1257 0:1267 0:2119 0:2516 0:2518 0:2603 0:2860 0:3209 0:3216 0:3292 0:3303 0:3320 0:3462 0:3491 0:3741 0:4134 0:4230 0:4637 0:4648 0:4651 0:4657 0:4761 0:4766 0:4773 0:4775 0:4788 0:4826 0:4837 0:5207 0:5400 0:5410 0:5416 0:5466 0:5511 0:5769 0:6327 0:6667 0:6730 0:6762 0:6774 0:6805 0:6866 0:7195 0:7303 0:7473 0:7545 0:7552 0:7642 0:7713 0:7738 0:8106 0:8304 0:8359 0:8365 0:8374 0:8422 0:8447 0:8455 0:8468 0:8473 0:8529 0:8544 0:8551 0:8657 0:8674 0:8708 0:8767 0:8781 0:8859 0:8866 0:8881 0:8966 0:9050 0:9158 0:9269 0:9299 0:9304 0:9318 0:9381 0:9500 0:9505 0:9534 0:9605 0:9658 0:9902 0:9930 0:10030 0:10075 0:10089 0:10474 0:11888 0:12322 0:12389 0:12496 0:12713 0:12849 0:12874 0:12956 0:13030 0:13124 0:13127 0:13285 0:13489 0:15557 0:15695 0:15796 0:15802 0:16637 0:16735 0:17072 0:17451 0:17511 0:17639 0:17676 0:17709 0:18403 0:20640 0:20804 0:22652 0:23114 0:23520 0:23655 0:23673 0:23889 0:23944 0:24203 0:24482 0:27887 0:29119 0:29208 0:29695 0:30844 0:31027 0:31424 0:31500 0:31529 0:33891 0:33915 0:34309 0:34695 0:35432 0:35699 0:35753 0:35819 0:36994 0:37100 0:37179 0:37662 0:38040 0:38082 0:38466 0:38726 0:39120 0:39386 0:39642 0:39651 0:41327 0:41692 0:42416 0:42708 0:45430 0:45498 0:45629 0:45758 0:45899 0:47147 0:48237 0:49605 0:50010 0:51185 0:52320 0:52720 0:55818 0:55850 0:55944 0:58453 0:58500 0:58511 0:58715 0:58717 0:59318 0:59605 0:63541 19996:19996 24516:3 24516:104 24516:1400 24516:11000 24516:11001 35280:20 35280:1050 35280:2120 35280:3180 35280:20000 35280:21000 35280:21460 65040:0 65060:1 35280:64999:58941 58941:1002:3702 58941:1900:0 58941:1903:1.
+
+Abnormally large/small prefixes with most origin ASNs per prefix: 29 large/small prefix(es) had 2 origin ASNs.
+Prefix 185.253.228.237/32 from origin ASN(s) AS201953 (INTERKA) AS65400
+Prefix 186.251.111.12/32 from origin ASN(s) AS23456 AS263565
+Prefix 152.32.193.36/32 from origin ASN(s) AS135377 (UCLOUD-HK-AS-AP) AS23456
+Prefix 160.124.111.230/32 from origin ASN(s) AS23456 AS64050 (BCPL-SG)
+Prefix 186.251.108.99/32 from origin ASN(s) AS263565 AS23456
+Prefix 185.104.248.27/32 from origin ASN(s) AS50113 (SuperServersDatacenter) AS24429 (Taobao)
+Prefix 185.104.248.26/32 from origin ASN(s) AS50113 (SuperServersDatacenter) AS24429 (Taobao)
+Prefix 154.213.106.146/32 from origin ASN(s) AS23456 AS64050 (BCPL-SG)
+Prefix 103.163.61.128/25 from origin ASN(s) AS23456 AS141752 (ASTCRM-AS-AP)
+Prefix 154.215.79.213/32 from origin ASN(s) AS64050 (BCPL-SG) AS23456
+Prefix 45.90.3.184/32 from origin ASN(s) AS203140 (NETUS) AS65000
+Prefix 154.214.213.46/32 from origin ASN(s) AS23456 AS64050 (BCPL-SG)
+Prefix 188.241.25.25/32 from origin ASN(s) AS50607 (EPIX-KTW-GlobalMix) AS202805 (I-TEL-AS)
+Prefix 185.104.248.185/32 from origin ASN(s) AS50113 (SuperServersDatacenter) AS24429 (Taobao)
+Prefix 154.216.110.215/32 from origin ASN(s) AS23456 AS64050 (BCPL-SG)
+Prefix 156.252.80.33/32 from origin ASN(s) AS64050 (BCPL-SG) AS23456
+Prefix 185.165.151.241/32 from origin ASN(s) AS201925 (EPIX-Epinet) AS50607 (EPIX-KTW-GlobalMix)
+Prefix 45.90.2.67/32 from origin ASN(s) AS65000 AS203140 (NETUS)
+Prefix 185.253.231.83/32 from origin ASN(s) AS201953 (INTERKA) AS65400
+Prefix 95.215.233.35/32 from origin ASN(s) AS50607 (EPIX-KTW-GlobalMix) AS199846 (ComNet-Multimedia-AS)
+Prefix 138.97.21.214/32 from origin ASN(s) AS23456 AS264112
+Prefix 46.175.109.0/32 from origin ASN(s) AS197345 (ARKOM-AS) AS50607 (EPIX-KTW-GlobalMix)
+Prefix 46.175.109.76/32 from origin ASN(s) AS197345 (ARKOM-AS) AS50607 (EPIX-KTW-GlobalMix)
+Prefix 45.4.115.0/32 from origin ASN(s) AS266070 AS23456
+Prefix 94.246.183.26/31 from origin ASN(s) AS2851 (CentralIX) AS61955 (ColocationIX-AS)
+Prefix 2400:9800:b010:a7::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS17885 (JKTXLNET-AS-AP)
+Prefix 2400:9800:b010:a5::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS17885 (JKTXLNET-AS-AP)
+Prefix 2400:9800:b010:1c::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS17885 (JKTXLNET-AS-AP)
+Prefix 2400:9800:b010:1d::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS17885 (JKTXLNET-AS-AP)
+
+Most BGP advertisements per prefix: 1 prefix(es) had 231500 advertisements.
+Prefix(es): 89.30.150.0/23
+
+Most BGP updates per prefix: 1 prefix(es) had 234398 updates.
+Prefix(es): 89.30.150.0/23
+
+Most BGP withdraws per prefix: 1 prefix(es) had 50261 withdraws.
+Prefix(es): 67.211.53.0/24
+
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2208438 advertisements.
+Origin ASN(s): AS20473 (AS-CHOOPA)
+
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 1786431 advertisements.
+Peer ASN(s): AS6667 (EUNET-FINLAND)
+
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 1842447 updates.
+Peer ASN(s): AS6667 (EUNET-FINLAND)
+
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 156125 withdraws.
+Peer ASN(s): AS148968 (FALCORE-AS-AP)
+
+Most origin ASNs per prefix: 1 prefix(es) had 27 origin ASNs.
+Prefix 156.154.112.0/24 from origin ASN(s) AS19905 (ULTRADDOS) AS397232 (ULTRADNS) AS397215 (ULTRADNS) AS397237 (ULTRADNS) AS397238 (ULTRADNS) AS397234 (ULTRADNS) AS397239 (ULTRADNS) AS397241 (ULTRADNS) AS397227 (ULTRADNS) AS397223 (ULTRADNS) AS397229 (ULTRADNS) AS397240 (ULTRADNS) AS397218 (ULTRADNS) AS397231 (ULTRADNS) AS397242 (ULTRADNS) AS397224 (ULTRADNS) AS397213 (ULTRADNS) AS397220 (ULTRADNS) AS23456 AS397221 (ULTRADNS) AS397230 (ULTRADNS) AS397222 (ULTRADNS) AS397233 (ULTRADNS) AS397226 (ULTRADNS) AS397217 (ULTRADNS) AS397235 (ULTRADNS) AS397228 (ULTRADNS)
+
+Most unknown attributes per prefix: 1873 prefix(es) had 1 unknown attribute(s).
+Prefix 36.83.176.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.77.224.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.77.240.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.210.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.211.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.251.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.0.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.34.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.40.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.48.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.96.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.0.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.8.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.188.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.48.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.80.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.140.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.248.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.102.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.112.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.49.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.50.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.51.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.64.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.70.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.92.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.112.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.8.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.98.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.88.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.83.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.0.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.150.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.104.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.112.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.112.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.32.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.36.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.44.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.46.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.92.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.94.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.112.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.124.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.126.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.116.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.88.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.108.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.36.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.40.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.200.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.154.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.160.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.163.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.172.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.176.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.180.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.182.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.184.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.188.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.218.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.228.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.234.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.236.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.238.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.240.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.242.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.244.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.3.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.2.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.3.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.12.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.20.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.24.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.252.128.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.192.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.56.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.116.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.75.164.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.75.168.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.75.176.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.85.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.85.104.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.150.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.144.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.148.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.150.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.151.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.72.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.108.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.112.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.160.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.162.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.176.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.190.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.240.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.40.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.44.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.48.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.56.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.96.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.120.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.128.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.75.0.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.160.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.168.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.172.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.209.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.218.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.52.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.60.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.90.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.85.86.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.16.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.44.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.76.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.20.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.60.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.176.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.238.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.240.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.242.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.18.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.38.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.39.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.73.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.74.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.75.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.86.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.95.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.224.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.232.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.240.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.248.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.24.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.30.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.76.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.0.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.4.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.14.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.116.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.120.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.216.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.222.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.0.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.4.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.6.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.12.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.112.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.114.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.116.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.30.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.61.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.192.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.200.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.0.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.14.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.47.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.48.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.152.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.168.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.212.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.246.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.5.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.40.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.42.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.44.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.46.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.56.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.88.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.94.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.95.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.96.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.114.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.224.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.228.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.5.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.6.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.252.224.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.40.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.44.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.76.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.94.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 222.124.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.24.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.68.40.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.92.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.104.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.108.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.56.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.82.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.88.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.162.92.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.96.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.112.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.113.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.114.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.116.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.144.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.160.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.165.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.168.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.222.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.224.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.226.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.246.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.248.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.250.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.252.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.254.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.255.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.251.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.76.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.96.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.104.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.130.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.132.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.216.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.224.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.232.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.240.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.0.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.24.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.88.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.96.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.112.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.168.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.176.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.184.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.208.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.224.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.132.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.208.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.77.20.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.77.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.28.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.164.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.176.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.213.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.54.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.62.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.112.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.116.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.83.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.76.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.112.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.128.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.232.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.60.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.40.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.44.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.47.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.50.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.66.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.118.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.122.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.124.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.212.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.248.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.36.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.37.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.70.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.79.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.82.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.87.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.91.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.164.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.10.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.12.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.50.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.58.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.137.220.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.120.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.124.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.172.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.186.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.246.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.247.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.20.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.24.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.28.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.30.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.56.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.62.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.68.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.76.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.78.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.108.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 118.96.110.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.240.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.252.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.254.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.160.255.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.18.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.40.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.96.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.126.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.132.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.133.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.134.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.152.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.161.160.0/19 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.165.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.20.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.22.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.24.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.26.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.28.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.86.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.144.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.152.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.166.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.76.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.112.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.118.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.144.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.148.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.156.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.160.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.164.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.168.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.172.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.174.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.176.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.184.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.186.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.188.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.208.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.228.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.236.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.240.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.242.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.244.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.246.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.252.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.242.254.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.24.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.44.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.46.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.66.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.76.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.78.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.80.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.84.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.86.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.88.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.94.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.144.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.243.153.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.104.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.124.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.184.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.186.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.192.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.196.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.200.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.208.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.212.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.216.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.220.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.222.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.197.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.252.32.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.220.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.224.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.240.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.248.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.0.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.8.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.80.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.144.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.160.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.76.112.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.96.0/19 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.152.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.186.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.188.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.64.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.96.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.112.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.128.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.144.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.160.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.176.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.184.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.186.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.188.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.192.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.200.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.206.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.248.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.76.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.2.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.36.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.38.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.104.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.184.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.216.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.85.16.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.57.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.98.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.120.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.92.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.198.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.233.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.94.234.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.120.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.160.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.164.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.168.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.175.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.176.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.177.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.178.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.180.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.182.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.183.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.184.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.200.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.202.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.210.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.224.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.228.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.232.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.236.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.240.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.242.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.244.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.246.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.247.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.248.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.249.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.250.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.10.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.13.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.25.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.28.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.40.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.44.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.46.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.48.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.49.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.50.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.51.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.56.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.57.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.58.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.59.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.60.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.62.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.63.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.68.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.81.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.82.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.163.168.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.163.218.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.112.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.120.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.124.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.128.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.144.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.216.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.218.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.222.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.240.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.248.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.250.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.252.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.254.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.255.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.24.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.26.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.28.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.30.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.32.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.36.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.40.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.68.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.0.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.148.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.150.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.4.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.8.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.16.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.186.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.224.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.226.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.10.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.16.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.18.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.54.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.56.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.60.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.76.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.78.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.80.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.81.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.82.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.83.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.96.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.100.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.102.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.104.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.106.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.108.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.112.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.114.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.116.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.118.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.120.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.124.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.126.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.157.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.158.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.159.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.161.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.162.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.164.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.166.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.168.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.172.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.216.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.218.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.220.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.224.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.232.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.236.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.238.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.239.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.240.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.241.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.242.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.248.48.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.43.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.44.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.251.80.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.251.96.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.251.112.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.80.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.254.40.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.254.48.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.128.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.176.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.148.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.136.233.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.71.104.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.160.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.168.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.176.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.208.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.216.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.73.218.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.24.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.32.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.48.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.96.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.100.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.104.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.112.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.192.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.74.208.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.78.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.79.200.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.79.224.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.80.56.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.81.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.16.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.24.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.74.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.120.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.144.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.40.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.96.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.101.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.102.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.85.88.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.52.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 61.5.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.185.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.207.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.208.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.214.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.216.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.217.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.220.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.238.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.138.241.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.1.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.2.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.3.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.4.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.12.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.14.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.15.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.20.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.24.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 110.139.26.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.163.254.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.32.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.48.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.64.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.72.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.80.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.94.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.125.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.126.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.127.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.220.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.224.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.164.253.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.11.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.12.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.213.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.241.217.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.245.124.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.228.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.236.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.240.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.246.248.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.0.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.1.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.2.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.3.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.8.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.12.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.14.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.20.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.24.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.32.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.36.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.37.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.38.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.39.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.40.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.41.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.42.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.52.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.79.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.88.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.128.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.136.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.144.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.152.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.156.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.160.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.176.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.184.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.192.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.202.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.203.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.204.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.205.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.206.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.207.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.208.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.212.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.244.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.250.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.247.252.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.249.232.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.32.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.48.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.144.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.253.168.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.64.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.69.80.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.32.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.64.0/20 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.92.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.70.136.0/21 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.84.58.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.82.72.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.109.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 125.167.180.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 180.244.240.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.83.248.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 119.30.42.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 203.98.227.0/24 from origin ASN(s) AS141368 (ICT-NR-AS-AP) has attribute(s) {255}
+Prefix 37.111.235.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 103.49.173.0/24 from origin ASN(s) AS140504 (DIGICELNAURU-AS-AP) has attribute(s) {255}
+Prefix 103.49.174.0/23 from origin ASN(s) AS140504 (DIGICELNAURU-AS-AP) has attribute(s) {255}
+Prefix 43.230.6.0/24 from origin ASN(s) AS140504 (DIGICELNAURU-AS-AP) has attribute(s) {255}
+Prefix 103.20.124.0/24 from origin ASN(s) AS140504 (DIGICELNAURU-AS-AP) has attribute(s) {255}
+Prefix 2804:18:6888::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:6820::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:7028::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:6828::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:7020::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:6850::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:870::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:f0::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:850::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:18b8::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:f8::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:10c0::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:10c8::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:18c8::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:810::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:18c0::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:10::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1050::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:18b0::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:128::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:30::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:838::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1128::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:10f0::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1068::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1090::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1098::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:830::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:120::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1060::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1860::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:38::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 2804:18:1120::/45 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 37.111.199.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.201.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.203.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 131.221.112.0/22 from origin ASN(s) AS263701 (RGO SOMOS CABLE, C.A.) has attribute(s) {255}
+Prefix 143.0.96.0/22 from origin ASN(s) AS263701 (RGO SOMOS CABLE, C.A.) has attribute(s) {255}
+Prefix 119.30.34.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.234.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.236.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 123.108.242.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.37.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.208.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 123.108.240.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 123.108.243.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 202.56.4.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 202.56.5.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.43.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 123.108.241.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.217.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.39.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.32.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.36.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.33.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.44.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.233.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.45.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 2001:448a:510e::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5105::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5103::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:510a::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5109::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5108::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5107::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5101::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5102::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:510f::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5104::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:510d::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:510c::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5106::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:510b::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512f::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512e::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512d::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512c::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512b::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:512a::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5129::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5128::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5127::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5126::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5125::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5124::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5123::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5122::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5121::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c7::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c8::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c3::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50cc::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50cb::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c2::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c1::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50ce::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50cd::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50ca::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c9::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c4::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c5::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50c6::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:50cf::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514d::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514c::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5144::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514b::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514a::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5147::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5146::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514f::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:514e::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5145::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5142::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5149::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5148::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5141::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:5143::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1087::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1083::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1084::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108a::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1089::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1082::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1085::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1088::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108b::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1086::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108c::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108f::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108d::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:108e::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2001:448a:1081::/48 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 2403:ae80::/32 from origin ASN(s) AS140504 (DIGICELNAURU-AS-AP) has attribute(s) {255}
+Prefix 118.98.253.0/24 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 91.201.5.0/24 from origin ASN(s) AS208800 (eoscloud) has attribute(s) {255}
+Prefix 202.56.7.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 91.201.4.0/24 from origin ASN(s) AS208800 (eoscloud) has attribute(s) {255}
+Prefix 2400:c600:3540::/44 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:68::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:8::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:39::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:69::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:18::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:58::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:49::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:4c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:48::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:59::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:5d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:6b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 203.202.235.0/24 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 129.78.0.0/16 from origin ASN(s) AS23719 (USYD-AS-AP) has attribute(s) {20}
+Prefix 37.111.193.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.216.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.218.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.35.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.46.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 39.37.224.0/19 from origin ASN(s) AS17557 (PKTELECOM-AS-PK) has attribute(s) {255}
+Prefix 200.35.88.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 37.111.196.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 39.36.0.0/16 from origin ASN(s) AS17557 (PKTELECOM-AS-PK) has attribute(s) {255}
+Prefix 37.111.205.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 202.56.6.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.204.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.192.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.38.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.197.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 2402:1840::/32 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 2001:fb1:f9::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:fd::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:ee::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:149::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:f8::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:fc::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:119::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:98::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2402:1940::/32 from origin ASN(s) AS38198 (DIGICELNET-TO) has attribute(s) {255}
+Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
+Prefix 179.229.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.90.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.90.160.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.97.240.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.144.224.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.144.192.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.169.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.173.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.231.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.247.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.117.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.168.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 152.242.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.171.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.211.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 186.166.151.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 36.90.226.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.122.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.32.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.194.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.248.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 103.20.232.0/23 from origin ASN(s) AS132429 (DIGICELVANUATU-VU) has attribute(s) {255}
+Prefix 103.75.20.0/24 from origin ASN(s) AS132429 (DIGICELVANUATU-VU) has attribute(s) {255}
+Prefix 202.61.106.0/23 from origin ASN(s) AS132429 (DIGICELVANUATU-VU) has attribute(s) {255}
+Prefix 45.117.240.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 103.58.20.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 202.151.16.0/20 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 176.28.199.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.239.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.109.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 95.141.208.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.209.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.210.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.211.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.212.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.213.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.214.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.215.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.217.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.218.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.219.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.220.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.221.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 95.141.223.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.144.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.145.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.148.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.149.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.152.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.153.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 185.160.238.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.203.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.204.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.205.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.206.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.207.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.128.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.129.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.130.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.131.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.132.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.133.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.134.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.135.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.142.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.143.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.146.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.147.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.150.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.151.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 185.160.239.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.0.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.1.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.2.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.3.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.4.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.5.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.6.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.7.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.8.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.9.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 179.20.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 2402:e740::/32 from origin ASN(s) AS9405 (TPS-CN-AS) has attribute(s) {255}
+Prefix 2001:fb1:189::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:129::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:169::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:bb::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:da::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:de::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:18a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:ed::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:178::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2407:2800::/32 from origin ASN(s) AS38227 (CSLSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 179.21.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 179.45.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.166.146.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.184.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.186.64.0/18 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 49.156.48.0/24 from origin ASN(s) AS55885 (ISP-NU) has attribute(s) {255}
+Prefix 49.156.48.0/22 from origin ASN(s) AS55885 (ISP-NU) has attribute(s) {255}
+Prefix 49.156.49.0/24 from origin ASN(s) AS55885 (ISP-NU) has attribute(s) {255}
+Prefix 49.156.50.0/24 from origin ASN(s) AS55885 (ISP-NU) has attribute(s) {255}
+Prefix 49.156.51.0/24 from origin ASN(s) AS55885 (ISP-NU) has attribute(s) {255}
+Prefix 176.29.123.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.150.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.158.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.162.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.165.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.169.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.173.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.177.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.181.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.185.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.189.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.193.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.197.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.201.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.222.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.223.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.245.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.246.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.247.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.248.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.253.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.254.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.255.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.1.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.2.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.3.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.4.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.121.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.148.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.156.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.160.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.163.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.167.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.171.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.175.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.179.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.183.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.187.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.191.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.195.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.196.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.199.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.200.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.251.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.252.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.24.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.25.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.26.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.27.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.28.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.29.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.56.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.57.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.110.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.111.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.112.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.113.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.120.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.122.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.147.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.149.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.155.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.157.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.159.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.161.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.164.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.166.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.168.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.170.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.172.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.174.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.176.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.178.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.180.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.182.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.184.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.186.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.188.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.190.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.192.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.194.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.198.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.202.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.204.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.15.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.16.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.17.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.18.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.20.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.19.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 165.78.0.0/21 from origin ASN(s) AS12302 (Vodafone_Ro) has attribute(s) {255}
+Prefix 103.73.108.0/22 from origin ASN(s) AS132528 (DAPL-AS-AP) has attribute(s) {255}
+Prefix 162.158.150.0/24 from origin ASN(s) AS13335 (CLOUDFLARENET) has attribute(s) {255}
+Prefix 36.88.96.0/19 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.56.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.156.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.162.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.164.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.176.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.220.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.76.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.214.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.218.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 37.111.195.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.198.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 119.30.41.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.202.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 37.111.219.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 200.16.95.0/24 from origin ASN(s) AS262176 (BANCO EXTERIOR) has attribute(s) {255}
+Prefix 186.24.16.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.72.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.84.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.96.0/21 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.184.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.25.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.116.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.32.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.48.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 202.43.8.0/22 from origin ASN(s) AS38198 (DIGICELNET-TO) has attribute(s) {255}
+Prefix 202.43.12.0/23 from origin ASN(s) AS38198 (DIGICELNET-TO) has attribute(s) {255}
+Prefix 202.43.14.0/24 from origin ASN(s) AS38198 (DIGICELNET-TO) has attribute(s) {255}
+Prefix 200.31.138.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 103.137.129.0/24 from origin ASN(s) AS135647 (AFL-AS-AP) has attribute(s) {255}
+Prefix 186.185.80.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.48.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.224.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.240.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 2001:fb1:db::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:df::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:ec::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:fb::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:ff::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:118::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 103.143.149.0/24 from origin ASN(s) AS139679 (OEC-AS-AP) has attribute(s) {255}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 187.90.224.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.202.184.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.215.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.144.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.167.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.246.64.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.98.16.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.82.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.15.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.142.142.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.229.108.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.226.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.0.116.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.15.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.207.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.142.138.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.229.98.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.213.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.165.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.172.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.224.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.192.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.81.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.81.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.82.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.161.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.161.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.166.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.175.192.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.230.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.96.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.224.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.98.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.26.224.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.210.192.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.229.104.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.60.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.63.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.168.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.168.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.199.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.214.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.101.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.116.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.119.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.130.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.148.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.175.152.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.175.158.0/24 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.0.112.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 200.229.100.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.24.240.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.25.96.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.26.96.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.77.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.77.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.78.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.173.240.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.174.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.175.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.175.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.197.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.215.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.89.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.144.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.145.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.150.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.151.208.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.163.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.166.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.173.160.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.173.176.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.175.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.175.224.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.224.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.224.144.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.245.0.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.1.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.96.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.97.48.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.98.0.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 152.248.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 152.253.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 152.254.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.78.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.118.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.118.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.146.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.146.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.146.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.147.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.147.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.147.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.147.160.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.147.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.160.64.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.163.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.163.64.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.163.96.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.163.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.173.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.173.160.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.199.128.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.199.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 177.213.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.84.224.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.84.240.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.89.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.114.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.114.128.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.147.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.151.0.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.151.32.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.151.224.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.151.232.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.163.192.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.163.208.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.163.224.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.163.240.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.165.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.172.128.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.172.160.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.173.128.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.173.144.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.224.128.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.226.192.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.0.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.32.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.91.64.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 187.116.0.0/18 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.0.172.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.96.240.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.96.248.0/22 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.96.252.0/23 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.97.0.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.97.32.0/20 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.98.96.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.98.160.0/19 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.202.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 189.0.184.0/21 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 179.171.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 191.194.0.0/17 from origin ASN(s) AS26599 has attribute(s) {255}
+Prefix 165.78.128.0/21 from origin ASN(s) AS12302 (Vodafone_Ro) has attribute(s) {255}
+Prefix 165.78.192.0/21 from origin ASN(s) AS12302 (Vodafone_Ro) has attribute(s) {255}
+Prefix 202.0.158.0/24 from origin ASN(s) AS141695 (PACIFICCOMMUNITY-AS-AP) has attribute(s) {255}
+Prefix 186.24.12.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.32.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.66.0/23 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.144.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.188.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.192.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 161.140.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 161.212.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.0.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.0.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.140.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.166.0.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.8.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.176.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.112.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.68.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.160.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 36.90.228.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.88.224.0/19 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.48.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.118.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.166.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.168.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.170.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.180.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.182.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 203.26.184.0/24 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {21}
+Prefix 186.185.160.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.92.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 179.44.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.31.128.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.76.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.124.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.192.0/18 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.166.137.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.80.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.208.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 45.117.244.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 103.1.180.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 103.75.21.0/24 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 103.101.240.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 202.43.15.0/24 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 202.129.228.0/22 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 203.190.216.0/24 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 103.63.27.0/24 from origin ASN(s) AS134376 (CSLSAMOA-IX-AS-AP) has attribute(s) {255}
+Prefix 103.131.62.0/24 from origin ASN(s) AS38800 (DIGICELSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 103.131.63.0/24 from origin ASN(s) AS38800 (DIGICELSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 182.50.168.0/22 from origin ASN(s) AS38800 (DIGICELSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 202.87.208.0/22 from origin ASN(s) AS38800 (DIGICELSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 203.99.156.0/22 from origin ASN(s) AS38800 (DIGICELSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 178.77.136.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.137.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.138.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.139.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.140.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 178.77.141.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.10.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.11.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.12.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.13.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.14.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.15.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.16.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.17.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.18.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.19.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.20.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.21.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.22.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.23.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.24.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.25.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.26.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.27.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.28.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.29.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.30.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.57.31.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.201.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.17.202.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 93.191.178.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 93.191.179.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.64.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.65.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.66.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.67.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.68.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.69.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.70.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.71.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.72.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.73.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.74.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.75.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.76.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.77.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.78.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.79.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.80.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.81.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.82.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.83.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.84.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.85.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.86.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.87.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.88.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.89.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.90.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.91.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.92.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.93.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.94.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 37.123.95.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 186.185.16.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 2402:ae80::/32 from origin ASN(s) AS132528 (DAPL-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:38::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:3e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:19::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:1d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:128::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:12a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:168::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16c::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16a::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:16e::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:d8::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:dc::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:99::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:9f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:d9::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:dd::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:fa::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:fe::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:11f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:ef::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:179::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17d::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17b::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2001:fb1:17f::/48 from origin ASN(s) AS17552 (TRUEONLINE-AS-AP) has attribute(s) {255}
+Prefix 2400:6d00::/32 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 2401:d7c0::/32 from origin ASN(s) AS45355 (DIGICELPACIFIC-1-AP) has attribute(s) {255}
+Prefix 2401:7a40::/32 from origin ASN(s) AS132429 (DIGICELVANUATU-VU) has attribute(s) {255}
+Prefix 176.28.204.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.205.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.206.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.207.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.208.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.211.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.216.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.218.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 188.247.95.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.87.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.115.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.116.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.117.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.118.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.119.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.140.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.144.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.133.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.134.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.135.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.137.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.149.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.159.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.160.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.169.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.170.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.171.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.178.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.179.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.194.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.234.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.236.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.237.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.238.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.241.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.242.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.243.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.8.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.9.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.10.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.127.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.128.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.129.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.130.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.131.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.132.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.136.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.143.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 185.109.194.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.128.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.129.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.130.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.136.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.138.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.139.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.141.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.152.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.173.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.174.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.182.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.183.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.193.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.224.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.225.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.226.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.230.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.231.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.233.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.240.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.5.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.6.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.7.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.11.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.12.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.32.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.33.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.36.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.37.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.40.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.41.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.44.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.45.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.46.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.48.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.49.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.52.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.53.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.60.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.61.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.62.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.63.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.64.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.65.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.66.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.72.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.73.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.74.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.75.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.82.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.83.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.86.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.124.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.133.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.137.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.141.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.145.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 185.109.193.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 185.109.195.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.144.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.145.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.146.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.147.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.150.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.151.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.154.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.155.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.164.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.165.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.166.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.167.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.168.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.185.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.186.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.187.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.188.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.189.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.190.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.191.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.192.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.125.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.134.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.138.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.106.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.108.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.110.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.111.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.118.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 87.238.130.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 87.238.134.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.43.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.44.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.46.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.47.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.54.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.62.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.131.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.153.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.161.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.227.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.13.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.14.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.39.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.42.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.47.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.67.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.68.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.69.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.70.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.71.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.76.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.77.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.98.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.99.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.100.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.101.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.102.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.103.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.104.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.105.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.106.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.107.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.126.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.135.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.139.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.142.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.146.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.57.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.58.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.59.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 87.238.133.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 188.247.94.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.117.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.48.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.50.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.61.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.132.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.212.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.213.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.175.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 165.78.64.0/21 from origin ASN(s) AS12302 (Vodafone_Ro) has attribute(s) {255}
+Prefix 186.24.4.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.64.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.24.250.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.64.0/23 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 181.185.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.166.131.0/24 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.96.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 186.185.128.0/20 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.108.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.35.120.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 36.90.68.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.72.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.210.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.88.32.0/19 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.84.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.232.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.252.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.8.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.64.0/22 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 36.90.230.0/23 from origin ASN(s) AS7713 (telkomnet-as-ap) has attribute(s) {255}
+Prefix 103.178.195.0/24 from origin ASN(s) AS149429 (RBOF-AS-BRS) has attribute(s) {255}
+Prefix 119.30.47.0/24 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 200.71.136.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 37.123.64.0/19 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 123.176.72.0/22 from origin ASN(s) AS38227 (CSLSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 123.176.76.0/22 from origin ASN(s) AS38227 (CSLSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 182.50.72.0/22 from origin ASN(s) AS38227 (CSLSAMOA-WS-AS-AP) has attribute(s) {255}
+Prefix 185.160.237.0/24 from origin ASN(s) AS42912 (XOLJO) has attribute(s) {255}
+Prefix 176.29.81.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.80.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.79.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.78.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.59.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.58.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.31.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.30.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.200.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.97.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.96.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.95.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.94.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.93.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.92.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.91.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.90.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.89.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.88.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.85.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.84.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.55.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.54.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.51.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.50.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.43.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.38.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.35.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.34.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.23.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.235.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.232.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.229.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.228.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.221.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.220.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.219.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.217.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.215.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.214.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.210.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.209.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.203.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.202.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.198.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.197.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.196.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.195.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.181.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.180.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.177.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.176.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.172.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.158.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.157.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.148.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.143.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.142.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.28.140.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 94.142.45.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.107.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 46.32.105.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 176.29.22.0/24 from origin ASN(s) AS48832 (Zain-Jo) has attribute(s) {255}
+Prefix 203.32.107.0/24 from origin ASN(s) AS23719 (USYD-AS-AP) has attribute(s) {20}
+Prefix 203.32.106.0/24 from origin ASN(s) AS23719 (USYD-AS-AP) has attribute(s) {20}
+Prefix 2001:250:80b::/48 from origin ASN(s) AS24348 (CNGI-BJ-IX2-AS-AP) has attribute(s) {255}
+Prefix 2001:da8:232::/48 from origin ASN(s) AS24348 (CNGI-BJ-IX2-AS-AP) has attribute(s) {255}
+Prefix 2001:250:801::/48 from origin ASN(s) AS24348 (CNGI-BJ-IX2-AS-AP) has attribute(s) {255}
+Prefix 2001:da8:a400::/48 from origin ASN(s) AS24348 (CNGI-BJ-IX2-AS-AP) has attribute(s) {255}
+Prefix 2001:250:7808::/48 from origin ASN(s) AS24372 (CNGI-HRB-IX-AS-AP) has attribute(s) {255}
+Prefix 2001:da8:ce::/48 from origin ASN(s) AS138374 (CNGI-TYN-IX-AS-AP) has attribute(s) {255}
+Prefix 210.28.144.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 210.28.128.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 210.44.128.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 210.44.144.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 202.192.16.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 202.192.0.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 218.192.240.0/20 from origin ASN(s) AS4538 (ERX-CERNET-BKB) has attribute(s) {255}
+Prefix 186.166.128.0/17 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 200.71.152.0/22 from origin ASN(s) AS6306 (TELEFONICA VENEZOLANA, C.A.) has attribute(s) {255}
+Prefix 2400:c600:1333::/48 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 2400:c600:1331::/48 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 2400:c600:1334::/48 from origin ASN(s) AS24389 (GRAMEENPHONE-AS-AP) has attribute(s) {255}
+Prefix 138.186.5.0/24 from origin ASN(s) AS264660 (MESH COMUNICACIONES C.A.) has attribute(s) {255}
+

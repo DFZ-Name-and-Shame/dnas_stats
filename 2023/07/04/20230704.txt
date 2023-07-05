@@ -1,6 +1,6 @@
-For 2023/07/04 23931736 BGP UPDATES were parsed. 23412139 UPDATES contained prefix advertisements. 1064340 UPDATES contained prefix withdraws.
+For 2023/07/04 29015611 BGP UPDATES were parsed. 28395795 UPDATES contained prefix advertisements. 1280835 UPDATES contained prefix withdraws.
 
-Prefixes with most bogon origin ASNs per prefix: 7 prefix(es) had 2 bogon origin ASNs.
+Prefixes with most bogon origin ASNs per prefix: 8 prefix(es) had 2 bogon origin ASNs.
 Prefix 206.119.80.0/24 from origin ASN(s) AS65000 AS23456
 Prefix 138.97.225.0/24 from origin ASN(s) AS65065 AS23456
 Prefix 138.97.224.0/24 from origin ASN(s) AS65065 AS23456
@@ -8,6 +8,7 @@ Prefix 103.56.37.0/24 from origin ASN(s) AS65544 AS23456
 Prefix 154.91.36.0/24 from origin ASN(s) AS23456 AS65539
 Prefix 154.23.180.0/24 from origin ASN(s) AS23456 AS65000
 Prefix 38.181.23.0/24 from origin ASN(s) AS65000 AS23456
+Prefix 5.59.77.0/24 from origin ASN(s) AS65555 AS23456
 
 Bogon prefixes with most origin ASNs per prefix: 37 bogon prefix(es) had 1 origin ASNs.
 Prefix 172.17.1.80/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
@@ -61,34 +62,40 @@ Abnormally large/small prefixes with most origin ASNs per prefix: 2 large/small 
 Prefix 217.173.170.10/32 from origin ASN(s) AS30851 (SILEMAN-RUDASL-AS) AS23456 AS211315 (SILEMAN-HA)
 Prefix 45.136.12.181/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 164383 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 199039 advertisements.
 Prefix(es): 2607:ff00:b00::/40
 
-Most BGP updates per prefix: 1 prefix(es) had 142513 updates.
+Most BGP updates per prefix: 1 prefix(es) had 174020 updates.
 Prefix(es): 2607:ff00:b00::/40
 
-Most BGP withdraws per prefix: 1 prefix(es) had 58300 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 70563 withdraws.
 Prefix(es): 67.211.53.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 740216 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 905036 advertisements.
 Origin ASN(s): AS4788 (TTSSB-MY)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 6525866 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7856060 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 6554509 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 7890519 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 121261 withdraws.
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 145751 withdraws.
 Peer ASN(s): AS13030 (INIT7)
 
 Most origin ASNs per prefix: 1 prefix(es) had 20 origin ASNs.
 Prefix 156.154.64.0/24 from origin ASN(s) AS19905 (SECURITYSERVICES) AS397215 (SECURITYSERVICES) AS23456 AS397233 (SECURITYSERVICES) AS397241 (SECURITYSERVICES) AS397239 (SECURITYSERVICES) AS397229 (SECURITYSERVICES) AS397240 (SECURITYSERVICES) AS397223 (SECURITYSERVICES) AS397227 (SECURITYSERVICES) AS397221 (SECURITYSERVICES) AS397231 (SECURITYSERVICES) AS397238 (SECURITYSERVICES) AS397232 (SECURITYSERVICES) AS397220 (SECURITYSERVICES) AS397224 (SECURITYSERVICES) AS397237 (SECURITYSERVICES) AS397222 (SECURITYSERVICES) AS397234 (SECURITYSERVICES) AS397226 (SECURITYSERVICES)
 
-Most unknown attributes per prefix: 5 prefix(es) had 1 unknown attribute(s).
+Most unknown attributes per prefix: 11 prefix(es) had 1 unknown attribute(s).
 Prefix 203.32.106.0/24 from origin ASN(s) AS23719 (USYD-AS-AP) has attribute(s) {20}
 Prefix 203.32.107.0/24 from origin ASN(s) AS23719 (USYD-AS-AP) has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 144.124.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 137.44.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 203.26.184.0/24 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {21}
+Prefix 203.14.116.0/23 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {243}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
 

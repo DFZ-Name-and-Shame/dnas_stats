@@ -1,0 +1,1036 @@
+For 2023/10/10 39001716 BGP UPDATES were parsed. 38386605 UPDATES contained prefix advertisements. 2845337 UPDATES contained prefix withdraws.
+
+Prefixes with most bogon origin ASNs per prefix: 361 prefix(es) had 1 bogon origin ASNs.
+Prefix 41.175.128.0/20 from origin ASN(s) AS64631
+Prefix 41.174.160.0/20 from origin ASN(s) AS64631
+Prefix 41.174.112.0/21 from origin ASN(s) AS64631
+Prefix 41.174.100.0/22 from origin ASN(s) AS64631
+Prefix 45.80.64.0/23 from origin ASN(s) AS65079
+Prefix 84.42.96.0/24 from origin ASN(s) AS64514
+Prefix 213.24.238.0/24 from origin ASN(s) AS65007
+Prefix 213.24.236.0/23 from origin ASN(s) AS65007
+Prefix 213.24.56.0/21 from origin ASN(s) AS65112
+Prefix 213.24.56.0/24 from origin ASN(s) AS65112
+Prefix 81.177.103.0/24 from origin ASN(s) AS65301
+Prefix 81.177.102.0/24 from origin ASN(s) AS65301
+Prefix 81.177.101.0/24 from origin ASN(s) AS65301
+Prefix 81.177.100.0/24 from origin ASN(s) AS65301
+Prefix 213.24.64.0/24 from origin ASN(s) AS64601
+Prefix 213.24.62.0/24 from origin ASN(s) AS64601
+Prefix 217.106.32.0/24 from origin ASN(s) AS65007
+Prefix 212.164.131.0/24 from origin ASN(s) AS65065
+Prefix 212.220.222.0/23 from origin ASN(s) AS65343
+Prefix 81.177.122.0/24 from origin ASN(s) AS65111
+Prefix 212.220.124.0/24 from origin ASN(s) AS65350
+Prefix 91.236.113.0/24 from origin ASN(s) AS4230000215
+Prefix 213.59.242.0/24 from origin ASN(s) AS65301
+Prefix 213.59.236.0/24 from origin ASN(s) AS65301
+Prefix 213.59.235.0/24 from origin ASN(s) AS65301
+Prefix 195.68.252.0/23 from origin ASN(s) AS64523
+Prefix 213.59.226.0/24 from origin ASN(s) AS65079
+Prefix 213.59.225.0/24 from origin ASN(s) AS65079
+Prefix 213.59.224.0/24 from origin ASN(s) AS65079
+Prefix 195.19.24.0/24 from origin ASN(s) AS65217
+Prefix 195.19.79.0/24 from origin ASN(s) AS65081
+Prefix 195.19.83.0/24 from origin ASN(s) AS65216
+Prefix 195.19.82.0/24 from origin ASN(s) AS65216
+Prefix 41.173.26.0/24 from origin ASN(s) AS65533
+Prefix 41.173.25.0/24 from origin ASN(s) AS65533
+Prefix 41.173.24.0/24 from origin ASN(s) AS65533
+Prefix 5.160.154.0/24 from origin ASN(s) AS65500
+Prefix 46.148.10.45/32 from origin ASN(s) AS65010
+Prefix 93.175.82.206/32 from origin ASN(s) AS65010
+Prefix 93.175.90.41/32 from origin ASN(s) AS65010
+Prefix 87.99.117.19/32 from origin ASN(s) AS65010
+Prefix 83.242.77.152/32 from origin ASN(s) AS65010
+Prefix 196.216.75.0/24 from origin ASN(s) AS65200
+Prefix 93.175.80.78/32 from origin ASN(s) AS65010
+Prefix 83.242.86.181/32 from origin ASN(s) AS65010
+Prefix 93.175.86.240/32 from origin ASN(s) AS65010
+Prefix 195.138.91.134/32 from origin ASN(s) AS65666
+Prefix 87.99.100.124/32 from origin ASN(s) AS65010
+Prefix 87.99.119.5/32 from origin ASN(s) AS65010
+Prefix 46.148.12.234/32 from origin ASN(s) AS65010
+Prefix 93.175.73.33/32 from origin ASN(s) AS65010
+Prefix 2804:88a0:fffe::/48 from origin ASN(s) AS65536
+Prefix 2a01:42e0:ff00::/40 from origin ASN(s) AS65556
+Prefix 93.175.76.154/32 from origin ASN(s) AS65010
+Prefix 195.138.83.0/32 from origin ASN(s) AS65666
+Prefix 87.99.102.148/32 from origin ASN(s) AS65010
+Prefix 185.253.230.235/32 from origin ASN(s) AS65400
+Prefix 93.175.71.28/32 from origin ASN(s) AS65010
+Prefix 46.148.11.53/32 from origin ASN(s) AS65010
+Prefix 93.175.72.161/32 from origin ASN(s) AS65010
+Prefix 93.175.74.170/32 from origin ASN(s) AS65010
+Prefix 83.242.70.67/32 from origin ASN(s) AS65010
+Prefix 93.175.76.104/32 from origin ASN(s) AS65010
+Prefix 83.242.87.140/32 from origin ASN(s) AS65010
+Prefix 93.175.88.11/32 from origin ASN(s) AS65010
+Prefix 87.99.98.61/32 from origin ASN(s) AS65010
+Prefix 193.203.209.238/32 from origin ASN(s) AS65010
+Prefix 212.180.17.0/24 from origin ASN(s) AS65154
+Prefix 212.180.11.0/24 from origin ASN(s) AS65154
+Prefix 84.233.201.0/24 from origin ASN(s) AS65534
+Prefix 46.148.15.209/32 from origin ASN(s) AS65010
+Prefix 83.242.93.20/32 from origin ASN(s) AS65010
+Prefix 46.148.7.124/32 from origin ASN(s) AS65010
+Prefix 93.175.82.81/32 from origin ASN(s) AS65010
+Prefix 208.250.59.0/24 from origin ASN(s) AS4260233229
+Prefix 213.193.155.0/24 from origin ASN(s) AS65534
+Prefix 195.138.65.42/32 from origin ASN(s) AS65666
+Prefix 85.238.105.161/32 from origin ASN(s) AS65666
+Prefix 93.175.81.66/32 from origin ASN(s) AS65010
+Prefix 87.99.97.159/32 from origin ASN(s) AS65010
+Prefix 193.106.87.33/32 from origin ASN(s) AS65010
+Prefix 93.175.85.55/32 from origin ASN(s) AS65010
+Prefix 45.130.2.46/32 from origin ASN(s) AS65666
+Prefix 87.99.99.208/32 from origin ASN(s) AS65010
+Prefix 2800:2b03:100::/40 from origin ASN(s) AS64501
+Prefix 193.106.85.14/32 from origin ASN(s) AS65010
+Prefix 83.242.85.39/32 from origin ASN(s) AS65010
+Prefix 83.242.78.59/32 from origin ASN(s) AS65010
+Prefix 195.138.92.161/32 from origin ASN(s) AS65666
+Prefix 62.16.16.216/32 from origin ASN(s) AS65666
+Prefix 93.175.87.176/32 from origin ASN(s) AS65010
+Prefix 83.242.76.8/32 from origin ASN(s) AS65010
+Prefix 93.175.91.166/32 from origin ASN(s) AS65010
+Prefix 193.106.85.254/32 from origin ASN(s) AS65010
+Prefix 87.99.111.18/32 from origin ASN(s) AS65010
+Prefix 38.47.233.0/24 from origin ASN(s) AS65000
+Prefix 93.175.90.50/32 from origin ASN(s) AS65010
+Prefix 93.175.85.233/32 from origin ASN(s) AS65010
+Prefix 93.175.76.82/32 from origin ASN(s) AS65010
+Prefix 212.19.134.0/24 from origin ASN(s) AS65252
+Prefix 185.253.231.237/32 from origin ASN(s) AS65400
+Prefix 2.73.0.0/16 from origin ASN(s) AS65414
+Prefix 2.72.0.0/16 from origin ASN(s) AS65414
+Prefix 212.154.167.0/24 from origin ASN(s) AS64622
+Prefix 212.154.174.0/24 from origin ASN(s) AS64605
+Prefix 212.154.211.0/24 from origin ASN(s) AS65511
+Prefix 164.115.251.0/24 from origin ASN(s) AS66666
+Prefix 185.253.231.11/32 from origin ASN(s) AS65400
+Prefix 185.253.230.250/32 from origin ASN(s) AS65400
+Prefix 93.175.73.212/32 from origin ASN(s) AS65010
+Prefix 185.253.231.158/32 from origin ASN(s) AS65400
+Prefix 83.242.77.179/32 from origin ASN(s) AS65010
+Prefix 185.253.231.137/32 from origin ASN(s) AS65400
+Prefix 195.138.83.145/32 from origin ASN(s) AS65666
+Prefix 185.253.231.177/32 from origin ASN(s) AS65400
+Prefix 185.253.231.27/32 from origin ASN(s) AS65400
+Prefix 93.175.89.229/32 from origin ASN(s) AS65010
+Prefix 185.253.231.65/32 from origin ASN(s) AS65400
+Prefix 185.253.231.63/32 from origin ASN(s) AS65400
+Prefix 85.238.97.114/32 from origin ASN(s) AS65666
+Prefix 83.242.71.112/32 from origin ASN(s) AS65010
+Prefix 195.138.76.222/32 from origin ASN(s) AS65666
+Prefix 193.178.51.233/32 from origin ASN(s) AS65666
+Prefix 87.99.97.58/32 from origin ASN(s) AS65010
+Prefix 185.253.231.28/32 from origin ASN(s) AS65400
+Prefix 185.253.231.220/32 from origin ASN(s) AS65400
+Prefix 119.151.64.0/20 from origin ASN(s) AS64520
+Prefix 83.242.76.66/32 from origin ASN(s) AS65010
+Prefix 195.138.82.181/32 from origin ASN(s) AS65666
+Prefix 93.175.79.92/32 from origin ASN(s) AS65010
+Prefix 130.0.33.157/32 from origin ASN(s) AS65666
+Prefix 185.253.231.149/32 from origin ASN(s) AS65400
+Prefix 195.138.76.182/32 from origin ASN(s) AS65666
+Prefix 45.156.36.251/32 from origin ASN(s) AS65666
+Prefix 185.253.231.181/32 from origin ASN(s) AS65400
+Prefix 41.72.98.0/24 from origin ASN(s) AS65262
+Prefix 185.253.231.51/32 from origin ASN(s) AS65400
+Prefix 93.175.77.243/32 from origin ASN(s) AS65010
+Prefix 195.138.83.195/32 from origin ASN(s) AS65666
+Prefix 87.99.98.93/32 from origin ASN(s) AS65010
+Prefix 62.16.20.57/32 from origin ASN(s) AS65666
+Prefix 83.242.70.133/32 from origin ASN(s) AS65010
+Prefix 195.138.73.50/32 from origin ASN(s) AS65666
+Prefix 194.124.37.0/24 from origin ASN(s) AS65536
+Prefix 85.238.98.132/32 from origin ASN(s) AS65666
+Prefix 185.253.230.106/32 from origin ASN(s) AS65400
+Prefix 45.130.2.182/32 from origin ASN(s) AS65666
+Prefix 93.175.75.205/32 from origin ASN(s) AS65010
+Prefix 93.175.91.181/32 from origin ASN(s) AS65010
+Prefix 195.110.50.46/32 from origin ASN(s) AS65000
+Prefix 185.177.242.195/32 from origin ASN(s) AS65666
+Prefix 195.138.93.86/32 from origin ASN(s) AS65666
+Prefix 85.238.96.87/32 from origin ASN(s) AS65666
+Prefix 195.110.50.64/32 from origin ASN(s) AS65000
+Prefix 2804:1194::/36 from origin ASN(s) AS65010
+Prefix 80.76.111.0/24 from origin ASN(s) AS64553
+Prefix 195.138.65.226/32 from origin ASN(s) AS65666
+Prefix 103.125.253.0/24 from origin ASN(s) AS65111
+Prefix 103.125.252.0/24 from origin ASN(s) AS65111
+Prefix 203.24.71.0/24 from origin ASN(s) AS65003
+Prefix 45.156.37.24/32 from origin ASN(s) AS65666
+Prefix 88.214.10.187/32 from origin ASN(s) AS65666
+Prefix 162.222.213.0/24 from origin ASN(s) AS4200000258
+Prefix 195.138.78.132/32 from origin ASN(s) AS65666
+Prefix 195.138.83.58/32 from origin ASN(s) AS65666
+Prefix 103.131.59.0/24 from origin ASN(s) AS65801
+Prefix 103.131.58.0/24 from origin ASN(s) AS65801
+Prefix 103.131.58.0/23 from origin ASN(s) AS65801
+Prefix 2801:19:c800::/48 from origin ASN(s) AS64500
+Prefix 193.106.87.188/32 from origin ASN(s) AS65010
+Prefix 185.253.228.186/32 from origin ASN(s) AS65400
+Prefix 185.198.0.196/32 from origin ASN(s) AS65000
+Prefix 185.198.0.243/32 from origin ASN(s) AS65000
+Prefix 83.242.89.42/32 from origin ASN(s) AS65010
+Prefix 45.194.23.0/24 from origin ASN(s) AS65000
+Prefix 200.94.67.0/24 from origin ASN(s) AS64501
+Prefix 46.148.8.55/32 from origin ASN(s) AS65010
+Prefix 38.47.196.0/24 from origin ASN(s) AS65000
+Prefix 38.47.235.0/24 from origin ASN(s) AS65000
+Prefix 180.254.32.0/21 from origin ASN(s) AS64501
+Prefix 36.90.224.0/23 from origin ASN(s) AS64501
+Prefix 36.90.186.0/23 from origin ASN(s) AS64501
+Prefix 36.90.222.0/23 from origin ASN(s) AS64501
+Prefix 36.90.220.0/23 from origin ASN(s) AS64503
+Prefix 154.91.36.0/24 from origin ASN(s) AS65539
+Prefix 185.30.118.0/23 from origin ASN(s) AS65005
+Prefix 62.105.142.32/28 from origin ASN(s) AS65543
+Prefix 62.231.15.96/27 from origin ASN(s) AS65545
+Prefix 95.163.159.0/24 from origin ASN(s) AS64776
+Prefix 109.235.191.0/24 from origin ASN(s) AS65005
+Prefix 180.242.244.0/23 from origin ASN(s) AS64505
+Prefix 36.90.182.0/23 from origin ASN(s) AS64503
+Prefix 61.5.100.0/22 from origin ASN(s) AS64500
+Prefix 180.242.246.0/23 from origin ASN(s) AS64505
+Prefix 194.154.64.112/30 from origin ASN(s) AS65538
+Prefix 159.138.76.0/24 from origin ASN(s) AS4227924871
+Prefix 83.242.88.176/32 from origin ASN(s) AS65010
+Prefix 185.253.231.96/32 from origin ASN(s) AS65400
+Prefix 93.175.87.116/32 from origin ASN(s) AS65010
+Prefix 185.226.112.217/32 from origin ASN(s) AS65666
+Prefix 5.59.77.0/24 from origin ASN(s) AS65555
+Prefix 93.175.74.255/32 from origin ASN(s) AS65010
+Prefix 93.175.90.109/32 from origin ASN(s) AS65010
+Prefix 83.242.72.130/32 from origin ASN(s) AS65010
+Prefix 2804:3244:21::/48 from origin ASN(s) AS65005
+Prefix 81.222.186.0/23 from origin ASN(s) AS4241496521
+Prefix 81.222.184.0/23 from origin ASN(s) AS4241496521
+Prefix 41.72.122.0/24 from origin ASN(s) AS65262
+Prefix 165.56.52.0/24 from origin ASN(s) AS65262
+Prefix 165.56.53.0/24 from origin ASN(s) AS65262
+Prefix 2804:3244:1b::/48 from origin ASN(s) AS65005
+Prefix 2804:3244:1d::/48 from origin ASN(s) AS65005
+Prefix 2804:3244:29::/48 from origin ASN(s) AS65008
+Prefix 2804:3244:20::/48 from origin ASN(s) AS65008
+Prefix 195.58.3.0/24 from origin ASN(s) AS65201
+Prefix 37.146.72.0/21 from origin ASN(s) AS65100
+Prefix 37.146.64.0/21 from origin ASN(s) AS65100
+Prefix 37.145.96.0/20 from origin ASN(s) AS65100
+Prefix 78.106.48.0/20 from origin ASN(s) AS65100
+Prefix 95.27.80.0/20 from origin ASN(s) AS65100
+Prefix 89.178.76.0/22 from origin ASN(s) AS65100
+Prefix 89.178.96.0/22 from origin ASN(s) AS65100
+Prefix 89.178.28.0/22 from origin ASN(s) AS65100
+Prefix 89.178.136.0/22 from origin ASN(s) AS65100
+Prefix 89.178.192.0/20 from origin ASN(s) AS65100
+Prefix 89.178.156.0/22 from origin ASN(s) AS65100
+Prefix 185.37.99.0/24 from origin ASN(s) AS65540
+Prefix 212.154.212.0/24 from origin ASN(s) AS64669
+Prefix 185.224.229.0/24 from origin ASN(s) AS65000
+Prefix 119.151.102.0/24 from origin ASN(s) AS64520
+Prefix 79.110.231.0/24 from origin ASN(s) AS65516
+Prefix 185.104.14.0/23 from origin ASN(s) AS65516
+Prefix 196.219.246.0/24 from origin ASN(s) AS65550
+Prefix 41.174.144.0/21 from origin ASN(s) AS65510
+Prefix 41.174.136.0/21 from origin ASN(s) AS65510
+Prefix 144.190.188.0/24 from origin ASN(s) AS64621
+Prefix 144.190.189.0/24 from origin ASN(s) AS64621
+Prefix 197.252.202.0/24 from origin ASN(s) AS65535
+Prefix 197.252.201.0/24 from origin ASN(s) AS65535
+Prefix 102.212.180.0/24 from origin ASN(s) AS64945
+Prefix 211.25.240.0/22 from origin ASN(s) AS65295
+Prefix 202.185.188.0/24 from origin ASN(s) AS65295
+Prefix 211.25.244.0/22 from origin ASN(s) AS65295
+Prefix 202.185.181.0/24 from origin ASN(s) AS65295
+Prefix 46.221.6.0/24 from origin ASN(s) AS65989
+Prefix 46.234.16.0/24 from origin ASN(s) AS65646
+Prefix 103.102.137.0/24 from origin ASN(s) AS84565
+Prefix 195.177.94.0/24 from origin ASN(s) AS65515
+Prefix 67.55.182.0/23 from origin ASN(s) AS65778
+Prefix 170.245.144.0/24 from origin ASN(s) AS65539
+Prefix 2a0c:a641::/32 from origin ASN(s) AS65540
+Prefix 2602:fce1::/48 from origin ASN(s) AS64512
+Prefix 80.92.59.0/24 from origin ASN(s) AS65350
+Prefix 2405:2300:ff02::/48 from origin ASN(s) AS65514
+Prefix 2405:2300:ff0c::/48 from origin ASN(s) AS65514
+Prefix 2405:2300:ff05::/48 from origin ASN(s) AS65514
+Prefix 78.109.235.0/24 from origin ASN(s) AS65500
+Prefix 70.39.15.0/24 from origin ASN(s) AS65777
+Prefix 124.197.238.0/24 from origin ASN(s) AS4202202181
+Prefix 2a03:32c0:23::/48 from origin ASN(s) AS64512
+Prefix 2a03:32c0:22::/48 from origin ASN(s) AS64512
+Prefix 124.197.233.0/24 from origin ASN(s) AS4202202056
+Prefix 202.162.27.0/24 from origin ASN(s) AS4202202181
+Prefix 202.171.60.0/24 from origin ASN(s) AS65535
+Prefix 80.84.144.0/24 from origin ASN(s) AS65001
+Prefix 185.60.178.0/24 from origin ASN(s) AS65001
+Prefix 185.60.179.0/24 from origin ASN(s) AS65001
+Prefix 171.79.176.0/20 from origin ASN(s) AS64995
+Prefix 171.79.160.0/20 from origin ASN(s) AS64995
+Prefix 187.252.8.0/24 from origin ASN(s) AS64713
+Prefix 187.252.7.0/24 from origin ASN(s) AS64713
+Prefix 187.252.6.0/24 from origin ASN(s) AS64713
+Prefix 106.220.60.0/22 from origin ASN(s) AS65425
+Prefix 106.220.56.0/22 from origin ASN(s) AS65425
+Prefix 167.167.107.0/24 from origin ASN(s) AS4230330000
+Prefix 106.216.96.0/20 from origin ASN(s) AS64944
+Prefix 192.122.171.0/24 from origin ASN(s) AS4259840080
+Prefix 202.12.91.0/24 from origin ASN(s) AS4259840080
+Prefix 171.79.144.0/20 from origin ASN(s) AS64996
+Prefix 171.79.128.0/20 from origin ASN(s) AS64996
+Prefix 161.162.40.0/23 from origin ASN(s) AS65355
+Prefix 198.208.255.0/24 from origin ASN(s) AS65420
+Prefix 198.208.209.0/24 from origin ASN(s) AS65420
+Prefix 183.255.124.0/24 from origin ASN(s) AS65000
+Prefix 161.162.42.0/23 from origin ASN(s) AS65355
+Prefix 2400:9800:440::/45 from origin ASN(s) AS65446
+Prefix 2400:9800:450::/45 from origin ASN(s) AS65446
+Prefix 2400:9800:430::/45 from origin ASN(s) AS65446
+Prefix 2400:9800:580::/45 from origin ASN(s) AS65375
+Prefix 2400:9800:480::/45 from origin ASN(s) AS65375
+Prefix 2400:9800:460::/45 from origin ASN(s) AS65375
+Prefix 2400:9800:470::/45 from origin ASN(s) AS65375
+Prefix 2400:9800:510::/45 from origin ASN(s) AS65414
+Prefix 2400:9800:500::/45 from origin ASN(s) AS65414
+Prefix 2400:9800:520::/45 from origin ASN(s) AS65414
+Prefix 2400:9800:570::/45 from origin ASN(s) AS65446
+Prefix 2400:9800:5a0::/45 from origin ASN(s) AS65416
+Prefix 2400:9800:540::/45 from origin ASN(s) AS65416
+Prefix 2400:9800:530::/45 from origin ASN(s) AS65416
+Prefix 2400:9800:550::/45 from origin ASN(s) AS65416
+Prefix 2400:9800:590::/45 from origin ASN(s) AS65414
+Prefix 2400:9800:560::/45 from origin ASN(s) AS65374
+Prefix 2400:9800:420::/45 from origin ASN(s) AS65374
+Prefix 2400:9800:400::/45 from origin ASN(s) AS65374
+Prefix 2400:9800:410::/45 from origin ASN(s) AS65374
+Prefix 124.217.0.0/22 from origin ASN(s) AS64555
+Prefix 124.217.84.0/24 from origin ASN(s) AS64555
+Prefix 186.32.233.0/24 from origin ASN(s) AS65099
+Prefix 186.32.232.0/24 from origin ASN(s) AS65099
+Prefix 186.32.234.0/24 from origin ASN(s) AS65099
+Prefix 2406:b00:10::/48 from origin ASN(s) AS65014
+Prefix 202.185.12.0/24 from origin ASN(s) AS65295
+Prefix 211.24.36.0/24 from origin ASN(s) AS65206
+Prefix 211.25.111.0/24 from origin ASN(s) AS65206
+Prefix 103.162.26.0/24 from origin ASN(s) AS65379
+Prefix 2001:f40:11::/48 from origin ASN(s) AS65206
+Prefix 2404:3d00:406c::/47 from origin ASN(s) AS64901
+Prefix 2404:7e80:1000::/36 from origin ASN(s) AS65501
+Prefix 2001:c10:ff02::/48 from origin ASN(s) AS64588
+Prefix 109.202.104.0/24 from origin ASN(s) AS65380
+Prefix 170.79.91.8/29 from origin ASN(s) AS64507
+Prefix 64.12.232.0/21 from origin ASN(s) AS65502
+Prefix 64.12.224.0/21 from origin ASN(s) AS65502
+Prefix 2001:c20:48b9::/48 from origin ASN(s) AS65564
+Prefix 117.239.163.0/24 from origin ASN(s) AS65549
+Prefix 117.239.162.0/24 from origin ASN(s) AS65544
+Prefix 128.1.23.0/24 from origin ASN(s) AS65519
+Prefix 128.1.24.0/24 from origin ASN(s) AS65519
+Prefix 128.1.22.0/24 from origin ASN(s) AS65519
+Prefix 2804:2a80:7fe0::/43 from origin ASN(s) AS65534
+Prefix 2804:2a80:7fc0::/42 from origin ASN(s) AS65534
+Prefix 138.118.85.0/24 from origin ASN(s) AS65022
+Prefix 177.129.27.0/24 from origin ASN(s) AS65022
+Prefix 177.74.120.0/24 from origin ASN(s) AS65022
+Prefix 177.74.121.0/24 from origin ASN(s) AS65022
+Prefix 177.74.122.0/24 from origin ASN(s) AS65022
+Prefix 186.232.50.0/24 from origin ASN(s) AS65022
+Prefix 186.232.49.0/24 from origin ASN(s) AS65022
+Prefix 177.249.25.0/24 from origin ASN(s) AS64712
+Prefix 177.249.24.0/24 from origin ASN(s) AS64712
+Prefix 177.249.26.0/24 from origin ASN(s) AS64712
+Prefix 186.211.191.0/24 from origin ASN(s) AS65002
+Prefix 186.211.190.0/24 from origin ASN(s) AS65002
+Prefix 187.102.27.0/24 from origin ASN(s) AS65534
+Prefix 162.212.40.0/24 from origin ASN(s) AS64601
+Prefix 2a07:3500:1460::/48 from origin ASN(s) AS64515
+Prefix 2a07:3500:1100::/48 from origin ASN(s) AS64515
+Prefix 177.92.49.0/24 from origin ASN(s) AS65013
+Prefix 177.92.48.0/24 from origin ASN(s) AS65013
+Prefix 117.99.48.0/20 from origin ASN(s) AS64944
+Prefix 117.97.192.0/20 from origin ASN(s) AS64944
+Prefix 2804:37a8:1218::/48 from origin ASN(s) AS65001
+Prefix 2804:37a8:1220::/48 from origin ASN(s) AS64512
+Prefix 2804:2fdc:1280::/41 from origin ASN(s) AS65103
+Prefix 2804:37a8:1205::/48 from origin ASN(s) AS65002
+Prefix 2804:2fdc:1200::/41 from origin ASN(s) AS65103
+Prefix 2804:1674:6::/48 from origin ASN(s) AS65021
+Prefix 2804:37a8:1213::/48 from origin ASN(s) AS65004
+Prefix 2620:1d7:2::/48 from origin ASN(s) AS4294836469
+Prefix 2407:8800:bf01::/48 from origin ASN(s) AS65016
+Prefix 2806:250:9f0::/48 from origin ASN(s) AS64900
+
+Bogon prefixes with most origin ASNs per prefix: 37 bogon prefix(es) had 1 origin ASNs.
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE)
+Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
+Prefix 172.17.2.94/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.22/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.180/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.0.104/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.18/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.96/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.5.12/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.40/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.66/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.208/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.32/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.34/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.244/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.184/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.6.4/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.70/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.176/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.0.84/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.68/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.5.8/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.1.124/30 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.16/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 172.17.2.80/31 from origin ASN(s) AS1031 (PEER-1-INTERNET)
+Prefix 100.96.100.0/24 from origin ASN(s) AS57681 (ASN-MGTS-USPD2)
+Prefix 100.70.92.0/24 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.65.182.0/24 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.70.106.0/24 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.74.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.80.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.86.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.82.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.84.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.76.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.88.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+Prefix 100.66.78.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
+
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 14 bogon ASNs.
+AS12389 (ROSTELECOM-AS) is originating 14 bogon ASNs: 65079 64514 65007 65112 65301 64601 65065 65343 65111 65350 64523 65217 65081 65216
+
+Prefixes with the highest MED: 522 prefix(es) had a MED of 67979.
+Prefix 213.135.192.0/19 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 193.41.124.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 195.110.26.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 87.253.248.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 192.109.127.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 198.202.171.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 188.191.107.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.123.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.39.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.66.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.0.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.125.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.67.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.107.210.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.107.208.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.108.105.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.107.211.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.7.202.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.107.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.176.186.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.53.140.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.164.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.117.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.89.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.83.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.192.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.31.40.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.53.143.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.82.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.121.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.20.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.108.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.127.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.97.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.74.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.141.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.150.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.75.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.98.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.111.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.163.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.99.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.252.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.95.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.92.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.109.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.219.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.244.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.181.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.95.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.151.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.76.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.106.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.198.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.88.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.114.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.105.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.171.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.96.147.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.115.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.119.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.107.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.72.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.250.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 191.101.110.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.109.198.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.93.155.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.108.59.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.43.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.239.196.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.168.210.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.168.211.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.168.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.168.208.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.164.1.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 193.176.129.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.53.141.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.76.114.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.62.107.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.59.6.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.110.15.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 206.127.217.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 212.69.13.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 213.109.171.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 223.29.254.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 223.29.253.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 103.112.0.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 103.143.77.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 104.234.186.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 108.165.71.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 109.106.2.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 109.122.44.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 109.106.3.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 130.185.127.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 130.185.124.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 130.185.125.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 141.11.68.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 141.11.189.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 141.11.188.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 141.98.89.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 146.247.112.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 149.62.41.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 152.89.193.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 163.5.101.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 163.5.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 176.118.33.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.165.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.171.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.176.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.175.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.186.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.183.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.166.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.178.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.137.93.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.137.95.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.139.0.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.137.92.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.139.1.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.139.2.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.142.24.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.139.237.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.141.164.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.142.27.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.142.26.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.145.36.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.143.229.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.143.231.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.145.37.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.143.228.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.145.39.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.151.59.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.151.56.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.151.57.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.133.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.101.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.134.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.102.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.103.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.106.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.104.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 195.93.130.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS20886 (DE-IORG-AS-1).
+Prefix 217.76.96.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS20886 (DE-IORG-AS-1).
+Prefix 185.209.236.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS20886 (DE-IORG-AS-1).
+Prefix 89.21.32.0/19 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS20886 (DE-IORG-AS-1).
+Prefix 80.90.144.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS20886 (DE-IORG-AS-1).
+Prefix 87.239.248.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 77.81.104.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 89.46.152.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 89.38.155.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 94.176.172.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 93.114.236.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 89.32.132.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 86.104.76.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 176.223.68.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 213.32.192.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 45.95.104.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 193.243.160.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS35208 (ASN-KYOCERAEU).
+Prefix 195.158.252.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204796 (KRONES-AG).
+Prefix 195.190.11.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204796 (KRONES-AG).
+Prefix 192.68.165.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS199578 (UNIKL).
+Prefix 192.68.166.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS199578 (UNIKL).
+Prefix 192.68.168.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS199578 (UNIKL).
+Prefix 131.246.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS199578 (UNIKL).
+Prefix 195.225.224.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 217.72.32.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 31.6.80.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 45.13.88.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 45.93.36.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 92.246.96.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 92.246.112.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 109.234.136.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 146.255.160.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 159.255.156.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 185.23.84.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 185.103.80.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 185.126.140.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 185.171.36.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 193.238.136.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34758 (AXERA-ASN34758).
+Prefix 185.239.246.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.239.244.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.244.104.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.254.17.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.147.32.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 144.48.82.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.254.16.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.244.105.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.246.236.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.121.171.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 185.147.33.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 79.110.239.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 188.212.6.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 193.84.183.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 23.230.104.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 45.39.106.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 216.41.28.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 154.16.50.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.16.78.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.16.28.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.16.61.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 45.138.118.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.151.160.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.138.116.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.146.28.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.151.162.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 194.145.116.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS39063 (LEITWERT).
+Prefix 194.145.125.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS39063 (LEITWERT).
+Prefix 195.242.152.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 185.210.232.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 185.242.80.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 45.158.38.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.2.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.24.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 77.74.231.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 89.213.161.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 89.233.108.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 143.93.244.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS8450 (FH-WORMS).
+Prefix 193.43.29.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS8450 (FH-WORMS).
+Prefix 193.30.18.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS8450 (FH-WORMS).
+Prefix 143.93.160.0/19 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS8450 (FH-WORMS).
+Prefix 185.240.0.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204796 (KRONES-AG).
+Prefix 104.239.76.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 31.24.85.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 193.46.221.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 37.16.89.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 5.253.227.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 109.234.79.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS205659 (CODE200-ISP2).
+Prefix 77.73.108.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS202046 (FairNetz).
+Prefix 77.73.110.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS202046 (FairNetz).
+Prefix 188.93.143.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 176.116.22.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 194.26.219.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 212.23.213.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.179.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.101.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 176.116.30.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 176.97.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 91.246.42.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 194.48.204.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 46.253.141.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 45.67.220.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 195.28.21.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 37.140.246.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 62.3.46.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 195.179.194.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 185.237.255.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 195.230.103.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS211607 (Securitytrails).
+Prefix 185.63.212.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34308 (RIEDEL-NETWORKS).
+Prefix 84.246.248.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS34308 (RIEDEL-NETWORKS).
+Prefix 87.253.240.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 2.57.17.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 2.58.173.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.45.37.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.45.36.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.185.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.128.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.180.80.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.130.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.127.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.133.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.182.109.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.126.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 5.181.125.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.223.76.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.225.2.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.234.100.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.241.150.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.255.56.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 31.6.32.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 37.143.62.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 37.143.60.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 194.59.8.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.8.194.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.8.195.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.8.190.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.9.0.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.9.1.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.10.156.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.81.2.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.81.57.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.81.1.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.81.116.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.87.187.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.92.28.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.95.39.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.95.116.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.140.211.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.140.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 45.152.189.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 46.37.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 46.37.126.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 46.162.28.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 46.162.30.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 81.168.126.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 84.32.63.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 84.32.39.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.158.58.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.158.57.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.208.115.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.209.160.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.252.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.254.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.253.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.249.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.177.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.251.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.255.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.69.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.72.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.20.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.158.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.70.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.206.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.4.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.154.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.8.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.226.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.44.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.54.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.40.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 154.16.202.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 168.91.110.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.157.49.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 81.199.112.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS211695 (Agreya_LTD).
+Prefix 81.199.113.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS211695 (Agreya_LTD).
+Prefix 104.143.83.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS62874 (WEB2OBJECTS).
+Prefix 167.160.40.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS62874 (WEB2OBJECTS).
+Prefix 74.120.188.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS22300 (WIKIA).
+Prefix 62.241.48.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 103.194.112.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 45.125.244.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 45.80.200.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 80.246.29.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 194.61.112.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 194.126.131.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 185.150.84.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 185.188.60.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 217.77.103.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 217.77.101.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204287 (HostRoyale_Technologies).
+Prefix 185.223.108.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS209216 (Trusted-Colo).
+Prefix 2.56.76.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS209216 (Trusted-Colo).
+Prefix 212.11.224.0/19 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS12813 (WORNET-AS).
+Prefix 212.11.245.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS12813 (WORNET-AS).
+Prefix 212.11.244.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS12813 (WORNET-AS).
+Prefix 212.11.235.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS12813 (WORNET-AS).
+Prefix 143.93.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 217.198.240.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 141.26.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 192.67.218.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 139.14.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 192.124.238.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 134.93.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 136.199.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS2857 (RLP-NET).
+Prefix 77.73.111.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS202046 (FairNetz).
+Prefix 169.239.203.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 169.239.200.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 169.239.201.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS203061 (itproximus).
+Prefix 91.223.102.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 77.83.232.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 194.39.32.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 91.223.126.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 91.223.99.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.147.186.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.150.178.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 193.160.236.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.147.184.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 193.160.237.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 194.113.113.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.159.54.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 194.113.119.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.150.176.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 194.113.112.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.159.52.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 193.161.3.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.87.69.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.87.70.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 5.183.84.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 45.151.148.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 185.254.124.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 185.96.196.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 185.95.32.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 185.46.128.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 134.19.0.0/17 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 134.0.120.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 93.180.212.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 89.187.208.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 45.95.4.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 199.241.137.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 208.87.129.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 209.182.239.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 209.182.238.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 64.238.34.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 102.129.183.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 185.171.160.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.108.88.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS9083.
+Prefix 212.96.128.0/19 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS9083.
+Prefix 185.253.196.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 194.5.224.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 185.134.220.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 212.103.42.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 185.166.253.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 185.244.10.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 185.134.221.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.135.16.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.80.164.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 217.73.144.0/21 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29404 (ELBRACHT-COMPUTER-AS).
+Prefix 62.3.8.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 62.3.25.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 62.3.9.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 212.18.125.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 176.116.27.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 195.96.142.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 193.5.151.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 193.3.173.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.175.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.195.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 93.93.201.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.81.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.63.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 109.107.150.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.62.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.157.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 146.19.161.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 91.247.187.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS201341 (Centurion-Internet-services).
+Prefix 8.37.107.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS16491 (VIASAT).
+Prefix 46.21.0.0/20 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS15925 (nexiu).
+Prefix 86.38.250.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.248.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.237.215.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 86.38.183.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 85.237.216.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.19.44.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.19.49.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.19.46.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.117.91.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.117.126.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.187.9.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.207.178.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.207.176.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.207.177.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.207.179.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 89.251.20.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 91.206.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 91.225.225.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 92.119.35.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 92.119.33.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 92.242.185.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 103.75.71.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.177.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.133.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.156.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.179.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.190.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.145.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.167.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.155.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 179.61.182.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.41.222.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.41.211.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.214.89.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.215.16.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.214.86.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.214.209.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 181.214.211.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.13.225.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.34.43.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.34.40.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.34.41.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.111.157.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.130.204.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.135.11.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.135.159.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.137.13.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.137.12.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.100.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.149.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.135.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.158.148.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.173.26.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.172.58.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.173.24.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.173.32.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 185.218.142.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 103.43.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS56038 (RACKCORP-AP).
+Prefix 45.146.114.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 45.86.233.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 194.14.219.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS199438 (W2O-ANYCAST-AS).
+Prefix 194.140.249.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29108 (LEITWERT-RESEARCH).
+Prefix 194.140.242.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29108 (LEITWERT-RESEARCH).
+Prefix 45.136.163.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS29108 (LEITWERT-RESEARCH).
+Prefix 77.73.108.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 77.73.109.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 194.113.118.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 45.146.30.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 193.161.2.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS50495 (WEB2OBJECTS-EU-AS).
+Prefix 89.48.0.0/16 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS57353 (VITROCONNECT-AS).
+Prefix 195.234.99.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.86.160.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.10.234.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 2.58.12.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.153.40.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.142.80.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 91.223.163.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.89.210.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.93.97.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 45.93.98.0/23 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 91.239.64.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 83.136.221.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 185.247.188.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 176.119.202.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS204646 (w2o-private-customer-asn).
+Prefix 102.165.55.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 102.165.1.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 102.165.52.0/22 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 102.165.9.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 102.165.7.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 102.165.8.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS61317 (ASDETUK).
+Prefix 82.129.28.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 82.129.29.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 82.129.30.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 82.129.31.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+Prefix 118.184.68.0/24 via peer AS24115 (ASN-EQIX-MLPE) from origin ASN(s) AS137443 (ANCHGLOBAL-AS-AP).
+
+Longest AS path: 57 prefix(es) had an AS path length of 255 ASNs.
+Prefix 2a06:a005:7d0::/44 via peer AS13030 (INIT7) from origin ASN(s) AS210633. AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7e0::/44 via peer AS13030 (INIT7) from origin ASN(s) AS210633. AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7f0::/44 via peer AS13030 (INIT7) from origin ASN(s) AS210633. AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:810::/44 via peer AS13030 (INIT7) from origin ASN(s) AS210633. AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:800::/44 via peer AS13030 (INIT7) from origin ASN(s) AS210633. AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7d0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7e0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2001:678:218::/48 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2001:678:218::/48 via peer AS13030 (INIT7) from origin ASN(s) AS210905 (ANDRIIRYKHLIVSKYI-AS). AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210905.
+Prefix 2a05:dfc1:8901::/48 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:de00:11::/48 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a05:dfc1:8901::/48 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS3257 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:de00:11::/48 via peer AS37271 (Workonline) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS37271 AS3257 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a05:dfc1:8901::/48 via peer AS37271 (Workonline) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS37271 AS3257 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS210633. AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:800::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS210633. AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7d0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS210633. AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7e0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS210633. AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:810::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS210633. AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:810::/44 via peer AS37271 (Workonline) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS37271 AS6453 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS37271 (Workonline) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS37271 AS6453 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS210633. AS Path length 255: AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7e0::/44 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS210633. AS Path length 255: AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:800::/44 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS210633. AS Path length 255: AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:810::/44 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS210633. AS Path length 255: AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7d0::/44 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS210633. AS Path length 255: AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS210633 AS210633.
+Prefix 2a06:a005:7d0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7e0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS6830 (LibertyGlobal) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:de00:11::/48 via peer AS13030 (INIT7) from origin ASN(s) AS199766 (RobertStonham). AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS199766.
+Prefix 2a05:dfc1:8901::/48 via peer AS13030 (INIT7) from origin ASN(s) AS199766 (RobertStonham). AS Path length 255: AS13030 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS199766.
+Prefix 2a06:a005:7f0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS137409 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7e0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS137409 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7d0::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS137409 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS137409 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS199524 (GCORE) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS199524 AS137409 AS174 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7d0::/44 via peer AS7575 (AARNET-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS7575 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS7575 (AARNET-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS7575 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS7575 (AARNET-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS7575 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7e0::/44 via peer AS7575 (AARNET-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS7575 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS7575 (AARNET-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS7575 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a05:dfc1:8901::/48 via peer AS133210 (ENTECHNOLOGIES-AS-AP) from origin ASN(s) AS199766 (RobertStonham). AS Path length 255: AS133210 AS7473 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS199766.
+Prefix 2a06:a005:800::/44 via peer AS133210 (ENTECHNOLOGIES-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS133210 AS7473 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS133210 (ENTECHNOLOGIES-AS-AP) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS133210 AS7473 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7e0::/44 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7d0::/44 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:7f0::/44 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:810::/44 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:a005:800::/44 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2001:678:218::/48 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a05:dfc1:8901::/48 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+Prefix 2a06:de00:11::/48 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS8772 (Rider). AS Path length 255: AS265721 AS23520 AS6830 AS2914 AS29632 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772 AS8772.
+
+Longest community set: 1 prefix(es) had a community set length of 501 communities.
+Prefix 185.18.201.0/24 via peer AS35280 (F5) from origin ASN(s) AS47855 (PRIME). Commnuity set length 501: 0:1031 0:1820 0:2854 0:3226 0:3252 0:3255 0:3261 0:3326 0:3399 0:4980 0:5467 0:5563 0:6233 0:6447 0:6663 0:6697 0:6712 0:6735 0:6762 0:6768 0:6789 0:6849 0:6876 0:6886 0:6939 0:7713 0:8192 0:8242 0:8262 0:8342 0:8369 0:8449 0:8492 0:8515 0:8551 0:8563 0:8636 0:8641 0:8647 0:8732 0:8779 0:8926 0:8932 0:9049 0:9123 0:9198 0:10122 0:11019 0:12297 0:12389 0:12400 0:12403 0:12418 0:12555 0:12593 0:12615 0:12668 0:12695 0:12714 0:12722 0:12737 0:12741 0:12958 0:12963 0:13003 0:13004 0:13094 0:13170 0:13188 0:13194 0:13238 0:13335 0:14061 0:15169 0:15378 0:15493 0:15672 0:15673 0:15848 0:15895 0:16066 0:16223 0:16230 0:16276 0:16302 0:20495 0:20804 0:21013 0:21030 0:21109 0:21140 0:21156 0:21453 0:21488 0:21497 0:21500 0:21859 0:22697 0:24429 0:24482 0:24589 0:24638 0:24700 0:24703 0:24724 0:24812 0:24940 0:24955 0:25091 0:25198 0:25293 0:25372 0:25394 0:25521 0:25526 0:28709 0:28761 0:28773 0:28910 0:28968 0:29107 0:29119 0:29182 0:29226 0:29329 0:29588 0:30058 0:31059 0:31069 0:31133 0:31200 0:31214 0:31257 0:31272 0:31275 0:31277 0:31343 0:31376 0:31415 0:31444 0:31499 0:31500 0:31514 0:31720 0:31725 0:32590 0:32934 0:33871 0:34056 0:34123 0:34170 0:34300 0:34465 0:34527 0:34549 0:34602 0:34700 0:34743 0:34757 0:34772 0:34824 0:34867 0:34879 0:35000 0:35032 0:35048 0:35104 0:35144 0:35213 0:35237 0:35297 0:35420 0:35526 0:35598 0:35614 0:35807 0:35810 0:35816 0:37721 0:38984 0:39033 0:39046 0:39087 0:39102 0:39134 0:39184 0:39351 0:39399 0:39493 0:39521 0:39598 0:39608 0:41009 0:41018 0:41082 0:41268 0:41275 0:41281 0:41313 0:41327 0:41330 0:41378 0:41435 0:41560 0:41601 0:41743 0:41750 0:41802 0:41820 0:41842 0:41904 0:41985 0:42031 0:42065 0:42105 0:42239 0:42291 0:42295 0:42331 0:42339 0:42437 0:42498 0:42511 0:42512 0:42518 0:42574 0:42632 0:42668 0:42765 0:42773 0:42861 0:42893 0:42913 0:43106 0:43139 0:43267 0:43278 0:43298 0:43314 0:43317 0:43362 0:43399 0:43404 0:43521 0:43530 0:43554 0:43567 0:43656 0:43727 0:43865 0:44020 0:44030 0:44056 0:44128 0:44172 0:44267 0:44291 0:44347 0:44391 0:44416 0:44484 0:44600 0:44670 0:44882 0:44901 0:44923 0:44927 0:44943 0:45474 0:46489 0:47140 0:47196 0:47211 0:47213 0:47236 0:47321 0:47363 0:47438 0:47441 0:47481 0:47522 0:47541 0:47542 0:47569 0:47626 0:47655 0:47764 0:47845 0:47864 0:47869 0:47895 0:47914 0:47939 0:48004 0:48061 0:48084 0:48092 0:48117 0:48166 0:48176 0:48223 0:48239 0:48257 0:48276 0:48282 0:48347 0:48370 0:48399 0:48416 0:48422 0:48481 0:48503 0:48558 0:48641 0:48642 0:48648 0:48919 0:48940 0:48964 0:48989 0:49038 0:49063 0:49120 0:49121 0:49136 0:49183 0:49218 0:49340 0:49368 0:49371 0:49377 0:49453 0:49461 0:49478 0:49505 0:49588 0:49722 0:49747 0:49770 0:49813 0:49821 0:49824 0:49830 0:49943 0:49954 0:50012 0:50060 0:50107 0:50113 0:50115 0:50130 0:50157 0:50158 0:50169 0:50182 0:50187 0:50204 0:50222 0:50254 0:50272 0:50289 0:50304 0:50340 0:50367 0:50418 0:50473 0:50581 0:50619 0:50629 0:50636 0:50673 0:50716 0:50775 0:50776 0:50867 0:50889 0:50916 0:50923 0:50952 0:51028 0:51069 0:51092 0:51178 0:51200 0:51273 0:51341 0:51343 0:51380 0:51437 0:51477 0:51520 0:51635 0:51669 0:51685 0:52000 0:52060 0:52091 0:54994 0:56354 0:56364 0:56400 0:56407 0:56504 0:56528 0:56534 0:56592 0:56630 0:56634 0:56655 0:56679 0:56690 0:56694 0:56701 0:56814 0:56864 0:56911 0:57043 0:57073 0:57227 0:57277 0:57344 0:57354 0:57363 0:57393 0:57456 0:57463 0:57494 0:57583 0:57629 0:57630 0:57700 0:57712 0:57724 0:57976 0:58002 0:58048 0:58067 0:58096 0:58158 0:58291 0:58310 0:58349 0:58511 0:58807 0:59482 0:59504 0:59536 0:59574 0:59589 0:59900 0:60022 0:60064 0:60068 0:60072 0:60075 0:60098 0:60165 0:60280 0:60283 0:60299 0:60345 0:60388 0:60470 0:60580 0:60731 0:60764 0:61071 0:61099 0:61102 0:61152 0:61254 0:61400 0:61403 0:62014 0:62040 0:62041 0:62082 0:62206 0:63199 8714:65010 8714:65011 8714:65023 31500:100 31500:812 31500:5006 31500:5106 31500:5555 31500:5816 35280:20 35280:1010 35280:2050 35280:3060 35280:4050 35280:20000 35280:21000 35280:21060 35280:24000 8714:1000:2 8714:1001:1 8714:1001:2 35280:64999:8714.
+
+Abnormally large/small prefixes with most origin ASNs per prefix: 5 large/small prefix(es) had 2 origin ASNs.
+Prefix 89.201.7.209/32 from origin ASN(s) AS13194 (BITE) AS20910 (BALTKOM-AS)
+Prefix 107.148.4.89/32 from origin ASN(s) AS398993 (PEG-TY) AS64050 (BCPL-SG)
+Prefix 45.145.229.41/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
+Prefix 38.147.171.230/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
+Prefix 38.147.172.99/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
+
+Most BGP advertisements per prefix: 1 prefix(es) had 1963390 advertisements.
+Prefix(es): 2607:6003:2307::/48
+
+Most BGP updates per prefix: 1 prefix(es) had 3235053 updates.
+Prefix(es): 2a01:9e00:4d0e::/48
+
+Most BGP withdraws per prefix: 1 prefix(es) had 1468968 withdraws.
+Prefix(es): 2a01:9e00:4d0e::/48
+
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1963533 advertisements.
+Origin ASN(s): AS19181 (CWIE)
+
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 10076582 advertisements.
+Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
+
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 10145363 updates.
+Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
+
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 437452 withdraws.
+Peer ASN(s): AS13030 (INIT7)
+
+Most origin ASNs per prefix: 2 prefix(es) had 16 origin ASNs.
+Prefix 204.74.99.0/24 from origin ASN(s) AS19905 (SECURITYSERVICES) AS397220 (SECURITYSERVICES) AS397213 (SECURITYSERVICES) AS397231 (SECURITYSERVICES) AS397215 (SECURITYSERVICES) AS397241 (SECURITYSERVICES) AS397239 (SECURITYSERVICES) AS397227 (SECURITYSERVICES) AS397217 (SECURITYSERVICES) AS397221 (SECURITYSERVICES) AS397242 (SECURITYSERVICES) AS397226 (SECURITYSERVICES) AS397224 (SECURITYSERVICES) AS397232 (SECURITYSERVICES) AS397229 (SECURITYSERVICES) AS397223 (SECURITYSERVICES)
+Prefix 156.154.70.0/24 from origin ASN(s) AS19905 (SECURITYSERVICES) AS397229 (SECURITYSERVICES) AS397220 (SECURITYSERVICES) AS397241 (SECURITYSERVICES) AS397233 (SECURITYSERVICES) AS397240 (SECURITYSERVICES) AS397242 (SECURITYSERVICES) AS397227 (SECURITYSERVICES) AS397226 (SECURITYSERVICES) AS397238 (SECURITYSERVICES) AS397213 (SECURITYSERVICES) AS397224 (SECURITYSERVICES) AS397239 (SECURITYSERVICES) AS397231 (SECURITYSERVICES) AS397215 (SECURITYSERVICES) AS397221 (SECURITYSERVICES)
+
+Most unknown attributes per prefix: 9 prefix(es) had 1 unknown attribute(s).
+Prefix 137.44.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 203.14.116.0/23 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {243}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 203.62.202.0/24 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {243}
+Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 144.124.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+

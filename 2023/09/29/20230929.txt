@@ -115,7 +115,7 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP withdraws per prefix: 1 prefix(es) had 1439806 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 3856927 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 3944271 advertisements.
 Origin ASN(s): AS141674 (IDNIC-DARTANET-AS-ID)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 20729499 advertisements.

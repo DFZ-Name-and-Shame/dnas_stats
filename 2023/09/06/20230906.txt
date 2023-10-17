@@ -1,6 +1,6 @@
-For 2023/09/06 43095502 BGP UPDATES were parsed. 42386445 UPDATES contained prefix advertisements. 2905035 UPDATES contained prefix withdraws.
+For 2023/09/06 44571903 BGP UPDATES were parsed. 43839354 UPDATES contained prefix advertisements. 3000001 UPDATES contained prefix withdraws.
 
-Prefixes with most bogon origin ASNs per prefix: 13 prefix(es) had 2 bogon origin ASNs.
+Prefixes with most bogon origin ASNs per prefix: 14 prefix(es) had 2 bogon origin ASNs.
 Prefix 203.153.83.0/24 from origin ASN(s) AS4202202031 AS23456
 Prefix 212.237.118.0/24 from origin ASN(s) AS23456 AS65601
 Prefix 159.138.76.0/24 from origin ASN(s) AS23456 AS4227924871
@@ -14,6 +14,7 @@ Prefix 49.236.204.0/24 from origin ASN(s) AS4202202062 AS23456
 Prefix 103.176.80.0/24 from origin ASN(s) AS23456 AS65589
 Prefix 202.75.45.0/24 from origin ASN(s) AS4202202256 AS23456
 Prefix 210.48.151.0/24 from origin ASN(s) AS4202202031 AS4202202256
+Prefix 38.47.206.0/24 from origin ASN(s) AS65000 AS23456
 
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
 Prefix 2002::/16 from origin ASN(s) AS43097 (WEBRA) AS6939 (HURRICANE)
@@ -96,22 +97,22 @@ Prefix ::/0 from origin ASN(s) AS3356 (LEVEL3) AS23520 (COLUMBUS-NETWORKS) AS374
 Most BGP advertisements per prefix: 1 prefix(es) had 1294889 advertisements.
 Prefix(es): 192.124.40.0/23
 
-Most BGP updates per prefix: 1 prefix(es) had 2852904 updates.
+Most BGP updates per prefix: 1 prefix(es) had 2945571 updates.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP withdraws per prefix: 1 prefix(es) had 1422685 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 1468965 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1719014 advertisements.
 Origin ASN(s): AS1734 (ROP-COCA-AS01)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9531495 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9628467 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 9621591 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 9719462 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 460383 withdraws.
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 475338 withdraws.
 Peer ASN(s): AS13030 (INIT7)
 
 Most origin ASNs per prefix: 1 prefix(es) had 17 origin ASNs.

@@ -7,24 +7,24 @@ Prefix 38.47.246.0/24 from origin ASN(s) AS65000 AS23456
 Prefix 101.255.192.0/22 from origin ASN(s) AS65433 AS65434
 
 Bogon prefixes with most origin ASNs per prefix: 21 bogon prefix(es) had 1 origin ASNs.
-Prefix 100.64.64.0/19 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.64.96.0/19 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.66.160.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.68.48.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.68.16.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.66.16.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.71.108.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.71.104.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.68.32.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.71.140.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.66.32.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.64.0.0/13 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.71.112.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.66.176.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.68.176.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.66.48.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.68.160.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
-Prefix 100.71.96.0/23 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.64.64.0/19 from origin ASN(s) AS28573
+Prefix 100.64.96.0/19 from origin ASN(s) AS28573
+Prefix 100.66.160.0/20 from origin ASN(s) AS28573
+Prefix 100.68.48.0/20 from origin ASN(s) AS28573
+Prefix 100.68.16.0/20 from origin ASN(s) AS28573
+Prefix 100.66.16.0/20 from origin ASN(s) AS28573
+Prefix 100.71.108.0/22 from origin ASN(s) AS28573
+Prefix 100.71.104.0/22 from origin ASN(s) AS28573
+Prefix 100.68.32.0/20 from origin ASN(s) AS28573
+Prefix 100.71.140.0/22 from origin ASN(s) AS28573
+Prefix 100.66.32.0/20 from origin ASN(s) AS28573
+Prefix 100.64.0.0/13 from origin ASN(s) AS28573
+Prefix 100.71.112.0/22 from origin ASN(s) AS28573
+Prefix 100.66.176.0/20 from origin ASN(s) AS28573
+Prefix 100.68.176.0/20 from origin ASN(s) AS28573
+Prefix 100.66.48.0/20 from origin ASN(s) AS28573
+Prefix 100.68.160.0/20 from origin ASN(s) AS28573
+Prefix 100.71.96.0/23 from origin ASN(s) AS28573
 Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE)
 Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
 Prefix fd58:9520:1361:68::/126 from origin ASN(s) AS136168 (CAMPANA-AS-AP)
@@ -110,7 +110,7 @@ Abnormally large/small prefixes with most origin ASNs per prefix: 2 large/small 
 Prefix 103.251.89.240/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP) AS23456
 Prefix 38.147.173.149/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 748015 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 768472 advertisements.
 Prefix(es): 192.124.40.0/23
 
 Most BGP updates per prefix: 1 prefix(es) had 1454021 updates.
@@ -119,7 +119,7 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP withdraws per prefix: 1 prefix(es) had 1017322 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 713799 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 734256 advertisements.
 Origin ASN(s): AS1734 (ROP-COCA-AS01)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 18343666 advertisements.

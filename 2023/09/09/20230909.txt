@@ -150,7 +150,7 @@ Prefix 5.252.34.0/24 via peer AS35280 (F5) from origin ASN(s) AS59796 (STORMWALL
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 38.147.171.171/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP) AS139659 (LUCID-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 743012 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 750629 advertisements.
 Prefix(es): 192.124.40.0/23
 
 Most BGP updates per prefix: 1 prefix(es) had 2937630 updates.
@@ -159,13 +159,13 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP withdraws per prefix: 1 prefix(es) had 1467263 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 822367 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 830836 advertisements.
 Origin ASN(s): AS1734 (ROP-COCA-AS01)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9854004 advertisements.
-Peer ASN(s): AS58511 (ANYCAST-GLOBAL-BACKBONE)
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9952112 advertisements.
+Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 9941059 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 10041208 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 444386 withdraws.

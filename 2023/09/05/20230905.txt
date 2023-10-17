@@ -101,7 +101,7 @@ Prefix 103.251.89.240/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP) AS133
 Prefix 45.11.47.161/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
 Prefix 156.234.17.111/32 from origin ASN(s) AS136800 (MOACKCOLTD-AS-AP) AS64050 (BCPL-SG) AS138195 (MOACKCOLTD-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 853937 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 876687 advertisements.
 Prefix(es): 192.124.40.0/23
 
 Most BGP updates per prefix: 1 prefix(es) had 2940741 updates.
@@ -110,7 +110,7 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP withdraws per prefix: 1 prefix(es) had 1480927 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1043777 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1071565 advertisements.
 Origin ASN(s): AS1734 (ROP-COCA-AS01)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 11472470 advertisements.

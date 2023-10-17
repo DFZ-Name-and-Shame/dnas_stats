@@ -102,7 +102,7 @@ Abnormally large/small prefixes with most origin ASNs per prefix: 99 large/small
 Prefix 43.228.125.91/32 from origin ASN(s) AS23456 AS133322 (XIM-HK)
 Prefix 45.144.138.179/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS23456
 Prefix 45.200.242.170/32 from origin ASN(s) AS135097 (MYCLOUD-AS-AP) AS23456
-Prefix 177.54.236.108/32 from origin ASN(s) AS262462 (Aranet Comunicacao Ltda) AS23456
+Prefix 177.54.236.108/32 from origin ASN(s) AS262462 AS23456
 Prefix 154.204.56.49/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS23456
 Prefix 103.233.9.29/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
 Prefix 91.208.236.70/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP)
@@ -199,7 +199,7 @@ Prefix 2400:9800:b010:1d::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS1788
 Prefix 103.228.64.63/32 from origin ASN(s) AS137451 (TELECOM-AS-AP) AS64050 (BCPL-SG)
 Prefix 103.228.64.184/32 from origin ASN(s) AS137451 (TELECOM-AS-AP) AS64050 (BCPL-SG)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 871357 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 896208 advertisements.
 Prefix(es): 192.124.40.0/23
 
 Most BGP updates per prefix: 1 prefix(es) had 2818427 updates.

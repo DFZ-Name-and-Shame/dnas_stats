@@ -40,10 +40,10 @@ Prefix(es): 67.211.53.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1333706 advertisements.
 Origin ASN(s): AS3549 (LVLT-3549)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7837168 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8005172 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7869849 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8038558 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 186435 withdraws.

@@ -11,8 +11,8 @@ Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE)
 Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
 Prefix fd58:9520:1361:68::/126 from origin ASN(s) AS136168 (CAMPANA-AS-AP)
 
-ASNs originating the most bogons ASNs: 1 ASN(s) are originating 10 bogon ASNs.
-AS137961 (ABUZZITLIMITED-AS-AP) is originating 10 bogon ASNs: 64571 64530 64567 64513 64524 64547 64563 64538 64546 64569
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 11 bogon ASNs.
+AS137961 (ABUZZITLIMITED-AS-AP) is originating 11 bogon ASNs: 64571 64530 64567 64513 64524 64547 64563 64538 64546 64569 64528
 
 Prefixes with the highest MED: 1 prefix(es) had a MED of 43987.
 Prefix 140.82.194.0/24 via peer AS2914 (NTT-LTD-2914) from origin ASN(s) AS13150 (CATON).
@@ -36,7 +36,7 @@ Prefix 154.204.44.147/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED
 Prefix 177.105.155.219/32 from origin ASN(s) AS262462 (Aranet Comunicacao Ltda) AS23456
 Prefix 103.215.124.182/32 from origin ASN(s) AS64021 (Network-Transit) AS23456
 Prefix 156.254.228.68/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
-Prefix 92.242.114.134/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 92.242.114.134/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 150.109.77.137/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
 Prefix 45.119.97.23/32 from origin ASN(s) AS133199 (SONDERCLOUDLIMITED-AS-AP) AS23456
 Prefix 177.66.217.150/32 from origin ASN(s) AS262504 (Nova Rede de Telecomunica��es Ltda) AS23456
@@ -81,7 +81,7 @@ Prefix 103.143.80.67/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP)
 Prefix 156.245.11.132/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
 Prefix 103.233.9.29/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
 Prefix 156.245.12.143/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
-Prefix 151.0.23.73/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 151.0.23.73/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 43.128.4.178/32 from origin ASN(s) AS132203 (TENCENT-NET-AP-CN) AS23456
 Prefix 43.134.218.115/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
 Prefix 185.228.142.5/32 from origin ASN(s) AS199319 (VOICE-NET-AS) AS65530
@@ -89,7 +89,7 @@ Prefix 43.128.0.39/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
 Prefix 154.91.227.59/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 156.240.0.158/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 185.92.248.100/32 from origin ASN(s) AS50411 (ITVMedia) AS50607 (EPIX-KTW-GlobalMix)
-Prefix 185.253.42.175/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 185.253.42.175/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 129.226.173.74/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
 Prefix 154.91.227.60/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 154.204.56.219/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP)
@@ -98,11 +98,11 @@ Prefix 131.255.174.18/32 from origin ASN(s) AS262491 (Saulo J. de Moura Borba ME
 Prefix 45.207.36.186/32 from origin ASN(s) AS133199 (SONDERCLOUDLIMITED-AS-AP) AS23456
 Prefix 43.135.64.223/32 from origin ASN(s) AS132203 (TENCENT-NET-AP-CN) AS23456
 Prefix 43.154.236.157/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
-Prefix 177.101.44.130/32 from origin ASN(s) AS23456 AS262606 (Microtell Telecom)
+Prefix 177.101.44.130/32 from origin ASN(s) AS23456 AS262606 (MICROTELL SCM LTDA)
 Prefix 45.207.36.216/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
 Prefix 177.54.229.205/32 from origin ASN(s) AS262462 (Aranet Comunicacao Ltda) AS23456
 Prefix 109.206.213.142/32 from origin ASN(s) AS41966 (Skynet) AS50607 (EPIX-KTW-GlobalMix)
-Prefix 46.150.98.109/32 from origin ASN(s) AS206810 (UGLETELECOM) AS48276 (LEVEL-AS)
+Prefix 46.150.98.109/32 from origin ASN(s) AS206810 (UGLETELECOM) AS48276 (IPSVYAZ-AS)
 Prefix 206.233.132.65/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 154.39.251.230/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 103.49.61.75/32 from origin ASN(s) AS64021 (Network-Transit) AS23456
@@ -110,7 +110,7 @@ Prefix 188.130.230.139/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 188.130.230.138/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 154.31.24.6/32 from origin ASN(s) AS9232 (NTTE-AS) AS64050 (BCPL-SG)
 Prefix 103.91.190.100/32 from origin ASN(s) AS23456 AS136523 (COLODEE-AS-AP)
-Prefix 217.199.235.87/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 217.199.235.87/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 177.105.154.34/32 from origin ASN(s) AS262462 (Aranet Comunicacao Ltda) AS23456
 Prefix 156.245.11.150/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
 Prefix 156.245.11.144/32 from origin ASN(s) AS23456 AS133199 (SONDERCLOUDLIMITED-AS-AP)
@@ -120,21 +120,21 @@ Prefix 130.0.215.0/26 from origin ASN(s) AS23456 AS199237 (EuroReti-Srl)
 Prefix 130.0.213.0/26 from origin ASN(s) AS23456 AS199237 (EuroReti-Srl)
 Prefix 130.0.213.64/26 from origin ASN(s) AS23456 AS199237 (EuroReti-Srl)
 Prefix 185.246.168.163/32 from origin ASN(s) AS23456 AS202543 (AbilixSoft-Sf2016)
-Prefix 151.0.23.22/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
-Prefix 91.206.219.6/32 from origin ASN(s) AS206810 (UGLETELECOM) AS48276 (LEVEL-AS)
+Prefix 151.0.23.22/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
+Prefix 91.206.219.6/32 from origin ASN(s) AS206810 (UGLETELECOM) AS48276 (IPSVYAZ-AS)
 Prefix 170.231.243.145/32 from origin ASN(s) AS23456 AS263573 (HYPER NET TELECOMUNICACOES LTDA ME)
 Prefix 154.23.80.54/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 170.231.241.163/32 from origin ASN(s) AS263573 (HYPER NET TELECOMUNICACOES LTDA ME) AS23456
-Prefix 91.201.176.9/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 91.201.176.9/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 91.246.109.66/32 from origin ASN(s) AS65000 AS50607 (EPIX-KTW-GlobalMix)
-Prefix 31.135.180.118/32 from origin ASN(s) AS48276 (LEVEL-AS) AS206810 (UGLETELECOM)
+Prefix 31.135.180.118/32 from origin ASN(s) AS48276 (IPSVYAZ-AS) AS206810 (UGLETELECOM)
 Prefix 186.26.69.71/32 from origin ASN(s) AS23456 AS270923 (FENIX BRASIL)
 Prefix 154.23.98.189/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 2400:9800:b010:1c::/64 from origin ASN(s) AS17885 (JKTXLNET-AS-AP) AS24203 (NAPXLNET-AS-ID)
 Prefix 154.210.209.222/32 from origin ASN(s) AS136800 (MOACKCOLTD-AS-AP) AS138195 (MOACKCOLTD-AS-AP)
 Prefix 156.234.4.1/32 from origin ASN(s) AS136800 (MOACKCOLTD-AS-AP) AS138195 (MOACKCOLTD-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 1145952 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 1174725 advertisements.
 Prefix(es): 201.49.244.0/22
 
 Most BGP updates per prefix: 1 prefix(es) had 1688432 updates.
@@ -143,13 +143,13 @@ Prefix(es): 201.49.244.0/22
 Most BGP withdraws per prefix: 1 prefix(es) had 155211 withdraws.
 Prefix(es): 201.49.244.0/22
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1148040 advertisements.
-Origin ASN(s): AS264265 (VIAWEBRS TELECOMUNICACOES)
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1176863 advertisements.
+Origin ASN(s): AS264265 (VIAWEBRS TELECOMUNICACOES LTDA)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8143773 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8347750 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8176117 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8380898 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 213025 withdraws.

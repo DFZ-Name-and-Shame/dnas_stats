@@ -157,11 +157,11 @@ Prefix(es): 67.211.53.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1719664 advertisements.
 Origin ASN(s): AS49981 (WorldStream)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 3994469 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4102399 advertisements.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 4092988 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 4203378 updates.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 168068 withdraws.
 Peer ASN(s): AS13030 (INIT7)

@@ -1,4 +1,4 @@
-For 2023/08/11 30998690 BGP UPDATES were parsed. 30319893 UPDATES contained prefix advertisements. 1357058 UPDATES contained prefix withdraws.
+For 2023/08/11 31234447 BGP UPDATES were parsed. 30548851 UPDATES contained prefix advertisements. 1370707 UPDATES contained prefix withdraws.
 
 Prefixes with most bogon origin ASNs per prefix: 7 prefix(es) had 2 bogon origin ASNs.
 Prefix 188.132.203.0/24 from origin ASN(s) AS23456 AS65536
@@ -35,16 +35,16 @@ Prefix 91.235.230.125/32 from origin ASN(s) AS49895 (DCENTER-AS) AS56475 (DATA-C
 Prefix 91.235.230.113/32 from origin ASN(s) AS49895 (DCENTER-AS) AS56475 (DATA-COM-AS) AS50607 (EPIX-KTW-GlobalMix)
 Prefix 91.235.230.115/32 from origin ASN(s) AS49895 (DCENTER-AS) AS56475 (DATA-COM-AS) AS50607 (EPIX-KTW-GlobalMix)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 1154039 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 1168266 advertisements.
 Prefix(es): 137.106.172.0/24
 
-Most BGP updates per prefix: 1 prefix(es) had 1189561 updates.
+Most BGP updates per prefix: 1 prefix(es) had 1204228 updates.
 Prefix(es): 137.106.172.0/24
 
-Most BGP withdraws per prefix: 1 prefix(es) had 88262 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 89291 withdraws.
 Prefix(es): 67.211.53.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1099710 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1113937 advertisements.
 Origin ASN(s): AS3549 (LVLT-3549)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8617990 advertisements.
@@ -53,7 +53,7 @@ Peer ASN(s): AS58511 (ANYCAST-GLOBAL-BACKBONE)
 Most BGP updates per peer ASN: 1 peer ASN(s) sent 8629634 updates.
 Peer ASN(s): AS58511 (ANYCAST-GLOBAL-BACKBONE)
 
-Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 220220 withdraws.
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 222532 withdraws.
 Peer ASN(s): AS13030 (INIT7)
 
 Most origin ASNs per prefix: 1 prefix(es) had 20 origin ASNs.

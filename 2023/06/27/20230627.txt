@@ -78,11 +78,11 @@ Prefix(es): 67.211.53.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 5465011 advertisements.
 Origin ASN(s): AS399728 (PFOUNDATION)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4889755 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 5013753 advertisements.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 5027997 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 5155235 updates.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 180314 withdraws.
 Peer ASN(s): AS13030 (INIT7)

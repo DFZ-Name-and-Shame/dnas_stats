@@ -213,10 +213,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1911239 advertisements.
 Origin ASN(s): AS19181 (CWIE)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7647245 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7762782 advertisements.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7579836 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 7700107 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 343263 withdraws.
@@ -231,7 +231,7 @@ Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
 Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
-Prefix 137.44.0.0/16 from origin ASN(s) AS786 has attribute(s) {20}
-Prefix 147.143.0.0/16 from origin ASN(s) AS786 has attribute(s) {20}
+Prefix 137.44.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 203.14.116.0/23 from origin ASN(s) AS1221 (ASN-TELSTRA) has attribute(s) {243}
 

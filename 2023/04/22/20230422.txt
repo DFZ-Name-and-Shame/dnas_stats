@@ -19,19 +19,19 @@ Prefix 103.83.248.0/22 from origin ASN(s) AS23456 AS64846
 Prefix 2001:d98:e00::2/128 from origin ASN(s) AS64701 AS64700
 
 Bogon prefixes with most origin ASNs per prefix: 15 bogon prefix(es) had 1 origin ASNs.
-Prefix 172.20.3.180/30 from origin ASN(s) AS268696
-Prefix 172.20.5.152/30 from origin ASN(s) AS268696
-Prefix 172.20.5.72/30 from origin ASN(s) AS268696
-Prefix 172.30.215.20/30 from origin ASN(s) AS268696
-Prefix 172.20.4.120/30 from origin ASN(s) AS268696
-Prefix 172.30.215.68/30 from origin ASN(s) AS268696
-Prefix 172.30.215.44/30 from origin ASN(s) AS268696
-Prefix 172.30.215.52/30 from origin ASN(s) AS268696
-Prefix 172.20.0.212/30 from origin ASN(s) AS268696
-Prefix 172.20.40.24/30 from origin ASN(s) AS268696
-Prefix 172.20.5.8/30 from origin ASN(s) AS268696
-Prefix 172.30.215.32/30 from origin ASN(s) AS268696
-Prefix 172.20.5.48/30 from origin ASN(s) AS268696
+Prefix 172.20.3.180/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.5.152/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.5.72/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.30.215.20/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.4.120/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.30.215.68/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.30.215.44/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.30.215.52/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.0.212/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.40.24/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.5.8/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.30.215.32/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
+Prefix 172.20.5.48/30 from origin ASN(s) AS268696 (TUDDO INTERNET LTDA)
 Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE)
 Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
 
@@ -448,10 +448,10 @@ Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 5417384 advertiseme
 Origin ASN(s): AS21219 (Datagroup)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4345252 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP updates per peer ASN: 1 peer ASN(s) sent 4444978 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 196778 withdraws.
 Peer ASN(s): AS13030 (INIT7)

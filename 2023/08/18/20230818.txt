@@ -108,16 +108,16 @@ Prefix 5.105.10.0/24 via peer AS35280 (F5) from origin ASN(s) AS198587 (ELYTRIUM
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 45.145.229.215/32 from origin ASN(s) AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP) AS23456
 
-Most BGP advertisements per prefix: 1 prefix(es) had 232331 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 237780 advertisements.
 Prefix(es): 2806:20d:3600::/40
 
-Most BGP updates per prefix: 1 prefix(es) had 236953 updates.
+Most BGP updates per prefix: 1 prefix(es) had 242454 updates.
 Prefix(es): 2806:20d:3600::/40
 
 Most BGP withdraws per prefix: 1 prefix(es) had 80646 withdraws.
 Prefix(es): 67.211.53.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 175829 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 180829 advertisements.
 Origin ASN(s): AS32098 (TRANSTELCO-INC)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 11016174 advertisements.

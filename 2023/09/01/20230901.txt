@@ -7,24 +7,24 @@ Prefix 38.47.246.0/24 from origin ASN(s) AS65000 AS23456
 Prefix 101.255.192.0/22 from origin ASN(s) AS65433 AS65434
 
 Bogon prefixes with most origin ASNs per prefix: 21 bogon prefix(es) had 1 origin ASNs.
-Prefix 100.64.64.0/19 from origin ASN(s) AS28573
-Prefix 100.64.96.0/19 from origin ASN(s) AS28573
-Prefix 100.66.160.0/20 from origin ASN(s) AS28573
-Prefix 100.68.48.0/20 from origin ASN(s) AS28573
-Prefix 100.68.16.0/20 from origin ASN(s) AS28573
-Prefix 100.66.16.0/20 from origin ASN(s) AS28573
-Prefix 100.71.108.0/22 from origin ASN(s) AS28573
-Prefix 100.71.104.0/22 from origin ASN(s) AS28573
-Prefix 100.68.32.0/20 from origin ASN(s) AS28573
-Prefix 100.71.140.0/22 from origin ASN(s) AS28573
-Prefix 100.66.32.0/20 from origin ASN(s) AS28573
-Prefix 100.64.0.0/13 from origin ASN(s) AS28573
-Prefix 100.71.112.0/22 from origin ASN(s) AS28573
-Prefix 100.66.176.0/20 from origin ASN(s) AS28573
-Prefix 100.68.176.0/20 from origin ASN(s) AS28573
-Prefix 100.66.48.0/20 from origin ASN(s) AS28573
-Prefix 100.68.160.0/20 from origin ASN(s) AS28573
-Prefix 100.71.96.0/23 from origin ASN(s) AS28573
+Prefix 100.64.64.0/19 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.64.96.0/19 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.66.160.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.68.48.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.68.16.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.66.16.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.71.108.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.71.104.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.68.32.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.71.140.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.66.32.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.64.0.0/13 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.71.112.0/22 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.66.176.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.68.176.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.66.48.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.68.160.0/20 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
+Prefix 100.71.96.0/23 from origin ASN(s) AS28573 (Claro NXT Telecomunicacoes Ltda)
 Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE)
 Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
 Prefix fd58:9520:1361:68::/126 from origin ASN(s) AS136168 (CAMPANA-AS-AP)

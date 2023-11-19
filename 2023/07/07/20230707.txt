@@ -9,18 +9,1192 @@ Prefix 192.88.99.0/24 from origin ASN(s) AS36732 (COMCAST-36732) AS6939 (HURRICA
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 7 bogon ASNs.
 AS137961 (ABUZZITLIMITED-AS-AP) is originating 7 bogon ASNs: 64550 64545 64538 64547 64571 64570 64537
 
+Prefixes with the highest MED: 1172 prefix(es) had a MED of 20140.
+Prefix 136.186.0.0/16 via peer AS49544 (i3Dnet) from origin ASN(s) AS58686 (SUT-AS-AP).
+Prefix 107.154.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS19551 (INCAPSULA).
+Prefix 192.230.97.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS19551 (INCAPSULA).
+Prefix 202.6.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45494 (LAHAI-SG).
+Prefix 45.5.135.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268238.
+Prefix 45.5.132.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268238.
+Prefix 45.5.133.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268238.
+Prefix 45.5.134.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268238.
+Prefix 84.205.66.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12654 (RIPE-NCC-RIS-AS).
+Prefix 41.209.0.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS9129 (KE-MTN-B).
+Prefix 170.254.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271007.
+Prefix 170.254.239.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271007.
+Prefix 170.254.238.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271007.
+Prefix 170.254.237.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271007.
+Prefix 45.183.178.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270142.
+Prefix 23.146.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54429 (LOCAL-CONNECTIVITY-LAB).
+Prefix 200.17.27.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28571.
+Prefix 189.127.56.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28233.
+Prefix 189.127.57.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28233.
+Prefix 186.219.224.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS270598.
+Prefix 129.134.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS63293 (FACEBOOK-OFFNET).
+Prefix 103.248.132.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS132829 (NCPL-AS-AP).
+Prefix 102.216.112.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS329038 (WHL1-AS).
+Prefix 45.139.208.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54900 (ALIANZA-INC).
+Prefix 103.127.254.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138529 (DATANET-AS-AP).
+Prefix 205.80.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 45.168.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268051.
+Prefix 45.168.23.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268051.
+Prefix 177.155.231.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61797.
+Prefix 37.208.49.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS34704 (SAVEHO).
+Prefix 130.137.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 69.28.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6364 (ATLANTIC-NET-1).
+Prefix 177.11.121.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262296.
+Prefix 132.255.130.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270857.
+Prefix 103.189.255.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS149981 (LDPL-AS-AP).
+Prefix 186.191.252.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS11664 (LACNIC-11664).
+Prefix 189.89.89.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262749.
+Prefix 103.161.248.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS141680 (SUPERNET1-AS-AP).
+Prefix 205.80.157.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 205.80.159.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 205.80.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 103.158.18.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS146881 (DAANCOMM-AS).
+Prefix 186.193.59.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53135.
+Prefix 186.193.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53135.
+Prefix 41.221.148.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36986 (AINET).
+Prefix 41.221.146.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36986 (AINET).
+Prefix 41.221.147.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36986 (AINET).
+Prefix 205.99.32.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 179.6.175.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 179.6.174.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 196.1.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS327977 (FAMILY-BANK).
+Prefix 45.168.21.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268051.
+Prefix 45.168.20.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268051.
+Prefix 214.4.166.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27138 (DNIC-ASBLK-27032-27159).
+Prefix 204.122.128.0/17 via peer AS49544 (i3Dnet) from origin ASN(s) AS39999 (POLK-COUNTY-PUBLIC-SCHOOLS).
+Prefix 67.211.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS26405.
+Prefix 130.137.150.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 138.99.27.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61869.
+Prefix 138.99.26.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61869.
+Prefix 45.172.92.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS265566.
+Prefix 106.77.183.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45271 (ICLNET-AS-AP).
+Prefix 106.77.181.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45271 (ICLNET-AS-AP).
+Prefix 106.77.182.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45271 (ICLNET-AS-AP).
+Prefix 106.77.180.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45271 (ICLNET-AS-AP).
+Prefix 179.6.18.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 179.6.16.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 179.6.168.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 179.6.10.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS12252 (LACNIC-12252).
+Prefix 185.107.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS49262 (ATCCZ1).
+Prefix 131.0.37.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61869.
+Prefix 45.139.209.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54900 (ALIANZA-INC).
+Prefix 209.153.115.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13654 (KC-WEB-LLC).
+Prefix 209.153.68.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13654 (KC-WEB-LLC).
+Prefix 68.171.29.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13654 (KC-WEB-LLC).
+Prefix 176.124.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209856 (SOFT-TEHNICA).
+Prefix 130.137.111.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 103.136.231.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138903 (PROMEE-AS-AP).
+Prefix 199.193.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16887 (AETHERNETSANANTONIO).
+Prefix 190.7.83.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27855.
+Prefix 170.238.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266407.
+Prefix 179.20.0.0/14 via peer AS49544 (i3Dnet) from origin ASN(s) AS6306 (LACNIC-6306).
+Prefix 190.7.93.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27855.
+Prefix 185.252.115.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS204348 (REKORNET).
+Prefix 185.252.112.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS204348 (REKORNET).
+Prefix 170.81.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266425.
+Prefix 158.120.210.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 168.220.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.208.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.220.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.214.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.212.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 168.220.218.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 168.220.222.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 168.220.214.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 168.220.208.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.218.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 158.120.198.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS398156 (FIRST-LIGHT-FIBER-01).
+Prefix 185.182.183.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 193.163.179.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 185.182.180.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 176.119.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 185.182.180.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 185.182.182.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 185.182.181.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS208103 (zonaenergia).
+Prefix 170.78.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265491.
+Prefix 170.78.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265491.
+Prefix 170.78.2.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS265491.
+Prefix 185.208.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS205746 (COFIROUTE).
+Prefix 197.255.208.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS37200 (SIMBANET-NIGERIA).
+Prefix 130.137.86.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 102.165.186.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328873 (NationalAssemblyAbuja).
+Prefix 102.165.187.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328873 (NationalAssemblyAbuja).
+Prefix 102.165.185.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328873 (NationalAssemblyAbuja).
+Prefix 68.142.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS11280 (SNAPPYDSL-ASN1).
+Prefix 89.40.136.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.33.238.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 86.106.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.33.45.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.35.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 170.81.44.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381.
+Prefix 170.81.46.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381.
+Prefix 170.81.44.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381.
+Prefix 103.105.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.137.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.105.238.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.137.169.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.137.170.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.105.237.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 103.105.239.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 197.138.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 208.81.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27621 (AMERICAN-COMPUTER-ASSOCIATES-SCHUYL-INC).
+Prefix 205.72.104.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 205.72.99.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 205.72.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 205.72.101.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 217.9.24.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.25.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.26.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.24.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 31.40.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209747 (may-net).
+Prefix 59.162.50.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS4755 (TATACOMM-AS).
+Prefix 203.32.221.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS38219 (skodaautoindia-as-ap).
+Prefix 45.81.128.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8796.
+Prefix 156.118.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS34177 (CELESTE-AS).
+Prefix 103.137.171.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 181.225.48.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8053 (LACNIC-8053).
+Prefix 89.42.35.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.34.5.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.34.93.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 86.104.124.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.35.55.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.41.63.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.36.92.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.42.214.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.42.14.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.44.104.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 89.36.19.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31362 (NETPROTECT).
+Prefix 205.86.66.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5371.
+Prefix 205.86.65.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5371.
+Prefix 205.86.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5371.
+Prefix 151.236.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS59588 (ZAINAS-IQ).
+Prefix 175.45.179.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS131279 (STAR-KP).
+Prefix 193.36.174.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 143.208.28.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264079.
+Prefix 178.22.141.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS42353 (SIMWOOD).
+Prefix 199.74.8.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS2711 (SPIRITTEL-AS).
+Prefix 137.234.217.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 207.38.70.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS63252 (HCDL-PHOENIX-DATA-CENTER).
+Prefix 103.105.236.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS135719 (LMES-AS).
+Prefix 203.124.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7590 (COMSATS).
+Prefix 76.76.10.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398962 (CONTROLD).
+Prefix 143.45.112.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS1649 (DNIC-AS-01649).
+Prefix 195.114.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8369 (INTERSVYAZ-AS).
+Prefix 196.46.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS33765 (TTCLDATA).
+Prefix 130.137.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 216.198.212.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7393 (CYBERCON).
+Prefix 200.27.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.8.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.143.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.34.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.20.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.63.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.229.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.244.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.13.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 199.186.30.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.14.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.172.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.228.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.35.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 190.54.33.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.127.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.32.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.149.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.31.48.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.33.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 190.54.8.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 137.234.64.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 137.234.128.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 190.208.19.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 200.27.103.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6429 (LACNIC-6429).
+Prefix 189.165.148.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.170.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.171.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.4.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.32.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.192.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.214.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.212.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.172.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.64.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.208.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.210.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.96.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.113.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.0.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.32.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.114.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.3.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.48.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.112.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.64.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.176.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.123.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.96.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.1.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.121.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.132.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.118.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.116.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.187.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.129.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.154.122.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.30.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.26.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.23.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.28.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.27.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.16.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.20.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.29.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.31.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.24.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 91.196.65.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS201483 (BLSIT-AS).
+Prefix 146.16.36.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS1501 (DNIC-ASBLK-01500-01502).
+Prefix 146.16.33.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS1501 (DNIC-ASBLK-01500-01502).
+Prefix 200.107.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27926.
+Prefix 200.107.226.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27926.
+Prefix 200.107.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27926.
+Prefix 200.107.224.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27926.
+Prefix 103.233.218.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS133249 (SEVENINFOTECH-AS-IN).
+Prefix 141.193.220.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54037 (DCA-LN).
+Prefix 45.202.5.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 45.202.4.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 45.202.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.212.23.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.212.21.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.212.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.212.20.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 45.202.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.31.26.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS141159 (INCOMPARABLEHKNET-AS-AP).
+Prefix 38.99.125.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS393229 (OPORTUN).
+Prefix 169.255.237.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS327898 (CBC-EMEA).
+Prefix 185.167.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS49257 (amexas).
+Prefix 201.155.18.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.167.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.247.35.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.224.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.240.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.192.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.160.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.144.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.208.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.228.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.176.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.146.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.107.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS27926.
+Prefix 130.137.127.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.26.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 147.92.86.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53764 (DMWIRELESS).
+Prefix 190.60.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS18747 (IFX18747).
+Prefix 103.31.140.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138296 (STARNET7-AS).
+Prefix 103.93.195.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138296 (STARNET7-AS).
+Prefix 103.127.82.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136933 (GIGABITBANK-AS-AP).
+Prefix 162.254.197.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS32590 (VALVE-CORPORATION).
+Prefix 155.133.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS32590 (VALVE-CORPORATION).
+Prefix 130.137.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 64.1.101.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47051 (SV-4).
+Prefix 204.77.217.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS46550 (LOGICORP).
+Prefix 204.77.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS46550 (LOGICORP).
+Prefix 204.77.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS46550 (LOGICORP).
+Prefix 69.196.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS30676 (TUB).
+Prefix 69.196.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS30676 (TUB).
+Prefix 103.85.4.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136074 (SARANACIPTAKOMUNIKASI-AS-ID).
+Prefix 103.85.5.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136074 (SARANACIPTAKOMUNIKASI-AS-ID).
+Prefix 103.85.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136074 (SARANACIPTAKOMUNIKASI-AS-ID).
+Prefix 45.172.36.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS268846.
+Prefix 130.137.85.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 189.148.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.111.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.138.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.136.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.56.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.58.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.134.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.130.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.60.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.128.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.140.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.233.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.232.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.8.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.14.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.128.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.132.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.96.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.168.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.64.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.2.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.12.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.130.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.0.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.136.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.140.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.4.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.112.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.165.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.154.120.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.179.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.146.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.184.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.148.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 130.137.118.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8987 (UNSPECIFIED).
+Prefix 103.127.80.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS132325 (LEMON-AS-AP).
+Prefix 188.225.174.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12754 (coolnet).
+Prefix 200.53.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271365.
+Prefix 155.133.226.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS32590 (VALVE-CORPORATION).
+Prefix 200.48.235.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6147 (LACNIC-6147).
+Prefix 200.37.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6147 (LACNIC-6147).
+Prefix 130.137.90.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 185.40.140.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209820 (BITWISEOPS).
+Prefix 80.208.254.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209820 (BITWISEOPS).
+Prefix 80.209.254.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209820 (BITWISEOPS).
+Prefix 130.137.141.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 103.91.72.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136294 (DECIBEL-AS-IN).
+Prefix 130.137.89.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS14618 (AMAZON-AES).
+Prefix 189.148.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.148.126.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.223.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.243.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.232.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.248.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.247.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.242.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.236.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.218.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.222.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.244.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.196.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.226.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.220.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.251.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.218.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.221.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.240.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.235.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.219.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.222.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.237.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.217.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.238.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.220.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.136.229.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.154.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.246.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.231.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.228.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.237.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.154.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.129.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.51.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.99.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.52.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.72.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.60.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.70.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.42.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.96.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.50.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.45.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.106.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.62.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.112.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.66.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.68.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.105.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.0.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.102.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.46.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.58.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.54.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.48.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.104.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.123.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.138.64.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 168.176.205.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5722 (LACNIC-5722).
+Prefix 168.176.213.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5722 (LACNIC-5722).
+Prefix 177.66.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52656.
+Prefix 82.212.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 82.212.99.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 130.137.99.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 2.56.38.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS209173 (ExxonMobilIQ).
+Prefix 130.137.28.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.16.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 177.53.247.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262481.
+Prefix 95.70.253.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12735 (ASTurkNet).
+Prefix 185.175.251.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 82.212.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 130.137.105.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 103.190.139.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150000 (DBS-AS-AP).
+Prefix 102.221.143.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS329114 (HFTA1-AS).
+Prefix 187.183.230.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28573.
+Prefix 72.252.11.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27781.
+Prefix 72.252.13.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27781.
+Prefix 72.252.12.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27781.
+Prefix 72.252.10.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27781.
+Prefix 177.66.159.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52656.
+Prefix 177.155.230.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61797.
+Prefix 194.8.82.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS44580 (ARECA-BUSINESS-CENTER-AS).
+Prefix 128.201.183.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266644.
+Prefix 177.241.70.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13999 (LACNIC-13999).
+Prefix 177.241.71.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13999 (LACNIC-13999).
+Prefix 209.22.67.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS2046 (DNIC-AS-02046).
+Prefix 209.22.66.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS2046 (DNIC-AS-02046).
+Prefix 130.137.133.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.12.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 82.212.89.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 82.212.109.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 82.212.106.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47887 (NEU-AS).
+Prefix 205.110.252.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 205.109.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 93.126.221.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS31126 (SODETEL-AS).
+Prefix 5.158.85.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200845 (EsWikiker).
+Prefix 130.137.78.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 183.81.170.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS55342 (HOMENET6837-AS-AP).
+Prefix 207.244.192.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS6428 (CDM).
+Prefix 38.128.154.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398836 (NP-NETWORKS).
+Prefix 198.40.46.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53641 (TOMALESBAYLAN).
+Prefix 181.199.57.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 181.198.75.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 45.65.203.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265734.
+Prefix 131.196.15.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264668.
+Prefix 208.96.129.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52501.
+Prefix 191.37.24.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263351.
+Prefix 202.144.149.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS18024 (BTTELECOM-AS-AP).
+Prefix 148.237.159.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 148.237.157.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 148.237.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 148.237.160.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 148.237.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 148.237.161.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7325 (LACNIC-7325).
+Prefix 179.0.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52494.
+Prefix 72.249.213.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53764 (DMWIRELESS).
+Prefix 103.157.184.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS55342 (HOMENET6837-AS-AP).
+Prefix 147.112.0.0/16 via peer AS49544 (i3Dnet) from origin ASN(s) AS1770 (RINGSTADAS).
+Prefix 195.177.202.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS1770 (RINGSTADAS).
+Prefix 170.79.11.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 138.0.132.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 138.0.133.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 138.0.134.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 170.79.10.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 170.79.8.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 170.79.9.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 195.182.63.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS47306 (ISEC-as).
+Prefix 130.137.124.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 45.173.132.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS268828.
+Prefix 181.198.233.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52257.
+Prefix 181.198.50.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 38.128.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398836 (NP-NETWORKS).
+Prefix 23.134.200.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398836 (NP-NETWORKS).
+Prefix 38.128.155.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398836 (NP-NETWORKS).
+Prefix 38.128.153.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398836 (NP-NETWORKS).
+Prefix 103.179.40.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS149245 (GTECHCOM-AS-IN).
+Prefix 177.129.251.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28335.
+Prefix 45.162.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263347.
+Prefix 103.86.131.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS133169 (UniverisityMalaysiaPerlis-AS-AP).
+Prefix 200.229.80.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61798.
+Prefix 200.229.82.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61798.
+Prefix 200.229.83.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61798.
+Prefix 102.69.52.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS37284 (Aljeel-net).
+Prefix 45.165.149.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268678.
+Prefix 186.216.60.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262663.
+Prefix 198.40.44.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53641 (TOMALESBAYLAN).
+Prefix 200.125.128.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 181.199.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 157.100.203.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 181.199.54.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 181.199.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 157.100.202.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 186.5.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 157.100.201.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 157.100.200.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 181.199.59.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 186.101.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS27947.
+Prefix 115.69.95.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45272 (HEXNET-AS-AP).
+Prefix 208.91.101.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS40420 (SILVERLINESOLUTIONSINC).
+Prefix 198.148.190.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS40420 (SILVERLINESOLUTIONSINC).
+Prefix 146.83.95.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS11340 (LACNIC-11340).
+Prefix 129.109.44.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS14373 (UTMB).
+Prefix 205.57.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS5839.
+Prefix 103.40.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS59149 (TUJUHDELAPANSEMBILANNET-AS-ID).
+Prefix 38.52.160.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 38.156.20.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 38.156.21.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 38.44.240.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 38.44.247.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 38.156.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS64134.
+Prefix 67.209.160.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 67.209.160.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 69.67.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 66.218.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 67.209.161.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 66.218.1.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 67.209.162.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22727 (USADATANET).
+Prefix 38.43.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS394449 (FYBERCOM).
+Prefix 201.99.59.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.147.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.24.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.67.164.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 196.202.254.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS36907 (TVCaboAngola).
+Prefix 187.222.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.1.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.76.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.78.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.92.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.67.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.132.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.75.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.205.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.113.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.198.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.214.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.214.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.171.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.223.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.111.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.143.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.233.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.13.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.116.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.174.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.92.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.112.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.103.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.90.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.33.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.83.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 79.180.255.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8551 (BEZEQ-INTERNATIONAL-AS).
+Prefix 102.219.168.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS328480 (TooMuchWifi).
+Prefix 102.68.120.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS328480 (TooMuchWifi).
+Prefix 102.221.232.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS328480 (TooMuchWifi).
+Prefix 124.199.126.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS9902 (NEOCOMISP-KH-AP).
+Prefix 79.182.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8551 (BEZEQ-INTERNATIONAL-AS).
+Prefix 200.106.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630.
+Prefix 45.225.142.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266938.
+Prefix 205.107.36.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 201.99.157.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.145.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.185.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.188.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.202.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.186.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.187.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.112.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.114.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.216.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.16.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.28.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.140.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.144.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.150.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.56.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.72.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.216.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.48.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.32.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.241.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.59.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.46.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.242.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.223.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.54.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.254.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.218.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.228.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.240.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.50.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.55.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.44.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.34.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.57.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.169.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.170.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.243.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.219.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.45.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.60.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.229.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.37.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.220.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.253.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.62.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.222.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.224.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.226.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.49.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.42.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.16.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.8.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.0.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.132.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.129.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.106.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.28.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.24.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.202.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.196.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.95.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.162.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.175.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.67.153.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.214.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.185.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.184.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.88.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.232.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.104.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.112.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.128.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.120.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.96.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.198.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.204.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.188.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.235.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.190.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.207.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.228.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.131.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.230.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.234.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 130.137.121.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 89.185.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS203442 (DELTA-CORE).
+Prefix 158.51.219.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS14965 (ALDERA-NL).
+Prefix 184.27.142.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.219.32.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.204.64.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.204.48.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.206.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.204.32.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 187.228.168.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 209.217.207.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.176.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.189.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 104.194.21.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.182.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.20.140.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.221.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.180.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 162.212.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 172.97.96.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.220.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 162.212.84.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.219.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 205.142.148.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.197.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 172.96.145.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 172.96.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 104.194.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.177.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 208.123.113.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.204.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.20.141.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.202.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.181.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.1.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.0.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 104.194.20.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.20.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.183.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.20.142.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.196.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.198.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.218.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.203.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 209.217.205.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 216.171.187.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 205.142.149.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 208.123.112.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 8.24.64.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS174 (COGENT-174).
+Prefix 8.24.72.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS174 (COGENT-174).
+Prefix 187.228.190.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.191.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 190.103.189.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271635.
+Prefix 189.132.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.128.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.222.136.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.199.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.56.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.80.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.40.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.48.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.24.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.72.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.64.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 189.236.68.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.32.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.221.20.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.192.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.216.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.224.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.226.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.158.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.133.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.192.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 209.48.193.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22525 (ATALANTA-SOSNOFF).
+Prefix 193.233.202.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200019 (AlexHost).
+Prefix 187.228.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.144.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.160.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.228.152.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 67.216.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.3.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.5.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 67.216.4.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7828 (DRMSCPASN).
+Prefix 187.228.186.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.172.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.184.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.248.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.208.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.176.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.220.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.224.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.232.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.220.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.136.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.184.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.246.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.249.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.250.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.252.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.244.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.245.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.169.247.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.119.230.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.200.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.189.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.230.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.99.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 187.230.196.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.95.27.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.34.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.38.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.67.251.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 200.67.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.48.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.31.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.8.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.56.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.155.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 201.122.207.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8151 (LACNIC-8151).
+Prefix 137.234.249.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS637 (DNIC-ASBLK-00616-00665).
+Prefix 130.137.147.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 103.177.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS147140 (IDNIC-HIMNET-AS-ID).
+Prefix 103.177.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS147140 (IDNIC-HIMNET-AS-ID).
+Prefix 103.177.6.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS147140 (IDNIC-HIMNET-AS-ID).
+
 Longest AS path: 4 prefix(es) had an AS path length of 255 ASNs.
 Prefix 2a11:fe80:fabf::/48 via peer AS199524 (GCORE) from origin ASN(s) AS209209 (FABNET-AS). AS Path length 255: AS199524 AS3257 AS3320 AS30962 AS41108 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209.
 Prefix 2a11:fe80:fabf::/48 via peer AS37271 (Workonline) from origin ASN(s) AS209209 (FABNET-AS). AS Path length 255: AS37271 AS2914 AS3320 AS30962 AS41108 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209.
 Prefix 2a11:fe80:fabf::/48 via peer AS199524 (GCORE) from origin ASN(s) AS209209 (FABNET-AS). AS Path length 255: AS199524 AS6830 AS3320 AS30962 AS41108 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209.
-Prefix 2a11:fe80:fabf::/48 via peer AS265721 (Cable Atlantico SRL) from origin ASN(s) AS209209 (FABNET-AS). AS Path length 255: AS265721 AS23520 AS6830 AS3320 AS30962 AS41108 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209.
+Prefix 2a11:fe80:fabf::/48 via peer AS265721 from origin ASN(s) AS209209 (FABNET-AS). AS Path length 255: AS265721 AS23520 AS6830 AS3320 AS30962 AS41108 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209 AS209209.
 
 Longest community set: 1 prefix(es) had a community set length of 485 communities.
 Prefix 185.18.201.0/24 via peer AS35280 (F5) from origin ASN(s) AS47855 (PRIME). Commnuity set length 485: 0:1820 0:2854 0:3226 0:3252 0:3255 0:3261 0:3267 0:3326 0:4980 0:5467 0:5563 0:6233 0:6447 0:6663 0:6697 0:6712 0:6735 0:6762 0:6768 0:6789 0:6846 0:6849 0:6876 0:6886 0:6939 0:7713 0:8192 0:8242 0:8342 0:8369 0:8449 0:8492 0:8515 0:8551 0:8563 0:8595 0:8636 0:8641 0:8647 0:8732 0:8779 0:8926 0:8932 0:9049 0:9198 0:10122 0:11019 0:12297 0:12389 0:12418 0:12555 0:12593 0:12668 0:12695 0:12714 0:12722 0:12737 0:12741 0:12883 0:12958 0:12963 0:13094 0:13170 0:13188 0:13194 0:13238 0:13249 0:13335 0:14061 0:15169 0:15378 0:15493 0:15672 0:15673 0:15848 0:15895 0:16066 0:16223 0:16230 0:16276 0:16302 0:20495 0:20764 0:21030 0:21109 0:21140 0:21156 0:21453 0:21488 0:21497 0:21500 0:21859 0:22697 0:24429 0:24482 0:24589 0:24638 0:24700 0:24703 0:24812 0:24875 0:24940 0:24955 0:25091 0:25198 0:25293 0:25372 0:25394 0:25454 0:25521 0:25526 0:28709 0:28761 0:28773 0:28910 0:28968 0:29107 0:29119 0:29182 0:29226 0:29329 0:29588 0:30968 0:31059 0:31069 0:31133 0:31200 0:31214 0:31257 0:31272 0:31277 0:31323 0:31343 0:31376 0:31415 0:31444 0:31499 0:31500 0:31514 0:31720 0:31725 0:32590 0:32934 0:33871 0:34056 0:34123 0:34300 0:34465 0:34527 0:34602 0:34700 0:34743 0:34824 0:34867 0:34879 0:35000 0:35032 0:35048 0:35104 0:35144 0:35213 0:35237 0:35278 0:35297 0:35420 0:35598 0:35614 0:35807 0:35810 0:37721 0:38984 0:39046 0:39087 0:39102 0:39134 0:39153 0:39351 0:39399 0:39442 0:39493 0:39521 0:39608 0:39775 0:41009 0:41018 0:41082 0:41268 0:41275 0:41281 0:41313 0:41327 0:41330 0:41378 0:41435 0:41560 0:41601 0:41743 0:41750 0:41802 0:41820 0:41842 0:41904 0:41985 0:42031 0:42065 0:42105 0:42239 0:42291 0:42331 0:42339 0:42437 0:42498 0:42511 0:42512 0:42518 0:42574 0:42632 0:42668 0:42765 0:42773 0:42861 0:42893 0:42913 0:43106 0:43139 0:43267 0:43278 0:43314 0:43317 0:43362 0:43399 0:43404 0:43521 0:43530 0:43554 0:43567 0:43656 0:43727 0:43865 0:44020 0:44030 0:44056 0:44066 0:44128 0:44172 0:44267 0:44291 0:44347 0:44391 0:44416 0:44439 0:44484 0:44600 0:44670 0:44882 0:44901 0:44923 0:44927 0:44943 0:45010 0:46489 0:47140 0:47172 0:47196 0:47211 0:47213 0:47236 0:47321 0:47363 0:47438 0:47441 0:47481 0:47522 0:47541 0:47542 0:47626 0:47655 0:47723 0:47764 0:47845 0:47864 0:47895 0:47914 0:48061 0:48078 0:48084 0:48092 0:48117 0:48166 0:48176 0:48223 0:48239 0:48257 0:48276 0:48282 0:48347 0:48370 0:48399 0:48416 0:48422 0:48481 0:48558 0:48641 0:48648 0:48919 0:48940 0:48964 0:48989 0:49038 0:49063 0:49120 0:49136 0:49183 0:49218 0:49340 0:49368 0:49371 0:49377 0:49453 0:49461 0:49478 0:49505 0:49588 0:49722 0:49747 0:49813 0:49821 0:49824 0:49830 0:49893 0:49943 0:49954 0:50012 0:50060 0:50107 0:50113 0:50115 0:50130 0:50157 0:50158 0:50169 0:50182 0:50204 0:50222 0:50254 0:50272 0:50289 0:50304 0:50340 0:50418 0:50473 0:50581 0:50619 0:50629 0:50636 0:50643 0:50673 0:50716 0:50775 0:50776 0:50867 0:50889 0:50916 0:50923 0:50952 0:51028 0:51069 0:51092 0:51178 0:51200 0:51219 0:51273 0:51341 0:51343 0:51380 0:51437 0:51477 0:51520 0:51635 0:51669 0:51685 0:52000 0:52015 0:52060 0:52091 0:52114 0:52180 0:52191 0:54994 0:56354 0:56364 0:56400 0:56407 0:56528 0:56534 0:56592 0:56630 0:56634 0:56655 0:56679 0:56694 0:56701 0:56814 0:56864 0:56911 0:57043 0:57073 0:57091 0:57112 0:57227 0:57344 0:57354 0:57363 0:57393 0:57456 0:57463 0:57494 0:57583 0:57629 0:57630 0:57712 0:57724 0:57976 0:58002 0:58048 0:58067 0:58096 0:58158 0:58349 0:58511 0:58807 0:59482 0:59504 0:59536 0:59574 0:59589 0:59796 0:59900 0:60022 0:60068 0:60072 0:60075 0:60098 0:60165 0:60280 0:60283 0:60299 0:60345 0:60388 0:60470 0:60580 0:60731 0:60764 0:61152 0:61400 0:61403 0:62040 0:62041 0:62082 0:62206 0:63199 8714:65010 8714:65011 8714:65023 31500:100 31500:812 31500:5006 31500:5106 31500:5555 31500:5816 31500:7202 35280:20 35280:1010 35280:2050 35280:3060 35280:4050 35280:20000 35280:21000 35280:21060 65000:47541 65000:47542 8714:1000:2 8714:1001:1 8714:1001:2 35280:64999:8714.
 
 Abnormally large/small prefixes with most origin ASNs per prefix: 2 large/small prefix(es) had 3 origin ASNs.
 Prefix 103.234.54.104/32 from origin ASN(s) AS64050 (BCPL-SG) AS64021 (Network-Transit) AS23456
-Prefix 0.0.0.0/0 from origin ASN(s) AS23520 (COLUMBUS-NETWORKS) AS3356 (LEVEL3) AS263702 (GRUPO ZGH SPA)
+Prefix 0.0.0.0/0 from origin ASN(s) AS23520 (COLUMBUS-NETWORKS) AS3356 (LEVEL3) AS263702
 
 Most BGP advertisements per prefix: 1 prefix(es) had 1674192 advertisements.
 Prefix(es): 201.49.244.0/22
@@ -31,13 +1205,13 @@ Prefix(es): 201.49.244.0/22
 Most BGP withdraws per prefix: 1 prefix(es) had 151884 withdraws.
 Prefix(es): 201.49.244.0/22
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1110977 advertisements.
-Origin ASN(s): AS264265 (VIAWEBRS TELECOMUNICACOES)
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1138842 advertisements.
+Origin ASN(s): AS264265
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8392325 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8588941 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8427573 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8625077 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 200709 withdraws.

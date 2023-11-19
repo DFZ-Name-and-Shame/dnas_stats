@@ -40,7 +40,7 @@ Prefix 185.18.201.0/24 via peer AS35280 (F5) from origin ASN(s) AS47855 (PRIME).
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 103.234.54.103/32 from origin ASN(s) AS64050 (BCPL-SG) AS64021 (Network-Transit) AS23456
 
-Most BGP advertisements per prefix: 1 prefix(es) had 776085 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 795636 advertisements.
 Prefix(es): 2a01:d0:8000::/33
 
 Most BGP updates per prefix: 1 prefix(es) had 1001883 updates.
@@ -52,10 +52,10 @@ Prefix(es): 2a01:d0:8000::/33
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1503053 advertisements.
 Origin ASN(s): AS49981 (WorldStream)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8304820 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8471624 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8336842 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8504306 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 174471 withdraws.

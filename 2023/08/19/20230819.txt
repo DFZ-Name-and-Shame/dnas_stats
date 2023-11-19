@@ -50,7 +50,7 @@ Prefix 5.252.34.0/24 via peer AS35280 (F5) from origin ASN(s) AS59796 (STORMWALL
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 103.251.89.240/32 from origin ASN(s) AS133199 (SONDERCLOUDLIMITED-AS-AP) AS23456 AS139659 (LUCID-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 352871 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 361408 advertisements.
 Prefix(es): 136.238.239.0/24
 
 Most BGP updates per prefix: 1 prefix(es) had 892353 updates.
@@ -59,7 +59,7 @@ Prefix(es): 137.106.172.0/24
 Most BGP withdraws per prefix: 1 prefix(es) had 82649 withdraws.
 Prefix(es): 67.211.53.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 333267 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 341804 advertisements.
 Origin ASN(s): AS3300 (BT)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9614940 advertisements.

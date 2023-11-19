@@ -42,7 +42,7 @@ Prefix 193.38.233.22/32 from origin ASN(s) AS59504 (vpsville-AS) AS24429 (Taobao
 Prefix 185.255.133.250/32 from origin ASN(s) AS24429 (Taobao) AS50113 (SuperServersDatacenter)
 Prefix 139.28.223.34/32 from origin ASN(s) AS24429 (Taobao) AS50113 (SuperServersDatacenter)
 Prefix 128.14.225.41/32 from origin ASN(s) AS23456 AS135377 (UCLOUD-HK-AS-AP)
-Prefix 177.101.33.14/32 from origin ASN(s) AS23456 AS262606 (Microtell Telecom)
+Prefix 177.101.33.14/32 from origin ASN(s) AS23456 AS262606 (MICROTELL SCM LTDA)
 Prefix 45.11.47.22/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP)
 Prefix 201.71.51.0/32 from origin ASN(s) AS270777 (RGSul Internet Eireli) AS23456
 Prefix 156.254.228.66/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
@@ -127,10 +127,10 @@ Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 980697 advertisemen
 Origin ASN(s): AS20473 (AS-CHOOPA)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 2489466 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP updates per peer ASN: 1 peer ASN(s) sent 2544757 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 140188 withdraws.
 Peer ASN(s): AS13030 (INIT7)

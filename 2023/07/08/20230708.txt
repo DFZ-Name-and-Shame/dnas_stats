@@ -18,6 +18,413 @@ Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE)
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 11 bogon ASNs.
 AS137961 (ABUZZITLIMITED-AS-AP) is originating 11 bogon ASNs: 64521 64542 64517 64529 64550 64569 64538 64557 64547 64513 64571
 
+Prefixes with the highest MED: 405 prefix(es) had a MED of 20140.
+Prefix 119.17.223.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 119.15.160.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 101.96.101.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 101.96.64.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 199.47.232.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS13341 (TRANQUILITY).
+Prefix 41.209.0.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS9129 (KE-MTN-B).
+Prefix 177.52.221.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271799.
+Prefix 84.205.66.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS12654 (RIPE-NCC-RIS-AS).
+Prefix 214.57.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5371.
+Prefix 214.57.5.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS5371.
+Prefix 179.109.110.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270740.
+Prefix 179.109.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270740.
+Prefix 69.28.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6364 (ATLANTIC-NET-1).
+Prefix 103.86.116.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150552 (IDNIC-BAROKAHNET-AS-ID).
+Prefix 103.86.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150552 (IDNIC-BAROKAHNET-AS-ID).
+Prefix 103.86.116.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS150552 (IDNIC-BAROKAHNET-AS-ID).
+Prefix 185.95.242.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28791 (ASN-CREVAL).
+Prefix 103.248.132.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS132829 (NCPL-AS-AP).
+Prefix 202.6.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45494 (LAHAI-SG).
+Prefix 45.183.178.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270142.
+Prefix 129.134.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS63293 (FACEBOOK-OFFNET).
+Prefix 154.201.64.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.215.96.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.218.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.85.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.83.128.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 156.243.64.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.221.32.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 154.93.64.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS328608 (Africa-on-Cloud-AS).
+Prefix 130.137.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 45.172.92.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS265566.
+Prefix 186.219.224.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS270598.
+Prefix 101.53.55.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 101.96.73.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 210.86.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 195.114.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8369 (INTERSVYAZ-AS).
+Prefix 205.99.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS647 (DNIC-ASBLK-00616-00665).
+Prefix 207.244.192.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS6428 (CDM).
+Prefix 178.22.141.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS42353 (SIMWOOD).
+Prefix 138.117.52.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264229.
+Prefix 196.46.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS33765 (TTCLDATA).
+Prefix 179.0.70.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265207.
+Prefix 130.137.136.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 140.99.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271932.
+Prefix 37.148.217.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271932.
+Prefix 37.148.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271932.
+Prefix 181.225.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8053 (LACNIC-8053).
+Prefix 103.42.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150441 (FIS-AS-AP).
+Prefix 103.42.52.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150441 (FIS-AS-AP).
+Prefix 67.211.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS26405.
+Prefix 142.92.0.0/16 via peer AS49544 (i3Dnet) from origin ASN(s) AS818 (DOC-AS).
+Prefix 130.137.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 199.193.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16887 (AETHERNETSANANTONIO).
+Prefix 179.191.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270053.
+Prefix 170.238.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266407.
+Prefix 208.81.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27621 (AMERICAN-COMPUTER-ASSOCIATES-SCHUYL-INC).
+Prefix 101.53.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24173 (NETNAM-AS-AP).
+Prefix 128.201.183.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266644.
+Prefix 130.137.111.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 68.142.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS11280 (SNAPPYDSL-ASN1).
+Prefix 41.79.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS37209 (HYPERIA).
+Prefix 176.124.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS209856 (SOFT-TEHNICA).
+Prefix 209.22.67.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS2046 (DNIC-AS-02046).
+Prefix 209.22.66.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS2046 (DNIC-AS-02046).
+Prefix 193.0.230.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS49549 (JEKABPILS).
+Prefix 189.89.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262749.
+Prefix 45.139.209.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54900 (ALIANZA-INC).
+Prefix 104.118.7.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 188.138.132.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS31252 (STARNET-AS).
+Prefix 212.44.224.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS8921 (FR-OC3NETWORK).
+Prefix 194.0.176.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8921 (FR-OC3NETWORK).
+Prefix 193.105.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8369 (INTERSVYAZ-AS).
+Prefix 177.10.189.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270000.
+Prefix 164.152.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS398369 (SCHOF-164-1).
+Prefix 156.118.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS34177 (CELESTE-AS).
+Prefix 117.253.144.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.213.208.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 103.147.107.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS139927 (GALAXYNET-AS-AP).
+Prefix 199.84.173.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS22652 (FIBRENOIRE-INTERNET).
+Prefix 64.188.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45560 (TOPNET-IPT-AS-AP).
+Prefix 64.188.46.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45560 (TOPNET-IPT-AS-AP).
+Prefix 177.155.231.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61797.
+Prefix 177.155.228.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61797.
+Prefix 103.161.9.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS151215 (BDCALLINGITLTD-AS-AP).
+Prefix 197.138.239.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.106.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.98.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.113.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 41.89.115.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS36914 (KENET-AS).
+Prefix 143.45.112.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS1649 (DNIC-AS-01649).
+Prefix 117.217.240.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.213.224.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 102.222.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328696 (Tecpoint-Global-Solutions).
+Prefix 6.51.200.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS367.
+Prefix 185.220.124.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS205348 (LSB).
+Prefix 130.137.80.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.127.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 149.255.248.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS203214 (HulumTele).
+Prefix 149.18.40.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS396073 (MAJESTIC-HOSTING-01).
+Prefix 176.123.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200019 (AlexHost).
+Prefix 45.81.90.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS212097 (VIM).
+Prefix 45.81.91.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS212097 (VIM).
+Prefix 45.81.89.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS212097 (VIM).
+Prefix 185.179.168.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS44090 (MahanNet-AS).
+Prefix 149.255.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS203214 (HulumTele).
+Prefix 149.255.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS203214 (HulumTele).
+Prefix 124.124.22.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS18101 (RELIANCE-COMMUNICATIONS-IN).
+Prefix 130.137.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 87.107.145.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS211990 (TeleWebion).
+Prefix 177.85.79.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262296.
+Prefix 130.176.35.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 144.220.18.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 204.246.181.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 130.137.130.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 41.128.216.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS6127 (IDSC).
+Prefix 102.218.209.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328906 (DTL-AS).
+Prefix 102.218.208.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS328906 (DTL-AS).
+Prefix 104.254.188.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS396073 (MAJESTIC-HOSTING-01).
+Prefix 130.137.47.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 222.103.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS4766 (KIXS-AS-KR).
+Prefix 85.9.116.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS3177 (Web-Gostaran-Bandar-Company).
+Prefix 85.9.86.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS3177 (Web-Gostaran-Bandar-Company).
+Prefix 89.46.91.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS201446 (PROFESIONALHOSTING).
+Prefix 130.137.90.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 185.227.239.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS205169 (Al-Taif-ASN).
+Prefix 130.137.85.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 187.84.122.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS270962.
+Prefix 187.84.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270962.
+Prefix 187.84.121.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270962.
+Prefix 214.4.166.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27138 (DNIC-ASBLK-27032-27159).
+Prefix 196.191.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 197.156.108.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.189.192.0/18 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.188.106.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.117.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.189.238.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.191.150.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.189.24.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.142.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.82.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 213.55.92.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.176.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.191.249.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 197.156.97.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.189.180.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.116.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.189.29.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.191.0.0/17 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.191.160.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.191.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.188.128.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 162.88.192.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS33517 (DYNDNS).
+Prefix 8.39.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 172.68.220.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 91.90.161.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS174 (COGENT-174).
+Prefix 130.137.141.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 23.146.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS54429 (LOCAL-CONNECTIVITY-LAB).
+Prefix 187.84.123.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270962.
+Prefix 187.84.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270962.
+Prefix 197.156.106.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 196.190.153.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS24757 (EthioNet-AS).
+Prefix 193.3.232.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS60458 (ASN-XTUDIONET).
+Prefix 130.137.26.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 205.177.115.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS3491 (BTN-ASN).
+Prefix 95.170.196.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS21277 (Newroz-Telecom-ASN).
+Prefix 17.69.240.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS714 (APPLE-ENGINEERING).
+Prefix 17.67.198.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS714 (APPLE-ENGINEERING).
+Prefix 149.36.227.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS174 (COGENT-174).
+Prefix 172.68.60.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 8.44.58.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 93.187.32.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS56484 (FastIraq).
+Prefix 81.90.18.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS48407 (TIGRISNET-IRAQ).
+Prefix 130.137.118.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8987 (UNSPECIFIED).
+Prefix 197.254.194.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS33788 (KANARTEL).
+Prefix 155.28.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS1516 (DNIC-ASBLK-01513-01518).
+Prefix 8.42.52.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 172.69.136.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 8.39.205.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS13335 (CLOUDFLARENET).
+Prefix 38.66.20.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS14695 (EL-RENO-MUNICIPAL-AUTHORITY).
+Prefix 103.162.200.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS141553 (AIEKYBPL-AS-IN).
+Prefix 187.1.3.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 187.1.8.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 170.246.14.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 200.215.164.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 187.1.14.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.12.203.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.197.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.199.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.192.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.194.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.198.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.196.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.200.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.192.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.207.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.200.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.12.204.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS262855.
+Prefix 177.92.157.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 170.246.15.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 187.1.6.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.92.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 176.123.8.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200019 (AlexHost).
+Prefix 185.120.165.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS203849 (UMICORE).
+Prefix 170.244.11.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS266478.
+Prefix 45.172.122.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268765.
+Prefix 45.172.123.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268765.
+Prefix 45.172.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268765.
+Prefix 148.204.242.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS3484 (LACNIC-3484).
+Prefix 138.0.135.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264547.
+Prefix 69.36.64.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS27597 (SITESERVER-IDC1).
+Prefix 23.180.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27597 (SITESERVER-IDC1).
+Prefix 189.14.193.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28328.
+Prefix 189.14.192.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28328.
+Prefix 103.162.201.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS141553 (AIEKYBPL-AS-IN).
+Prefix 103.162.200.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS141553 (AIEKYBPL-AS-IN).
+Prefix 186.232.235.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52879.
+Prefix 186.232.234.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52879.
+Prefix 186.232.236.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52879.
+Prefix 186.232.233.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52879.
+Prefix 187.19.52.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28128.
+Prefix 187.19.53.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28128.
+Prefix 206.166.204.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS53764 (DMWIRELESS).
+Prefix 177.73.83.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.129.118.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 168.181.42.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.129.116.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.73.82.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 168.181.42.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.73.80.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.129.118.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.73.80.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.73.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 168.181.40.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 168.181.40.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 177.129.116.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 168.181.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53029.
+Prefix 103.172.182.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS51847 (NEAROUTE).
+Prefix 177.92.155.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.92.154.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.92.152.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.92.153.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 187.1.13.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 177.92.156.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 187.1.11.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263880.
+Prefix 132.251.138.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS19905 (SECURITYSERVICES).
+Prefix 177.90.0.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS271755.
+Prefix 45.252.60.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS55933 (CLOUDIE-AS-AP).
+Prefix 177.39.231.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52979.
+Prefix 177.39.228.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS52979.
+Prefix 177.39.228.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS52979.
+Prefix 177.39.224.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS52979.
+Prefix 5.253.36.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS61112 (AkileCloud).
+Prefix 45.175.168.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268916.
+Prefix 187.111.204.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.200.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.192.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.198.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.206.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.202.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 187.111.196.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS53123.
+Prefix 177.136.225.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263598.
+Prefix 177.136.224.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS263598.
+Prefix 123.108.97.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 123.108.103.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 123.108.96.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 123.108.100.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 123.108.98.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 123.108.99.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS45313 (PEMDA-NAD-AS-ID).
+Prefix 102.69.52.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS37284 (Aljeel-net).
+Prefix 200.23.109.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28375.
+Prefix 189.89.95.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262749.
+Prefix 165.156.59.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS30437 (GE-MS003).
+Prefix 45.57.56.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS2906 (AS-SSI).
+Prefix 103.11.80.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135817 (ESTO-AS-AP).
+Prefix 103.11.83.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135817 (ESTO-AS-AP).
+Prefix 103.11.81.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135817 (ESTO-AS-AP).
+Prefix 103.11.82.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135817 (ESTO-AS-AP).
+Prefix 190.149.0.0/16 via peer AS49544 (i3Dnet) from origin ASN(s) AS14754 (Telgua).
+Prefix 190.149.160.0/19 via peer AS49544 (i3Dnet) from origin ASN(s) AS14754 (Telgua).
+Prefix 200.17.27.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28571 (UNIVERSIDADE DE SAO PAULO).
+Prefix 203.9.232.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS54110 (CLEARLYIP1).
+Prefix 189.89.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262749.
+Prefix 189.89.82.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262749.
+Prefix 170.210.240.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 170.210.242.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 170.210.241.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 170.210.240.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 170.210.243.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 200.106.248.0/21 via peer AS49544 (i3Dnet) from origin ASN(s) AS264630 (Universidad Nacional de Jujuy).
+Prefix 185.51.134.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS206804 (EstNOC-GLOBAL).
+Prefix 173.255.174.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS206804 (EstNOC-GLOBAL).
+Prefix 103.186.114.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS149792 (H-AS-AP).
+Prefix 103.186.115.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS149792 (H-AS-AP).
+Prefix 103.156.14.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS58821 (IDNIC-LJN-AS-ID).
+Prefix 103.164.198.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 103.148.43.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 103.154.105.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 103.164.198.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 103.164.199.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 103.140.2.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS137655 (AANS-AS-IN).
+Prefix 45.174.101.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268848 (ALL CONNECTIONS - SULRJ.COM LTDA).
+Prefix 45.174.102.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268848 (ALL CONNECTIONS - SULRJ.COM LTDA).
+Prefix 45.174.103.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268848 (ALL CONNECTIONS - SULRJ.COM LTDA).
+Prefix 45.174.100.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS268848 (ALL CONNECTIONS - SULRJ.COM LTDA).
+Prefix 170.254.211.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265166 (SuperNetwork Telecom).
+Prefix 170.254.210.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS265166 (SuperNetwork Telecom).
+Prefix 130.137.86.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS16509 (AMAZON-02).
+Prefix 168.195.34.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28128.
+Prefix 45.189.111.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS269843 (BANTEL SAC).
+Prefix 45.189.110.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS269843 (BANTEL SAC).
+Prefix 103.104.208.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136720 (ESTO-AS-AP).
+Prefix 103.104.209.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136720 (ESTO-AS-AP).
+Prefix 103.104.211.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136720 (ESTO-AS-AP).
+Prefix 103.104.210.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136720 (ESTO-AS-AP).
+Prefix 201.242.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS8048 (CANTV Servicios, Venezuela).
+Prefix 184.26.184.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 173.223.208.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.240.107.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 203.129.250.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS7633 (SOFTNET-AS-AP).
+Prefix 177.74.201.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271888 (SERVICIOS CONVERGENTES DEL OESTE S.R.L.).
+Prefix 177.74.200.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS271888 (SERVICIOS CONVERGENTES DEL OESTE S.R.L.).
+Prefix 177.74.200.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS271888 (SERVICIOS CONVERGENTES DEL OESTE S.R.L.).
+Prefix 216.245.70.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS397028 (PREMIER-HOLDINGS-LLC).
+Prefix 216.245.82.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS397028 (PREMIER-HOLDINGS-LLC).
+Prefix 148.164.4.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS23154 (SANMINA-SCI).
+Prefix 103.105.152.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS135692 (RAGLOBAL-AS-IN).
+Prefix 103.175.202.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS147118 (IDNIC-AMEERA-AS-ID).
+Prefix 103.110.139.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS59012 (SINOGRAIN).
+Prefix 72.249.213.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53764 (DMWIRELESS).
+Prefix 117.252.80.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.221.96.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 136.175.124.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS270147 (Flynode de Mexico, SA de CV).
+Prefix 138.36.197.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264586 (SPEED TELECOMUNICACOES).
+Prefix 117.241.176.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.208.192.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.207.240.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.209.0.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.209.16.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 59.93.224.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 177.128.166.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262374 (FAZZY INTERNET).
+Prefix 177.128.165.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262374 (FAZZY INTERNET).
+Prefix 177.128.167.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262374 (FAZZY INTERNET).
+Prefix 177.128.164.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS262374 (FAZZY INTERNET).
+Prefix 170.233.70.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.71.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.69.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.68.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.68.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.70.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.144.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.146.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 170.233.68.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.146.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.144.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.147.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 45.177.145.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264732 (NETLATIN S.R.L.).
+Prefix 117.208.144.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.195.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.195.160.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.1.240.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.255.176.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.1.224.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.208.128.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.2.160.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.1.192.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.195.176.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.3.64.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.192.224.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 61.3.0.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.194.48.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 117.195.144.0/20 via peer AS49544 (i3Dnet) from origin ASN(s) AS9829 (BSNL-NIB).
+Prefix 214.4.163.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS27138 (DNIC-ASBLK-27032-27159).
+Prefix 177.10.69.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53234 (SILVEIRA & ZIQUINATTI LTDA).
+Prefix 190.8.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS19905 (SECURITYSERVICES).
+Prefix 62.60.144.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS35372 (irandata).
+Prefix 193.233.203.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200019 (AlexHost).
+Prefix 168.228.87.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264906 (PLANET INTERNET).
+Prefix 168.228.86.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS264906 (PLANET INTERNET).
+Prefix 103.31.140.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138296 (STARNET7-AS).
+Prefix 103.134.4.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138296 (STARNET7-AS).
+Prefix 103.93.195.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS138296 (STARNET7-AS).
+Prefix 206.190.218.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS53764 (DMWIRELESS).
+Prefix 217.9.24.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.26.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.25.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 217.9.24.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS210158 (madriddigital).
+Prefix 103.5.104.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS150059 (DIGITAL21-AS-IN).
+Prefix 55.89.25.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS356.
+Prefix 170.81.46.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381 (VIBE PROVEDOR DE INTERNET LTDA).
+Prefix 170.81.44.0/23 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381 (VIBE PROVEDOR DE INTERNET LTDA).
+Prefix 170.81.44.0/22 via peer AS49544 (i3Dnet) from origin ASN(s) AS264381 (VIBE PROVEDOR DE INTERNET LTDA).
+Prefix 181.225.48.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS8053 (LACNIC-8053).
+Prefix 187.19.56.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS28128.
+Prefix 103.142.247.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS136933 (GIGABITBANK-AS-AP).
+Prefix 159.253.120.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS200019 (AlexHost).
+Prefix 193.37.154.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS41755 (EGM-TR).
+Prefix 102.217.206.0/24 via peer AS49544 (i3Dnet) from origin ASN(s) AS328451 (IP-Express-Ltd-AS).
+
 Longest AS path: 1 prefix(es) had an AS path length of 255 ASNs.
 Prefix 2803:9e0::/32 via peer AS199524 (GCORE) from origin ASN(s) AS264732 (NETLATIN S.R.L.). AS Path length 255: AS199524 AS174 AS7049 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732 AS264732.
 
@@ -27,7 +434,7 @@ Prefix 185.18.201.0/24 via peer AS35280 (F5) from origin ASN(s) AS47855 (PRIME).
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 45.136.13.199/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 1117392 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 1151389 advertisements.
 Prefix(es): 201.49.244.0/22
 
 Most BGP updates per prefix: 1 prefix(es) had 1811947 updates.
@@ -37,12 +444,12 @@ Most BGP withdraws per prefix: 1 prefix(es) had 162034 withdraws.
 Prefix(es): 201.49.244.0/22
 
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1566553 advertisements.
-Origin ASN(s): AS264265 (VIAWEBRS TELECOMUNICACOES)
+Origin ASN(s): AS264265 (VIAWEBRS TELECOMUNICACOES LTDA)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7937757 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8161193 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7971516 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8195937 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 215601 withdraws.

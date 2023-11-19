@@ -13,8 +13,9 @@ Prefix 117.239.163.0/24 from origin ASN(s) AS65549 AS23456
 Prefix 195.19.208.0/24 from origin ASN(s) AS64902 AS23456
 Prefix 203.24.71.0/24 from origin ASN(s) AS65004 AS65003
 
-Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
+Bogon prefixes with most origin ASNs per prefix: 2 bogon prefix(es) had 2 origin ASNs.
 Prefix 192.88.99.0/24 from origin ASN(s) AS36732 (COMCAST-36732) AS6939 (HURRICANE)
+Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE) AS7725 (COMCAST-7725)
 
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 42 bogon ASNs.
 AS137961 (ABUZZITLIMITED-AS-AP) is originating 42 bogon ASNs: 64547 64528 64541 64518 64538 64550 64552 64529 64521 64571 64530 64527 64545 64542 64516 64559 64554 64524 64522 64534 64533 64514 64567 64513 64572 64562 64557 64540 64546 64551 64536 64570 64565 64519 64548 64569 64515 64520 64532 64517 64537 64523
@@ -46,10 +47,10 @@ Prefix(es): 67.211.53.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1319476 advertisements.
 Origin ASN(s): AS3549 (LVLT-3549)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8135434 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8338231 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8174070 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8377863 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 203824 withdraws.

@@ -114,12 +114,12 @@ Most BGP withdraws per prefix: 1 prefix(es) had 76408 withdraws.
 Prefix(es): 67.211.53.0/24
 
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 483078 advertisements.
-Origin ASN(s): AS48024
+Origin ASN(s): AS48024 (NEROCLOUD)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8569222 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8792880 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8602405 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8826919 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 200679 withdraws.

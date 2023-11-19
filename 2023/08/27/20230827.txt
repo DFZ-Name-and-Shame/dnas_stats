@@ -74,16 +74,16 @@ Prefix 185.18.201.0/24 via peer AS35280 (F5) from origin ASN(s) AS47855 (PRIME).
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 38.147.173.90/32 from origin ASN(s) AS23456 AS139659 (LUCID-AS-AP) AS133199 (SONDERCLOUDLIMITED-AS-AP)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 841976 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 862678 advertisements.
 Prefix(es): 192.124.40.0/23
 
-Most BGP updates per prefix: 1 prefix(es) had 899459 updates.
+Most BGP updates per prefix: 1 prefix(es) had 921595 updates.
 Prefix(es): 192.124.40.0/23
 
 Most BGP withdraws per prefix: 1 prefix(es) had 144549 withdraws.
 Prefix(es): 131.226.41.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 830656 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 851358 advertisements.
 Origin ASN(s): AS1734 (ROP-COCA-AS01)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 10070620 advertisements.

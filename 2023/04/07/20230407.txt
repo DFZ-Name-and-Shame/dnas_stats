@@ -54,10 +54,10 @@ Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2205640 advertiseme
 Origin ASN(s): AS20473 (AS-CHOOPA)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4261406 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP updates per peer ASN: 1 peer ASN(s) sent 4355114 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 152197 withdraws.
 Peer ASN(s): AS13030 (INIT7)

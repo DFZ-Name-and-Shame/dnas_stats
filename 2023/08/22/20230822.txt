@@ -50,7 +50,7 @@ Prefix(es): 137.106.172.0/24
 Most BGP updates per prefix: 1 prefix(es) had 470519 updates.
 Prefix(es): 137.106.172.0/24
 
-Most BGP withdraws per prefix: 1 prefix(es) had 30491 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 30984 withdraws.
 Prefix(es): 192.124.40.0/23
 
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 231931 advertisements.

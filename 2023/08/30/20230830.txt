@@ -113,7 +113,7 @@ Most BGP withdraws per prefix: 1 prefix(es) had 31835 withdraws.
 Prefix(es): 67.211.53.0/24
 
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 450968 advertisements.
-Origin ASN(s): AS64270
+Origin ASN(s): AS64270 (PACIFICRACK)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 10369730 advertisements.
 Peer ASN(s): AS58511 (ANYCAST-GLOBAL-BACKBONE)

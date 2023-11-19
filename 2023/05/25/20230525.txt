@@ -128,7 +128,7 @@ Prefix 154.23.127.239/32 from origin ASN(s) AS23456 AS139646 (HKMTC-AS-AP)
 Prefix 202.61.84.143/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
 Prefix 43.154.156.50/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
 Prefix 43.154.163.94/32 from origin ASN(s) AS23456 AS132203 (TENCENT-NET-AP-CN)
-Prefix 177.101.43.84/32 from origin ASN(s) AS23456 AS262606 (Microtell Telecom)
+Prefix 177.101.43.84/32 from origin ASN(s) AS23456 AS262606 (MICROTELL SCM LTDA)
 Prefix 154.89.120.251/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
 Prefix 103.163.61.128/25 from origin ASN(s) AS23456 AS141752 (ASTCRM-AS-AP)
 Prefix 156.250.26.82/32 from origin ASN(s) AS23456 AS135097 (MYCLOUD-AS-AP)
@@ -164,7 +164,7 @@ Prefix 2400:9800:b010:ac::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS1788
 Prefix 103.49.61.3/32 from origin ASN(s) AS64050 (BCPL-SG) AS137451 (TELECOM-AS-AP)
 Prefix 156.234.98.234/32 from origin ASN(s) AS136800 (MOACKCOLTD-AS-AP) AS138195 (MOACKCOLTD-AS-AP)
 Prefix 156.234.19.34/32 from origin ASN(s) AS138195 (MOACKCOLTD-AS-AP) AS136800 (MOACKCOLTD-AS-AP)
-Prefix 107.148.130.154/32 from origin ASN(s) AS64050 (BCPL-SG) AS398478 (PEGTECHINC-AP-01)
+Prefix 107.148.130.154/32 from origin ASN(s) AS64050 (BCPL-SG) AS398478 (PEG-HK)
 Prefix 156.234.98.235/32 from origin ASN(s) AS138195 (MOACKCOLTD-AS-AP) AS136800 (MOACKCOLTD-AS-AP)
 
 Most BGP advertisements per prefix: 1 prefix(es) had 1274613 advertisements.
@@ -179,11 +179,11 @@ Prefix(es): 67.211.53.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1505541 advertisements.
 Origin ASN(s): AS49981 (WorldStream)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4395161 advertisements.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4518825 advertisements.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 4496258 updates.
-Peer ASN(s): AS14840 (BRFIBRA TELECOMUNICACOES LTDA)
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 4622828 updates.
+Peer ASN(s): AS14840 (BR.Digital Provider)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 219020 withdraws.
 Peer ASN(s): AS13030 (INIT7)

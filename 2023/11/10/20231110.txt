@@ -1,6 +1,6 @@
 For 2023/11/10 39974358 BGP UPDATES were parsed. 39118044 UPDATES contained prefix advertisements. 3815680 UPDATES contained prefix withdraws.
 
-Prefixes with most bogon origin ASNs per prefix: 1400 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most bogon origin ASNs per prefix: 1402 prefix(es) had 1 bogon origin ASNs.
 Prefix 103.102.137.0/24 from origin ASN(s) AS84565
 Prefix 119.148.23.0/24 from origin ASN(s) AS65601
 Prefix 119.148.20.0/24 from origin ASN(s) AS65601
@@ -1401,6 +1401,8 @@ Prefix 117.99.48.0/20 from origin ASN(s) AS64944
 Prefix 2001:df3:3d00::/48 from origin ASN(s) AS65495
 Prefix 117.97.192.0/20 from origin ASN(s) AS64944
 Prefix 177.92.53.0/24 from origin ASN(s) AS65013
+Prefix 202.53.163.0/24 from origin ASN(s) AS65601
+Prefix 177.92.49.0/24 from origin ASN(s) AS65013
 
 Bogon prefixes with most origin ASNs per prefix: 15 bogon prefix(es) had 1 origin ASNs.
 Prefix 100.96.100.0/24 from origin ASN(s) AS57681 (ASN-MGTS-USPD2)
@@ -1508,10 +1510,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 91452 advertisements.
 Origin ASN(s): AS30873 (PTC-YemenNet)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 10311307 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 10503930 advertisements.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 10331405 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 10524381 updates.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 561934 withdraws.

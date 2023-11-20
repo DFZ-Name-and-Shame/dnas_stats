@@ -236,10 +236,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2064889 advertisements.
 Origin ASN(s): AS19181 (CWIE)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 11735179 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 11987974 advertisements.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 11754415 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 12007583 updates.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 555753 withdraws.

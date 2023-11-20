@@ -1,6 +1,6 @@
-For 2023/11/06 33473805 BGP UPDATES were parsed. 32812137 UPDATES contained prefix advertisements. 3429250 UPDATES contained prefix withdraws.
+For 2023/11/06 33836115 BGP UPDATES were parsed. 33167593 UPDATES contained prefix advertisements. 3465536 UPDATES contained prefix withdraws.
 
-Prefixes with most bogon origin ASNs per prefix: 241 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most bogon origin ASNs per prefix: 244 prefix(es) had 1 bogon origin ASNs.
 Prefix 103.102.137.0/24 from origin ASN(s) AS84565
 Prefix 41.173.26.0/24 from origin ASN(s) AS65533
 Prefix 41.173.25.0/24 from origin ASN(s) AS65533
@@ -242,6 +242,9 @@ Prefix 2804:2fdc:1280::/41 from origin ASN(s) AS65103
 Prefix 2804:37a8:1218::/48 from origin ASN(s) AS65001
 Prefix 2804:5778:aa00::/40 from origin ASN(s) AS64901
 Prefix 2804:5778:ba00::/40 from origin ASN(s) AS64901
+Prefix 2a12:cdc0::/29 from origin ASN(s) AS64629
+Prefix 2a0b:7140:7::/48 from origin ASN(s) AS65123
+Prefix 2804:67a4:124::/48 from origin ASN(s) AS65124
 
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
 Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE) AS43097 (WEBRA)
@@ -317,25 +320,25 @@ Prefix 91.217.197.0/24 via peer AS35280 (F5) from origin ASN(s) AS197278 (GOLTA-
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 103.234.54.18/32 from origin ASN(s) AS64050 (BCPL-SG) AS137451 (TELECOM-AS-AP) AS64021 (Network-Transit)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 2092083 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 2116787 advertisements.
 Prefix(es): 2607:6003:2307::/48
 
-Most BGP updates per prefix: 1 prefix(es) had 3524788 updates.
+Most BGP updates per prefix: 1 prefix(es) had 3563079 updates.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP withdraws per prefix: 1 prefix(es) had 1593024 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 1610310 withdraws.
 Prefix(es): 2a01:9e00:4d0e::/48
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2092088 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2116792 advertisements.
 Origin ASN(s): AS19181 (CWIE)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8010919 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 8307684 advertisements.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 8031487 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 8329110 updates.
 Peer ASN(s): AS264845 (LACNIC - Latin American and Caribbean IP address)
 
-Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 549064 withdraws.
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 554841 withdraws.
 Peer ASN(s): AS8714 (LINX-ROUTESRV)
 
 Most origin ASNs per prefix: 1 prefix(es) had 15 origin ASNs.

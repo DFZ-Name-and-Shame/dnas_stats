@@ -1,6 +1,6 @@
 For 2023/11/09 37223709 BGP UPDATES were parsed. 36493059 UPDATES contained prefix advertisements. 3572743 UPDATES contained prefix withdraws.
 
-Prefixes with most bogon origin ASNs per prefix: 443 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most bogon origin ASNs per prefix: 475 prefix(es) had 1 bogon origin ASNs.
 Prefix 41.175.128.0/20 from origin ASN(s) AS64631
 Prefix 41.174.160.0/20 from origin ASN(s) AS64631
 Prefix 41.174.112.0/21 from origin ASN(s) AS64631
@@ -444,6 +444,38 @@ Prefix 2804:37a8:1220::/48 from origin ASN(s) AS64512
 Prefix 2804:37a8:1213::/48 from origin ASN(s) AS65004
 Prefix 2804:37a8:1205::/48 from origin ASN(s) AS65002
 Prefix 177.92.48.0/24 from origin ASN(s) AS65013
+Prefix 113.198.74.0/23 from origin ASN(s) AS65146
+Prefix 61.33.14.0/24 from origin ASN(s) AS65146
+Prefix 220.67.225.0/24 from origin ASN(s) AS65146
+Prefix 220.67.228.0/24 from origin ASN(s) AS65146
+Prefix 220.67.234.0/23 from origin ASN(s) AS65146
+Prefix 113.198.80.0/21 from origin ASN(s) AS65146
+Prefix 113.198.88.0/22 from origin ASN(s) AS65146
+Prefix 113.198.78.0/23 from origin ASN(s) AS65146
+Prefix 220.67.224.0/24 from origin ASN(s) AS65146
+Prefix 220.67.230.0/24 from origin ASN(s) AS65146
+Prefix 220.67.226.0/23 from origin ASN(s) AS65146
+Prefix 223.194.130.0/23 from origin ASN(s) AS65146
+Prefix 223.194.134.0/23 from origin ASN(s) AS65146
+Prefix 223.194.132.0/23 from origin ASN(s) AS65146
+Prefix 223.194.136.0/22 from origin ASN(s) AS65146
+Prefix 223.194.144.0/22 from origin ASN(s) AS65146
+Prefix 223.194.148.0/23 from origin ASN(s) AS65146
+Prefix 61.35.56.0/24 from origin ASN(s) AS65146
+Prefix 61.33.39.0/24 from origin ASN(s) AS65146
+Prefix 61.37.119.0/24 from origin ASN(s) AS65146
+Prefix 61.38.12.0/24 from origin ASN(s) AS65146
+Prefix 220.66.102.0/23 from origin ASN(s) AS65146
+Prefix 220.67.232.0/23 from origin ASN(s) AS65146
+Prefix 220.67.231.0/24 from origin ASN(s) AS65146
+Prefix 61.38.14.0/24 from origin ASN(s) AS65146
+Prefix 113.198.76.0/23 from origin ASN(s) AS65146
+Prefix 220.67.229.0/24 from origin ASN(s) AS65146
+Prefix 223.194.152.0/23 from origin ASN(s) AS65146
+Prefix 223.194.151.0/24 from origin ASN(s) AS65146
+Prefix 223.194.140.0/22 from origin ASN(s) AS65146
+Prefix 223.194.158.0/23 from origin ASN(s) AS65146
+Prefix 223.194.150.0/24 from origin ASN(s) AS65146
 
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
 Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
@@ -538,10 +570,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2015530 advertisements.
 Origin ASN(s): AS19181 (CWIE)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7701459 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7878946 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7768632 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 7947648 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 562192 withdraws.

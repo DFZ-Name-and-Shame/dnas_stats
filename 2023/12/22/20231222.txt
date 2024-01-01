@@ -433,10 +433,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1113571 advertisements.
 Origin ASN(s): AS400672 (AS-PHOENIXNAP-LA0)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7387421 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7557695 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7437980 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 7609323 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 504227 withdraws.

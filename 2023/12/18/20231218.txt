@@ -181,10 +181,10 @@ Prefix(es): 2a01:9e00:4d0e::/48
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 121174 advertisements.
 Origin ASN(s): AS23428 (SERVERFORGE-ARIN)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7070991 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 7153817 advertisements.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 7119691 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 7203023 updates.
 Peer ASN(s): AS18106 (VIEWQWEST-SG-AP)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 486531 withdraws.

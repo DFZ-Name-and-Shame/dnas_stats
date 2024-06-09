@@ -34,44 +34,130 @@ The report is address family agnostic, statistics are independant of IP version.
 
 All the unique BOGON origin ASNs seen for each prefix across all MRT sources.
 
+The prefixes listed may have been seen from different MRT sources.
+
 Prefixes with more BOGON origin ASNs are considered worse.
 
 ### Bogon prefixes with most origin ASNs per prefix
 
-All the unique origin ASNs seen for each BOGON prefix across all MRT sources.
+All the unique origin ASNs seen for each BOGON prefix across all MRT sources
+
+The prefixes listed may have been seen from different MRT sources.
 
 BOGON prefixes with more origin ASNs are considered worse.
 
 ### ASNs originating the most bogons ASNs
 
-When the origin ASN is a BOGON ASN, walk up the AS PATH until the first non-BOGON ASN is found. This is a list of those ASNs propagating routes with a BOGON origin ASN, seen across all MRT sources.
+When the origin ASN is a BOGON ASN, walk up the AS PATH until the first non-BOGON ASN is found. This is a list of those ASNs propagating routes with a BOGON origin ASN.
+
+The ASNs listed may have been seen from different MRT sources.
 
 ASNs originating more prefixes with a BOGON origin ASN are considered worse.
 
 ### Prefixes with the highest MED
 
-The list of prefixes seen with the same highest MED. The prefixes listed may have been seen from different MRT sources.
+The list of prefixes seen with the same highest MED.
+
+The prefixes listed may have been seen from different MRT sources.
 
 A higher MED is considered worse.
 
 ### Longest AS path
 
-A list of prefixes seen with the same highest AS Path length (they often all have a path length of 255 ASNs because this is the maximum BGPv4 supports). The prefixes listed may have been seen from different MRT sources.
+A list of prefixes seen with the same highest AS Path length (they often all have a path length of 255 ASNs because this is the maximum BGPv4 supports).
+
+The prefixes listed may have been seen from different MRT sources.
 
 A longer AS Path is considered worse.
 
 ### Longest community set
 
-A list of prefixes all with the same highest number of communities attached. This includes standard and large communities. The prefixes listed may have been seen from different MRT sources. When the MRT source is operating at an IXP, any communities which match the IXP community prefix e.g.,`65535:*` are stripped before the communities on the UPDATE are counted. This is because the local IXP communities should not be forwarded and are expected on UPDATES at IXPs. This means that prefixes shown in these reports with hundreds of communities attached, which look like typical IXP communities might have come from another IXP the prefix has passed through and not been stripped.
+A list of prefixes all with the same highest number of communities attached. This includes standard and large communities. When the MRT source is operating at an IXP, any communities which match the IXP community prefix e.g.,`65535:*` are stripped before the communities on the UPDATE are counted. This is because the local IXP communities should not be forwarded and are expected on UPDATES at IXPs. This means that prefixes shown in these reports with hundreds of communities attached, which look like typical IXP communities might have come from another IXP the prefix has passed through and not been stripped.
+
+The prefixes listed may have been seen from different MRT sources.
 
 A higher number of communities is considered worse.
 
 ### Abnormally large/small prefixes with most origin ASNs per prefix
 
-A list of prefixes whose length is < /8 or > /24 for IPv4, < /16 or > /56 for IPv6, with the most origin ASNs. An IPv4 /32 from 1 origin ASN is less visible than an IPv6 /64 that has 3 origin ASNs, in this case the /32 wouldn't be shown in the report. The prefixes listed may have been seen from different MRT sources.
+A list of prefixes whose length is < /8 or > /24 for IPv4, < /16 or > /56 for IPv6, with the most origin ASNs. An IPv4 /32 from 1 origin ASN is less visible than an IPv6 /64 that has 3 origin ASNs, in this case the /32 wouldn't be shown in the report.
+
+The prefixes listed may have been seen from different MRT sources.
 
 A higher number of origin ASNs is considered worse.
 
+### Most BGP advertisements per prefix
+
+A list of prefixes which were included in the most BGP messages (UPDATEs and WITHDRAWs). The prefixes shown were included in the same (highest) number of BGP messages.
+
+The prefixes listed and number of messages which contained those prefixes is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP message seen by two MRT sources is the same message or not (deduplication).
+
+A higher number of messages which contain the same prefix is considered worse.
+
+### Most BGP updates per prefix
+
+A list of prefixes which were included in the most BGP UPDATEs.
+
+The prefixes listed and number of UPDATEs which contained those prefixes is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP UPDATE seen by two MRT sources is the same UPDATE or not (deduplication).
+
+A higher number of UPDATEs which contain the same prefix is considered worse.
+
+### Most BGP withdraws per prefix
+
+A list of prefixes which were included in the most BGP WITHDRAWs.
+
+The prefixes listed and number of WITHDRAWs which contained those prefixes is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP WITHDRAW seen by two MRT sources is the same WITHDRAW or not (deduplication).
+
+A higher number of WITHDRAWs which contain the same prefix is considered worse.
+
+### Most BGP advertisements per origin ASN
+
+A list of origin ASNs which were included in the most BGP messages (UPDATEs and WITHDRAWs). The origin ASNs shown were included in the same (highest) number of BGP messages.
+
+The origin ASNs listed and number of messages which contained those ASNs is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP message seen by two MRT sources is the same message or not (deduplication).
+
+A higher number of messages which contain the same origin ASN is considered worse.
+
+### Most BGP advertisements per peer ASN
+
+A list of peer ASNs (1st ASN in the path) which sent the most BGP messages (UPDATEs and WITHDRAWs) to the MRT collector. The peer ASNs shown sent the same (highest) number of BGP messages.
+
+The peer ASNs listed and number of messages sent by those peer ASNs is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP message seen by two MRT sources is the same message or not (deduplication).
+
+A higher number of messages which contain the same peer ASN is considered worse.
+
+### Most BGP updates per peer ASN
+
+A list of peer ASNs which sent the most BGP UPDATEs to the MRT collector.
+
+The peer ASNs listed and number of UPDATEs which came from those peers is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP UPDATE seen by two MRT sources is the same UPDATE or not (deduplication).
+
+A higher number of UPDATEs which came from the same peer is considered worse.
+
+### Most BGP withdraws per peer ASN
+
+A list of peer ASNs which sent the most BGP WITHDRAWs to the MRT collector.
+
+The peer ASNs listed and number of WITHDRAWs which came from those peers is the highest number seen from a single MRT source. This is because it's not possible to determine if a BGP WITHDRAW seen by two MRT sources is the same WITHDRAW or not (deduplication).
+
+A higher number of WITHDRAWs which came from the same peer is considered worse.
+
+### Most origin ASNs per prefix
+
+A list of prefixes which have the same highest number of origin ASNs.
+
+The prefixes listed may have been seen from different MRT sources.
+
+Prefixes with more origin ASNs are considered worse.
+
+### Most unknown attributes per prefix
+
+A list of prefixes which have the same highest number of unknown BGP attributes attached.
+
+The prefixes listed may have been seen from different MRT sources.
+
+Prefixes with more unknown attributes are considered worse.
+
 ## Contact
 
-If the ASN you operate or prefixes you originate are in the report and you need help, or want to understand what this might mean, you can contact me (jwbensley) [@] (gmail) dot com.
+If the ASN you operate or prefixes you originate are in the report and you need help, or want to understand what this might mean, you can contact James at the following address: (jwbensley) [@] (gmail) dot com.

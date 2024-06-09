@@ -20,7 +20,11 @@ Each day a report is generated for the previous day. The stats from each source 
 
 ## Report Definitions
 
-Note: only the *worst* stats are collected and shown in the report. Here "worst" means most visible. Why? Because there is no single view of the DFZ, "pollution" seen in the DFZ might not have been seen by many networks or even any networks at all, if good filtering is in place.
+Note: only the *worst* stats are collected and shown in the report. The definition of "worst" varies by the type of statistic being reported. For example, a prefix originated by more origin ASNs is more "visible" in the DFZ than a prefix with fewer origin ASNs. Thus, a BOGON prefix announced by multiple origin ASNs is considered worse than a BOGON prefix announced by a single origin, because it is more like to propagate across the DFZ the more ASNs originate the prefix. This is because there is no single view of the DFZ, "pollution" seen in the DFZ might not have been seen by many networks or even any networks at all, if good filtering is in place.
+
+As a further example, if the statistic is the highest MED seen, 20 prefixes may have been seen with a MED of 12M (out of a maximum of 16.7M), but even if only 1 prefix was seen with a MED of 15M (leaving just a small percentage of the total metric space still usable), the 1 prefix would be shown in the report, not the 20 prefixes (because the 1 prefix leaves even less usable metric space than the 20 for onward propagation without hitting the max MED).
+
+All of this means that there is lots of DFZ "noise" not shown in the report. Showing it all would result in a huge report, and some of it isnt very interesting or much of a problem. This is why only the worst data from the past 24 hours is reported. The report serves as a kind of warning of stuff that should probably be fixed.
 
 ## Contact
 

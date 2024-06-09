@@ -44,9 +44,33 @@ BOGON prefixes with more origin ASNs are considered worse.
 
 ### ASNs originating the most bogons ASNs
 
-When the origin ASN is a BOGON ASN, walk up the AS PATH until the first non-BOGON ASN is found. This is a list of those ASNs propagating routes with a BOGON origin ASN.
+When the origin ASN is a BOGON ASN, walk up the AS PATH until the first non-BOGON ASN is found. This is a list of those ASNs propagating routes with a BOGON origin ASN, seen across all MRT sources.
 
 ASNs originating more prefixes with a BOGON origin ASN are considered worse.
+
+### Prefixes with the highest MED
+
+The list of prefixes seen with the same highest MED. The prefixes listed may have been seen from different MRT sources.
+
+A higher MED is considered worse.
+
+### Longest AS path
+
+A list of prefixes seen with the same highest AS Path length (they often all have a path length of 255 ASNs because this is the maximum BGPv4 supports). The prefixes listed may have been seen from different MRT sources.
+
+A longer AS Path is considered worse.
+
+### Longest community set
+
+A list of prefixes all with the same highest number of communities attached. This includes standard and large communities. The prefixes listed may have been seen from different MRT sources. When the MRT source is operating at an IXP, any communities which match the IXP community prefix e.g.,`65535:*` are stripped before the communities on the UPDATE are counted. This is because the local IXP communities should not be forwarded and are expected on UPDATES at IXPs. This means that prefixes shown in these reports with hundreds of communities attached, which look like typical IXP communities might have come from another IXP the prefix has passed through and not been stripped.
+
+A higher number of communities is considered worse.
+
+### Abnormally large/small prefixes with most origin ASNs per prefix
+
+A list of prefixes whose length is < /8 or > /24 for IPv4, < /16 or > /56 for IPv6, with the most origin ASNs. An IPv4 /32 from 1 origin ASN is less visible than an IPv6 /64 that has 3 origin ASNs, in this case the /32 wouldn't be shown in the report. The prefixes listed may have been seen from different MRT sources.
+
+A higher number of origin ASNs is considered worse.
 
 ## Contact
 

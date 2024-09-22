@@ -10,13 +10,60 @@ To produce a report of only the "worst" data in the DFZ, the statistics from the
 
 The report currently exist in a plain-text human readable format only. Additional formats such as a JSON parseable format are coming soon.
 
-### Data Sources and Reporting Period
+## Data
+
+### Reporting Period
 
 The [DNAS parser](https://github.com/jwbensley/dfz_name_and_shame/) is running continuously, parsing MRT archives of BGP UPDATES from various sources. The same stats (which are explained below) are extracted from each MRT file from each source.
 
-Note: Each MRT source is one perspective of the DFZ. It's important to note that there is no single DFZ, only different perspectives of the same phenomina.
+Note: Each MRT source is one perspective of the DFZ. It's important to note that there is no single DFZ, only different perspectives of the same phenomenon.
 
 Each day a report is generated for the previous day. The stats from each source are compared and the worst stats from each source are merged into a list of "the worst of the worst" across all sources. This means that in the report, the prefix with the most BOGON source ASNs may have been seen by $source1, and the prefix withe the highest number of updates may have been seen from $source2.
+
+### Data Sources
+
+The original goal was to gather data from all the [Tier 1 networks](https://asrank.caida.org/) and the largest Tier 2 networks (don't get me started, I think this terminology is ridiculous!). The table below lists which of these Tier 1/2 networks are contributing data to the DNAS reports (not that many other networks contribute data to the same router collectors meaning data is being collected by many more networks than those listed below).
+
+| ASN   | Name               | Tier | Collected          | Collector | 
+|-------|--------------------|------|--------------------|-----------|
+| 174   | Cogent             | 1    | :white_check_mark: | RRC25 |
+| 701   | Verizon/UUNET      | 1    | :x:                | Doesn't peer with RIS. Peers with route-views.routeviews.org but v6 only and this collector doesn't export MRTs. Peers with route-views6.routeviews.org but v6 only. |
+| 1239  | T-Mobile/Sprint    | 1    | :white_check_mark: | RRC01, RRC12 |
+| 1273  | Vodafone           | 2    | :white_check_mark: | RRC03 |
+| 1299  | Arelion            | 1    | :white_check_mark: | RRC01, RRC25 |
+| 2914  | NTT                | 1    | :white_check_mark: | RRC01, RRC12, RRC14 |
+| 3257  | GTT                | 1    | :white_check_mark: | RRC01, RRC12, RRC23 |
+| 3320  | DTAG               | 2    | :white_check_mark: | RRC01, RRC03 |
+| 3356  | Colt               | 1    | :x:                | Not peering with RIS or RV |
+| 3491  | PCCW Global        | 1    | :white_check_mark: | RRC01, RRC23 |
+| 4134  | ChinaNet Backbone  | 2    | :white_check_mark: | RRC01 |
+| 4367  | Telstra            | 2    | :x:                | Not peering with RIS or RV |
+| 4809  | China Telecom      | 2    | :x:                | Not peering with RIS or RV |
+| 5511  | FT/Orange          | 1    | :white_check_mark: | RRC01 |
+| 6453  | TATA               | 1    | :white_check_mark: | RRC03 |
+| 6461  | Zayo               | 1    | :white_check_mark: | RRC01, RRC03, RRC12, RRC20, RRC21 |
+| 6762  | TI Sparkle/Seabone | 1    | :white_check_mark: | RRC12, RCC14 |
+| 6830  | Liberty Global     | 2    | :white_check_mark: | RRC01, RRC03 |
+| 6939  | Hurricane Electric | 1*   | :white_check_mark: | RRC01, RRC03, RRC05, RRC07, RRC10, RRC11, RRC12, RRC13, RRC14, RRC16 |
+| 7018  | AT&T               | 1    | :white_check_mark: | RRC00 |
+| 7922  | Comcast            | 2    | :x:                | Not peering with RIS or RV |
+| 9002  | RETN               | 2    | :white_check_mark: | RRC01, RRC07, RRC11, RRC12, RRC23 |
+| 12956 | Telxius/Telefonica | 1    | :white_check_mark: | RRC03 |
+
+Note: Hurricane Electric purchases transit for IPv4 but not for IPv6.
+
+The set of unique collectors from the list above are shown in the table below. A few additional collectors are added to provide a wider coverage of the DFZ because the collectors required to provide coverage of the Tier1/2 networks in the table above, are all located in Europe (sadly I can't just simply add all RIS and RVs collectors because I don't have the compute power). These are the collectors [configured](https://github.com/jwbensley/dfz_name_and_shame/blob/main/dnas/dnas/config.py) in the DNAS parser.
+
+| Collector | Name/Location                             | Notes                    | Example URL                              |
+| ----------|-------------------------------------------|--------------------------|------------------------------------------| 
+| RRC00     | RIPE-NCC Multihop, Amsterdam, Netherlands | Part of Tier 1 coverage  | https://data.ris.ripe.net/rrc00/2024.07/ |
+| RRC01     | LINX / LONAP, London, United Kingdom      | Part of Tier 1 coverage  | https://data.ris.ripe.net/rrc01/2024.07/ |
+| RRC03     | AMS-IX / NL-IX, Amsterdam, Netherlands    | Part of Tier 1 coverage  | https://data.ris.ripe.net/rrc03/2024.07/ |
+| RRC12     | DE-CIX, Frankfurt, Germany                | Part of Tier 1 coverage  | https://data.ris.ripe.net/rrc12/2024.07/ |
+| RRC25     | RIPE-NCC Multihop, Amsterdam, Netherlands | Part of Tier 1 coverage  | https://data.ris.ripe.net/rrc25/2024.07/ |
+| RRC15     | PTTMetro, Sao Paulo, Brazil               | Part of wider visibility | https://data.ris.ripe.net/rrc15/2024.07/ |
+| RRC19     | NAP Africa JB, Johannesburg, South Africa | Part of wider visibility | https://data.ris.ripe.net/rrc19/2024.07/ |
+| RRC23     | Equinix SG, Singapore, Singapore          | Part of wider visibility | https://data.ris.ripe.net/rrc23/2024.07/ |
 
 ## Report Definitions
 

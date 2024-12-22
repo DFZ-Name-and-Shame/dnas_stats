@@ -37,7 +37,7 @@ The original goal was to gather data from all the [Tier 1 networks](https://asra
 | 3356  | Colt               | 1    | :x:                | Not peering with RIS or RV |
 | 3491  | PCCW Global        | 1    | :white_check_mark: | RRC01, RRC23 |
 | 4134  | ChinaNet Backbone  | 2    | :white_check_mark: | RRC01 |
-| 4367  | Telstra            | 2    | :x:                | Not peering with RIS or RV |
+| 4637  | Telstra            | 2    | :white_check_mark: | RRC01 |
 | 4809  | China Telecom      | 2    | :x:                | Not peering with RIS or RV |
 | 5511  | FT/Orange          | 1    | :white_check_mark: | RRC01 |
 | 6453  | TATA               | 1    | :white_check_mark: | RRC03 |

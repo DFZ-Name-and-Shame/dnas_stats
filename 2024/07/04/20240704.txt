@@ -158,6 +158,6 @@ Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
-Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
-Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (LACNIC-19037) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (LACNIC-19037) has attribute(s) {20}
 

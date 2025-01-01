@@ -19,7 +19,7 @@ Prefix 23.59.235.0/24 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS20940 (
 Prefix 23.192.176.0/23 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS20940 (AKAMAI-ASN1).
 Prefix 23.197.96.0/22 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS16625 (AKAMAI-AS).
 Prefix 23.197.248.0/22 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS16625 (AKAMAI-AS).
-Prefix 2804:fdc::/32 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS263608 (WSNET TELECOM LTDA ME).
+Prefix 2804:fdc::/32 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS263608.
 Prefix 23.59.224.0/23 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS20940 (AKAMAI-ASN1).
 Prefix 23.59.216.0/22 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS20940 (AKAMAI-ASN1).
 Prefix 23.59.220.0/22 via peer AS24482 (SGGS-AS-AP) from origin ASN(s) AS20940 (AKAMAI-ASN1).
@@ -128,8 +128,8 @@ Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
-Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
-Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
 Prefixes with most unregistered origin ASNs per prefix: 13 prefix(es) had 1 bogon origin ASNs.

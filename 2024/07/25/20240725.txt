@@ -31,16 +31,16 @@ Prefix 89.249.224.0/20 via peer AS140731 (TOHU-OP-AP) from origin ASN(s) AS41344
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 4 origin ASNs.
 Prefix ::/0 from origin ASN(s) AS3204 (XTOM-V-PS) AS44393 (SBRC) AS25478 (IHOME-AS) AS174 (COGENT-174)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 4043726 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 4060048 advertisements.
 Prefix(es): 102.130.106.0/24
 
-Most BGP updates per prefix: 1 prefix(es) had 4043726 updates.
+Most BGP updates per prefix: 1 prefix(es) had 4060048 updates.
 Prefix(es): 102.130.106.0/24
 
 Most BGP withdraws per prefix: 1 prefix(es) had 153448 withdraws.
 Prefix(es): 169.145.140.0/23
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 4043753 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 4060075 advertisements.
 Origin ASN(s): AS328068 (Active-Fibre)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 9035551 advertisements.
@@ -62,8 +62,8 @@ Most unknown attributes per prefix: 8 prefix(es) had 1 unknown attribute(s).
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
-Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
-Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (LACNIC-19037) has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (LACNIC-19037) has attribute(s) {20}
 Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}

@@ -42,16 +42,16 @@ Prefix 2400:9800:b010:1a7::/64 from origin ASN(s) AS24203 (NAPXLNET-AS-ID) AS178
 Prefix 185.112.101.172/32 from origin ASN(s) AS202984 (team-host) AS35196 (IH-TRANSIT-AS)
 Prefix 45.138.157.42/32 from origin ASN(s) AS65001 AS44094 (WEBHOST1-AS)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 5914581 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 5935475 advertisements.
 Prefix(es): 102.130.106.0/24
 
-Most BGP updates per prefix: 1 prefix(es) had 5914582 updates.
+Most BGP updates per prefix: 1 prefix(es) had 5935476 updates.
 Prefix(es): 102.130.106.0/24
 
 Most BGP withdraws per prefix: 1 prefix(es) had 181983 withdraws.
 Prefix(es): 169.145.140.0/23
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 5914658 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 5935552 advertisements.
 Origin ASN(s): AS328068 (Active-Fibre)
 
 Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 4084285 advertisements.

@@ -1,4 +1,4 @@
-For 2024/07/30 76112290 BGP UPDATES were parsed. 75538615 UPDATES contained prefix advertisements. 2269584 UPDATES contained prefix withdraws.
+For 2024/07/30 76349302 BGP UPDATES were parsed. 75773790 UPDATES contained prefix advertisements. 2269584 UPDATES contained prefix withdraws.
 
 Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin ASNs.
 Prefix 31.131.186.0/24 from origin ASN(s) AS23456 AS65007
@@ -99,8 +99,8 @@ Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
-Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
-Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
 
 Prefixes with most unregistered origin ASNs per prefix: 15 prefix(es) had 1 bogon origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455

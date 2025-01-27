@@ -1,0 +1,687 @@
+For 2024/12/04 65420985 BGP UPDATES were parsed. 64544941 UPDATES contained prefix advertisements. 2471039 UPDATES contained prefix withdraws.
+
+Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin ASNs.
+Prefix 38.47.196.0/24 from origin ASN(s) AS65102 AS23456
+
+Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
+
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 17 bogon ASNs.
+AS8764 (Telia-Lietuva) is originating 17 bogon ASNs: 64560 64581 64584 64585 64582 64550 64515 64583 64570 64586 64588 64587 64571 64589 65111 64569 65533
+
+Prefixes with the highest MED: 598 prefix(es) had a MED of 16723520.
+Prefix 43.250.127.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS38051 (OPENWAVEX-AS-AP).
+Prefix 45.155.88.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.130.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 89.45.13.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 109.176.246.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.37.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 89.45.12.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 102.129.186.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 89.37.117.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 89.37.116.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.162.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 31.6.27.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 89.47.232.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 102.129.189.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 194.15.98.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 102.216.81.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 199.115.193.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 31.56.41.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 149.57.23.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.150.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 103.180.25.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.127.50.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 64.253.93.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.63.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 179.61.217.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.124.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 102.129.246.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 102.129.167.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 154.6.239.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 149.18.17.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 217.147.167.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62390 (NEXONHOST).
+Prefix 45.83.179.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56380 (AS-ITFRUIT).
+Prefix 45.83.178.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56380 (AS-ITFRUIT).
+Prefix 87.236.147.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56380 (AS-ITFRUIT).
+Prefix 193.36.38.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56380 (AS-ITFRUIT).
+Prefix 5.32.168.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS15836 (AXAUTSYS).
+Prefix 188.212.111.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 217.156.44.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 188.214.142.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 185.171.187.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 185.171.185.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 185.171.184.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 128.0.46.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 93.119.227.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 91.250.247.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.42.11.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.35.173.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 85.120.58.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 80.96.84.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 77.81.164.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.135.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 37.251.128.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 37.251.160.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 37.251.248.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.32.44.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.34.107.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.128.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.128.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.129.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.130.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.132.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.36.134.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.38.248.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.38.249.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.38.250.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.38.252.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 91.200.120.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 94.24.29.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 94.24.48.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 94.24.78.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 188.215.48.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 193.242.120.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 217.156.42.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 91.223.200.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 176.223.166.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 85.120.35.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 89.35.204.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 91.208.142.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 81.180.200.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 217.156.103.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 94.24.76.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 94.24.72.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 86.105.192.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 85.121.136.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 37.251.248.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 91.242.68.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS207238 (TVNET).
+Prefix 84.239.46.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201308 (CASTLEGEM).
+Prefix 91.242.102.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35346 (EUROTELECOM).
+Prefix 91.242.112.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35346 (EUROTELECOM).
+Prefix 194.114.144.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35346 (EUROTELECOM).
+Prefix 188.215.37.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60761 (DAHAS-AS).
+Prefix 185.164.0.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35525 (DIANA-NET-AS).
+Prefix 89.40.35.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206005 (LexistarAllianceLTD).
+Prefix 185.243.140.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206005 (LexistarAllianceLTD).
+Prefix 91.242.97.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57916 (LAROM-AS).
+Prefix 91.239.179.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 176.124.172.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 176.116.237.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.226.52.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 46.174.204.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 31.132.192.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 109.207.133.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.224.213.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 176.116.229.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 178.213.176.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.246.216.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 109.207.142.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 109.207.143.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 176.113.176.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.229.30.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 31.132.196.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.245.92.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.226.54.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.239.224.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 91.246.204.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209767 (SAMTECO).
+Prefix 85.122.81.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60531 (NU-AM-CHEF-AZI-AS).
+Prefix 91.199.49.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44154 (SOFTEH-AS).
+Prefix 31.14.18.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57098 (IMEDIA-AS).
+Prefix 193.109.82.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202943 (SC_SnL_Panifcom_SRL).
+Prefix 195.216.248.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202943 (SC_SnL_Panifcom_SRL).
+Prefix 193.221.211.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42694 (uplink).
+Prefix 193.163.74.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42694 (uplink).
+Prefix 176.126.220.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62101 (CNAB-AS).
+Prefix 195.88.250.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57500 (DOCENTRIS-AS).
+Prefix 147.78.20.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS205124 (AS_TELEHOST_COLO).
+Prefix 194.61.32.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS210166 (YOUTEL-AS).
+Prefix 188.130.180.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.162.140.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.181.43.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.181.42.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.181.50.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.181.40.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.181.48.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 194.213.8.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 185.17.65.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 45.67.118.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62013 (CLICK-COM-AS).
+Prefix 31.14.40.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS19624 (SERVERROOM).
+Prefix 185.105.6.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS19624 (SERVERROOM).
+Prefix 185.105.4.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS19624 (SERVERROOM).
+Prefix 185.235.78.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 80.97.49.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 91.208.75.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 5.154.224.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 80.96.42.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 85.120.222.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 85.120.223.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 91.239.230.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 128.0.34.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 185.36.252.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 193.93.142.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 195.206.164.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 128.0.36.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS6718 (NAV).
+Prefix 91.227.121.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56772 (UFMOLDOVA-AS).
+Prefix 217.19.3.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12804 (ADISAM).
+Prefix 217.19.8.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12804 (ADISAM).
+Prefix 91.242.78.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43094 (GIGANET).
+Prefix 91.242.84.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43094 (GIGANET).
+Prefix 194.9.60.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS41486 (REGISCO-AS).
+Prefix 185.229.64.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201670 (INFOTECH-GRUP).
+Prefix 181.214.58.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201670 (INFOTECH-GRUP).
+Prefix 93.185.165.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201670 (INFOTECH-GRUP).
+Prefix 195.20.19.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201670 (INFOTECH-GRUP).
+Prefix 185.212.9.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS50138 (CTC-ALFA-AS).
+Prefix 185.193.54.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 128.0.3.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS62034 (BGS-AS).
+Prefix 85.204.62.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS20722 (ALLNET-AS).
+Prefix 195.248.65.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS41210 (ICGRO-AS).
+Prefix 217.19.11.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12804 (ADISAM).
+Prefix 217.19.5.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12804 (ADISAM).
+Prefix 217.19.0.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12804 (ADISAM).
+Prefix 91.240.184.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS59400 (INFONOT-As).
+Prefix 193.22.93.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS31606 (ARTRADE-AS).
+Prefix 91.213.181.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49691 (NETINFO-AS).
+Prefix 193.46.214.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS64470 (Lucid).
+Prefix 46.102.255.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51239 (TRACTEBEL-AS).
+Prefix 176.126.236.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60118 (CyberSmartSolutions-AS).
+Prefix 185.22.163.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21245 (Medianova-CDN).
+Prefix 194.102.220.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 217.156.85.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.19.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.53.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.26.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.24.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.23.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.22.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 84.239.20.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 217.156.99.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 80.97.0.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS21294 (IDILIS).
+Prefix 109.205.191.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34529 (GNT-MD-AS).
+Prefix 77.246.242.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209961 (EUROTELECOM).
+Prefix 193.84.26.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209961 (EUROTELECOM).
+Prefix 95.128.152.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209961 (EUROTELECOM).
+Prefix 185.252.193.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209961 (EUROTELECOM).
+Prefix 188.241.2.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56397 (MANPOWER-AS).
+Prefix 194.15.47.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49527 (ROXNET-COM-AS).
+Prefix 91.208.215.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS47958 (RO-KONTRON-AS).
+Prefix 195.226.210.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS41879 (ComertBank-ASN).
+Prefix 86.104.19.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206068 (HOSTING-UP).
+Prefix 86.104.192.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206068 (HOSTING-UP).
+Prefix 149.3.190.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209640 (zeontehnomd).
+Prefix 149.3.189.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209640 (zeontehnomd).
+Prefix 149.3.191.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209640 (zeontehnomd).
+Prefix 79.140.173.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209640 (zeontehnomd).
+Prefix 94.232.30.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS25455 (GUARDFOX-AS).
+Prefix 195.42.138.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42094 (PRESTIGE-MEDIA-AS).
+Prefix 85.122.181.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 193.226.27.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 194.105.6.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 192.162.16.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 212.35.128.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 194.105.16.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 193.230.0.0/17 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 146.66.218.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 146.66.219.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 5.157.240.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 178.157.92.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 37.35.55.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 178.157.125.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 188.119.162.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 188.119.144.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS199552 (DECORATE-IT).
+Prefix 91.207.124.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 91.207.125.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 91.207.124.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 91.200.96.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 78.31.129.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 195.225.84.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 193.200.141.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 92.243.67.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 103.197.148.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.17.160.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.175.144.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.175.168.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.175.148.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.175.149.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 178.175.128.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 185.177.151.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 192.121.87.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 45.153.124.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43289 (TRABIA).
+Prefix 91.188.225.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43927 (HOSTERION).
+Prefix 185.125.108.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43927 (HOSTERION).
+Prefix 185.147.49.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209963 (Euroweb-Pro).
+Prefix 193.35.108.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57299 (MILICRON-AS).
+Prefix 45.83.12.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206085 (CRIULENI-TNET).
+Prefix 45.95.88.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206085 (CRIULENI-TNET).
+Prefix 45.89.44.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206085 (CRIULENI-TNET).
+Prefix 91.238.94.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57776 (URSCOM-TV).
+Prefix 178.175.156.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57776 (URSCOM-TV).
+Prefix 91.245.232.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39342 (PLUXEE-AS).
+Prefix 91.208.123.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35626 (SIEPCOFAR-AS).
+Prefix 89.45.192.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 109.95.8.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 193.239.130.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34358 (Cyber_Folks-RO-DC_FLO).
+Prefix 194.6.203.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57028 (NEPI-AS).
+Prefix 78.31.128.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8423 (NETCORR-AS).
+Prefix 89.41.178.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60984 (SPICERO).
+Prefix 195.246.250.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39646 (IACCESS-ASN).
+Prefix 185.172.28.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS203912.
+Prefix 188.0.224.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS203912.
+Prefix 185.172.28.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS203912.
+Prefix 81.180.243.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 193.33.93.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42424 (ENDAVA-AS).
+Prefix 193.33.92.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42424 (ENDAVA-AS).
+Prefix 154.209.200.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.201.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.202.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.203.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.204.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.205.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.206.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 154.209.207.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44559 (ITHOSTLINE).
+Prefix 193.203.127.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209883 (Euroweb-City).
+Prefix 154.56.1.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS210448 (ITSISTEM-MD).
+Prefix 81.181.31.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS20497 (INTERNIO-AS).
+Prefix 81.181.191.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS20497 (INTERNIO-AS).
+Prefix 178.157.127.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 37.35.44.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 5.157.144.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 188.74.170.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 5.157.136.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 5.157.224.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 188.74.154.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 188.74.191.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 188.119.176.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 188.74.153.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 146.66.216.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49687 (REQ).
+Prefix 84.239.55.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.15.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.49.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.44.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.14.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.8.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.9.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.36.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 185.193.52.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 185.193.53.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.11.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.51.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.4.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.39.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.34.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.35.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.38.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.13.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 81.180.242.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.56.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.57.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.59.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 84.239.58.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 81.180.244.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 89.43.175.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42786 (DYNAMICTELECOM).
+Prefix 84.239.21.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35638 (RO2K-AS).
+Prefix 194.169.209.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42026 (AVITECH).
+Prefix 195.28.162.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60615 (POSTA-ROMANA-AS).
+Prefix 85.120.232.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60615 (POSTA-ROMANA-AS).
+Prefix 195.216.218.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56629 (TeamNet-AS).
+Prefix 193.16.111.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS31557 (IGT-MOLD-NET-AS).
+Prefix 91.232.210.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57535 (RTV-AS).
+Prefix 81.181.200.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57992 (SCRIBA-AS).
+Prefix 91.236.228.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS47703 (PROSPECTIUNI-AS).
+Prefix 193.169.175.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209375 (Euroweb-DE).
+Prefix 57.188.25.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS205080 (SITA-CORPORATE).
+Prefix 91.214.12.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49256 (UPETROM-AS).
+Prefix 81.181.81.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34060 (TCCFR-AS).
+Prefix 81.180.26.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34060 (TCCFR-AS).
+Prefix 5.83.33.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34060 (TCCFR-AS).
+Prefix 5.83.32.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34060 (TCCFR-AS).
+Prefix 193.105.218.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 188.241.13.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 91.193.53.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 86.105.155.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 89.36.18.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 89.43.174.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 89.42.42.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 89.40.214.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 89.36.93.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 77.81.64.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 185.82.172.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 193.33.200.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 86.105.152.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56430 (CHROOT).
+Prefix 80.96.13.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS211313 (SAFETECH).
+Prefix 185.1.150.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43431 (IX-AS).
+Prefix 185.212.11.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206654 (TEHNOINSTAL).
+Prefix 195.211.48.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206654 (TEHNOINSTAL).
+Prefix 37.77.144.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206654 (TEHNOINSTAL).
+Prefix 87.255.64.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS15836 (AXAUTSYS).
+Prefix 185.46.60.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS15836 (AXAUTSYS).
+Prefix 212.28.64.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS15836 (AXAUTSYS).
+Prefix 217.26.160.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS15836 (AXAUTSYS).
+Prefix 185.223.168.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56491 (ANDRIDAN-AS).
+Prefix 195.242.88.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34301 (KFNETRO).
+Prefix 91.236.195.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS210027 (Viasat).
+Prefix 195.34.76.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44960 (CRYSTAL-SYSTEM-AS).
+Prefix 45.145.176.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42881 (BADGER-BV).
+Prefix 195.88.146.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42881 (BADGER-BV).
+Prefix 185.115.92.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42881 (BADGER-BV).
+Prefix 185.57.47.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60514 (NGN).
+Prefix 45.150.180.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS204872 (STARHOST).
+Prefix 188.119.159.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 188.119.158.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 188.119.163.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 91.236.88.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 37.35.53.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 91.219.16.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 91.235.122.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 91.223.117.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201909 (INTELI-TECH-DEVELOPMENT-SRL).
+Prefix 217.156.83.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS20930 (SOFTWIN).
+Prefix 194.102.234.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS20930 (SOFTWIN).
+Prefix 95.182.76.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS64453 (LARITEX-TV).
+Prefix 91.209.123.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS13011 (RA-MONITORUL-OFICIAL-AS).
+Prefix 185.230.18.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60118 (CyberSmartSolutions-AS).
+Prefix 185.150.17.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60118 (CyberSmartSolutions-AS).
+Prefix 89.42.26.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS60118 (CyberSmartSolutions-AS).
+Prefix 91.239.8.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS58118 (ADINET-AS).
+Prefix 91.239.11.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS58118 (ADINET-AS).
+Prefix 91.239.8.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS58118 (ADINET-AS).
+Prefix 91.239.10.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS58118 (ADINET-AS).
+Prefix 195.138.98.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.97.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.96.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.101.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.102.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.99.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 195.138.100.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 194.50.206.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS8474 (AS8474).
+Prefix 5.157.184.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS197476 (REQ).
+Prefix 5.157.176.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS197476 (REQ).
+Prefix 178.157.104.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS197476 (REQ).
+Prefix 37.35.56.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS197476 (REQ).
+Prefix 188.74.176.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS197476 (REQ).
+Prefix 195.234.177.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS25318 (PROVISION).
+Prefix 193.47.162.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS25318 (PROVISION).
+Prefix 185.51.120.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS205911 (UP3-CRICOVA).
+Prefix 194.180.251.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS213400 (MD-XDATA-CLOUD).
+Prefix 92.118.108.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209945 (Viasat).
+Prefix 195.149.127.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209945 (Viasat).
+Prefix 185.255.98.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209945 (Viasat).
+Prefix 195.216.222.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44544 (EASY-MEDIA-AS).
+Prefix 195.216.223.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44544 (EASY-MEDIA-AS).
+Prefix 93.114.99.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.44.209.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 185.102.156.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 188.215.95.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.18.16.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 188.241.209.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.43.50.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.34.8.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.43.45.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.43.46.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 188.213.18.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.18.24.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 188.215.73.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.18.20.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 93.114.171.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 89.40.232.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 185.102.157.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 93.113.158.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 188.240.14.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 85.204.125.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 86.106.104.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 86.106.80.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS34450 (WDC-AS).
+Prefix 5.181.158.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 5.181.157.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 5.181.156.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 5.252.178.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 94.158.246.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 94.158.245.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 185.163.44.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 185.225.16.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 194.180.157.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 194.180.191.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 194.180.174.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 188.191.208.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56491 (ANDRIDAN-AS).
+Prefix 188.191.212.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56491 (ANDRIDAN-AS).
+Prefix 185.223.170.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56491 (ANDRIDAN-AS).
+Prefix 45.137.228.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202966 (ITGROUP-n-SERVICES_SRL).
+Prefix 81.180.84.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 81.180.70.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 81.180.76.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 81.180.64.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 81.180.68.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 185.57.46.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 193.226.64.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 81.180.71.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9199 (RENAM).
+Prefix 77.87.88.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49719 (HIGH-TECH-UNITED).
+Prefix 195.190.139.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS133153 (YSZ-AS-AP).
+Prefix 45.158.253.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS133153 (YSZ-AS-AP).
+Prefix 103.205.19.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS142019 (GRIL-AS-AP).
+Prefix 217.156.87.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12592 (TTS).
+Prefix 195.8.105.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12592 (TTS).
+Prefix 185.162.132.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12450 (TRANSCOR-AS).
+Prefix 194.176.186.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS28743 (VOXLINE).
+Prefix 195.28.25.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS28743 (VOXLINE).
+Prefix 195.28.24.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS28743 (VOXLINE).
+Prefix 85.120.14.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS214788 (USM-MD).
+Prefix 193.231.93.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS24858 (COMTEC).
+Prefix 194.102.202.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42073 (DIGISIGN-RO).
+Prefix 185.64.92.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42073 (DIGISIGN-RO).
+Prefix 194.169.233.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS42073 (DIGISIGN-RO).
+Prefix 195.14.98.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206068 (HOSTING-UP).
+Prefix 217.197.103.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS206068 (HOSTING-UP).
+Prefix 194.242.22.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS205301 (DigitalOcean).
+Prefix 185.153.196.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56380 (AS-ITFRUIT).
+Prefix 193.47.249.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS35436 (VANGUARD).
+Prefix 89.46.208.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44826 (PCNET-CATV-AS).
+Prefix 188.241.88.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44826 (PCNET-CATV-AS).
+Prefix 109.248.50.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51267 (INTERLINK-AS).
+Prefix 109.248.219.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51267 (INTERLINK-AS).
+Prefix 46.8.234.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51267 (INTERLINK-AS).
+Prefix 193.36.216.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 46.174.200.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 91.237.91.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 176.116.224.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 176.121.40.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 176.121.32.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 176.107.64.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 176.121.104.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57217 (GVM).
+Prefix 193.231.199.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS24712 (AXIGEN).
+Prefix 86.104.176.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.177.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.178.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.179.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.180.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.182.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 86.104.183.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 91.194.234.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 93.115.243.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 185.163.104.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 185.163.105.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 185.163.106.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 185.163.107.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 188.240.82.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 154.46.31.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43376 (DOTRO).
+Prefix 45.67.34.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 146.19.75.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 194.87.105.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 194.135.24.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 195.133.195.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 94.131.119.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 138.124.2.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 138.124.76.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 138.124.77.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 142.111.45.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 142.111.46.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 142.111.52.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 142.111.56.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 142.111.85.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 171.22.128.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 171.22.130.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 185.203.7.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 5.182.37.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 5.253.40.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44477 (STARK-INDUSTRIES).
+Prefix 80.96.26.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS25536 (ASN-METAV).
+Prefix 195.245.220.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS25536 (ASN-METAV).
+Prefix 194.31.42.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57713 (NEXT-AS).
+Prefix 85.120.47.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.49.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.54.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.139.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.140.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.177.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.182.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.208.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.236.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.240.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.120.252.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.20.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.22.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.59.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.64.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.128.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.141.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.152.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.166.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.199.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 81.181.249.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 85.121.88.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS3233 (ICI-ROTLD).
+Prefix 84.239.0.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS5541 (AdNet-Telecom).
+Prefix 93.120.10.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS5541 (AdNet-Telecom).
+Prefix 176.118.185.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS49423 (CadburyRO).
+Prefix 185.147.48.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS201813 (STARHOSTING).
+Prefix 192.166.122.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS57275 (CERTRO-AS).
+Prefix 146.19.228.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS41171 (EUROTELECOM).
+Prefix 91.242.104.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS207246 (NETSAT_DV).
+Prefix 91.242.76.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS207246 (NETSAT_DV).
+Prefix 91.242.98.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS207246 (NETSAT_DV).
+Prefix 212.28.77.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS207246 (NETSAT_DV).
+Prefix 185.212.10.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS204421 (BPAY).
+Prefix 188.210.90.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS50322 (SOFTELLIGENCE-AS).
+Prefix 85.121.14.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 84.247.64.0/18 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 188.240.8.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 89.42.16.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 217.156.111.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 194.102.113.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 80.86.96.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 83.166.192.0/19 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 80.86.96.0/20 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 194.102.203.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 193.230.245.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 194.116.246.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 85.120.152.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 89.149.0.0/18 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 195.95.228.0/23 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 93.113.155.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 194.9.167.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 89.33.80.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 193.230.170.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS12310 (iNES).
+Prefix 81.180.240.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS44679 (BinBox-Global-Services).
+Prefix 91.195.85.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS43626 (GEONETSOFT-AS).
+Prefix 141.98.82.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS209588 (FLYSERVERS-ASN).
+Prefix 194.6.200.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS38947 (KNETWORKMEDIA).
+Prefix 185.115.0.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS9053 (VSHOSTING-CDN).
+Prefix 185.64.236.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51056 (AS-INETEHNO).
+Prefix 109.233.192.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS51056 (AS-INETEHNO).
+Prefix 91.242.80.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202722 (TELENET).
+Prefix 91.242.99.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202722 (TELENET).
+Prefix 176.124.56.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS56970 (MAGNETIC-IT-SERVICES).
+Prefix 77.81.96.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS61077 (NP-BASE-AS).
+Prefix 109.107.146.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS202470 (CLOUD-NETWORK).
+Prefix 178.76.64.0/21 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.72.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.66.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.65.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.75.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.70.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.68.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.74.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.69.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.73.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.64.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.71.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.67.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 178.76.72.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 185.163.192.0/22 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 185.163.194.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 185.163.192.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 185.163.193.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+Prefix 185.163.195.0/24 via peer AS37195 (NAPAFRICA) from origin ASN(s) AS48506 (METICAL-AS).
+
+Longest AS path: 1 prefix(es) had an AS path length of 146 ASNs.
+Prefix 91.186.97.0/24 via peer AS1103 (SURFNET-NL) from origin ASN(s) AS65383. AS Path length 146: AS1103 AS8359 AS28884 AS42087 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383 AS65383.
+
+Longest community set: 1 prefix(es) had a community set length of 279 communities.
+Prefix 2804:3018::/32 via peer AS263152 (MIGO TELECOM) from origin ASN(s) AS263020 (MEGA NET PROVEDOR INTERNET LTDA). Commnuity set length 279: 8880:103 24115:37468 24115:65023 37468:3000 37468:3295 37468:3300 37468:3310 37468:3312 37468:5555 37468:13000 37468:13100 37468:13102 37468:37468 53062:10020 53062:10021 53062:30003 53062:30007 53062:30011 53062:30015 53062:30018 53062:30030 53062:30034 53062:30049 53062:30057 53062:30058 53062:30064 53062:30078 53062:30088 53062:30091 53062:30104 53062:30117 53062:30122 53062:30130 53062:30133 53062:30136 53062:30152 53062:30158 53062:30168 53062:30182 53062:30183 53062:30185 53062:30186 53062:30187 53062:30191 53062:30198 53062:30200 53062:30203 53062:30208 53062:30217 53062:30222 53062:30228 53062:30232 53062:30235 53062:30239 53062:30244 53062:30247 53062:30250 53062:30255 53062:30263 53062:30270 53062:30274 53062:30278 53062:30282 53062:30287 53062:30291 53062:30296 53062:30301 53062:30305 53062:30309 53062:30328 53062:30336 53062:30340 53062:30344 53062:30348 53062:30355 53062:30357 53062:30369 53062:30373 53062:50026 53062:50044 53062:50051 53062:50090 53062:50121 53062:50138 53062:50154 53062:50163 53062:50193 53062:50241 53062:50335 24115:1000:2 24115:1001:1 24115:1002:1 24115:1003:1 24115:1004:37468 37468:24115:261818 37468:24115:262276 37468:24115:262301 37468:24115:262306 37468:24115:262314 37468:24115:262336 37468:24115:262350 37468:24115:262351 37468:24115:262401 37468:24115:262463 37468:24115:262478 37468:24115:262504 37468:24115:262506 37468:24115:262515 37468:24115:262525 37468:24115:262552 37468:24115:262566 37468:24115:262602 37468:24115:262605 37468:24115:262624 37468:24115:262628 37468:24115:262638 37468:24115:262650 37468:24115:262693 37468:24115:262717 37468:24115:262725 37468:24115:262730 37468:24115:262765 37468:24115:262780 37468:24115:262781 37468:24115:262797 37468:24115:262805 37468:24115:262815 37468:24115:262861 37468:24115:262877 37468:24115:262908 37468:24115:262909 37468:24115:262949 37468:24115:262961 37468:24115:263035 37468:24115:263054 37468:24115:263104 37468:24115:263118 37468:24115:263120 37468:24115:263162 37468:24115:263277 37468:24115:263278 37468:24115:263356 37468:24115:263357 37468:24115:263387 37468:24115:263415 37468:24115:263453 37468:24115:263471 37468:24115:263504 37468:24115:263533 37468:24115:263536 37468:24115:263562 37468:24115:263567 37468:24115:263568 37468:24115:263614 37468:24115:263632 37468:24115:263665 37468:24115:263666 37468:24115:263847 37468:24115:263999 37468:24115:264076 37468:24115:264106 37468:24115:264147 37468:24115:264162 37468:24115:264189 37468:24115:264228 37468:24115:264253 37468:24115:264311 37468:24115:264325 37468:24115:264335 37468:24115:264342 37468:24115:264346 37468:24115:264421 37468:24115:264493 37468:24115:264514 37468:24115:264533 37468:24115:264540 37468:24115:264546 37468:24115:264552 37468:24115:264598 37468:24115:264600 37468:24115:264886 37468:24115:264931 37468:24115:264948 37468:24115:264951 37468:24115:264957 37468:24115:265007 37468:24115:265014 37468:24115:265027 37468:24115:265031 37468:24115:265055 37468:24115:265105 37468:24115:265121 37468:24115:265153 37468:24115:265172 37468:24115:265183 37468:24115:265185 37468:24115:265324 37468:24115:265362 37468:24115:265382 37468:24115:265398 37468:24115:265399 37468:24115:265402 37468:24115:265424 37468:24115:265480 37468:24115:265485 37468:24115:265893 37468:24115:265911 37468:24115:265945 37468:24115:266008 37468:24115:266062 37468:24115:266071 37468:24115:266112 37468:24115:266115 37468:24115:266135 37468:24115:266140 37468:24115:266149 37468:24115:266171 37468:24115:266210 37468:24115:266211 37468:24115:266246 37468:24115:266255 37468:24115:266360 37468:24115:266408 37468:24115:266468 37468:24115:266530 37468:24115:266609 37468:24115:266622 37468:24115:266627 37468:24115:266636 37468:24115:266922 37468:24115:266930 37468:24115:266939 37468:24115:266942 37468:24115:266998 37468:24115:267014 37468:24115:267054 37468:24115:267056 37468:24115:267076 37468:24115:267098 37468:24115:267124 37468:24115:267138 37468:24115:267158 37468:24115:267167 37468:24115:267189 37468:24115:267194 37468:24115:267229 37468:24115:267261 37468:24115:267270 37468:24115:267329 37468:24115:267348 37468:24115:267357 37468:24115:267452 37468:24115:267497 37468:24115:267536 37468:24115:267552 37468:24115:267620 37468:24115:267627 37468:24115:267647 37468:24115:267654 37468:24115:267675 37468:24115:268060 37468:24115:268091 37468:24115:268106 37468:24115:268169 37468:24115:268198 37468:24115:268229 37468:24115:268331 37468:24115:268409 37468:24115:268480 37468:24115:268509 37468:24115:268546 37468:24115:268587 37468:24115:268605 37468:24115:268607 37468:24115:268633 37468:24115:268845 37468:24115:268882 37468:24115:268949 37468:24115:268990.
+
+Abnormally large/small prefixes with most origin ASNs per prefix: 11 large/small prefix(es) had 5 origin ASNs.
+Prefix 2a0b:2bc0:ffff:e8::/64 from origin ASN(s) AS211288 (NETASSISTBG) AS43426 (NLine-Lviv) AS29390 (CTU-AS) AS29632 (NASSIST-AS) AS207336 (NETASSISTES)
+Prefix 2a0b:2bc4:ffff:1d39::/64 from origin ASN(s) AS29390 (CTU-AS) AS207336 (NETASSISTES) AS211288 (NETASSISTBG) AS29632 (NASSIST-AS) AS43426 (NLine-Lviv)
+Prefix 2a0b:2bc0:ffff:3240::/64 from origin ASN(s) AS43426 (NLine-Lviv) AS211288 (NETASSISTBG) AS29632 (NASSIST-AS) AS207336 (NETASSISTES) AS29390 (CTU-AS)
+Prefix 2a0b:2bc4:ffff:1392::/64 from origin ASN(s) AS43426 (NLine-Lviv) AS29390 (CTU-AS) AS207336 (NETASSISTES) AS211288 (NETASSISTBG) AS29632 (NASSIST-AS)
+Prefix 2a0b:2bc0:ffff:12::/64 from origin ASN(s) AS43426 (NLine-Lviv) AS207336 (NETASSISTES) AS29632 (NASSIST-AS) AS29390 (CTU-AS) AS211288 (NETASSISTBG)
+Prefix 2a0b:2bc2:ffff:18f1::/64 from origin ASN(s) AS29632 (NASSIST-AS) AS207336 (NETASSISTES) AS43426 (NLine-Lviv) AS29390 (CTU-AS) AS211288 (NETASSISTBG)
+Prefix 2a0b:2bc2:ffff:11ec::/64 from origin ASN(s) AS43426 (NLine-Lviv) AS29632 (NASSIST-AS) AS29390 (CTU-AS) AS211288 (NETASSISTBG) AS207336 (NETASSISTES)
+Prefix 2a0b:2bc0:ffff:2fd::/64 from origin ASN(s) AS43426 (NLine-Lviv) AS211288 (NETASSISTBG) AS207336 (NETASSISTES) AS29632 (NASSIST-AS) AS29390 (CTU-AS)
+Prefix 2a0b:2bc2:ffff:2d52::/64 from origin ASN(s) AS29390 (CTU-AS) AS207336 (NETASSISTES) AS29632 (NASSIST-AS) AS211288 (NETASSISTBG) AS43426 (NLine-Lviv)
+Prefix 2a0b:2bc0:ffff:34a1::/64 from origin ASN(s) AS211288 (NETASSISTBG) AS207336 (NETASSISTES) AS29632 (NASSIST-AS) AS43426 (NLine-Lviv) AS29390 (CTU-AS)
+Prefix 2a0b:2bc0:ffff:3ee::/64 from origin ASN(s) AS207336 (NETASSISTES) AS29632 (NASSIST-AS) AS211288 (NETASSISTBG) AS29390 (CTU-AS) AS43426 (NLine-Lviv)
+
+Most BGP advertisements per prefix: 1 prefix(es) had 2282287 advertisements.
+Prefix(es): 62.113.88.0/24
+
+Most BGP updates per prefix: 1 prefix(es) had 2466966 updates.
+Prefix(es): 62.113.88.0/24
+
+Most BGP withdraws per prefix: 1 prefix(es) had 172750 withdraws.
+Prefix(es): 62.113.88.0/24
+
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2003292 advertisements.
+Origin ASN(s): AS8359 (MTS)
+
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 5623464 advertisements.
+Peer ASN(s): AS23106 (AMERICAN TOWER DO BRASIL-COMUNICA��O MULTIM�DIA LT)
+
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 5697324 updates.
+Peer ASN(s): AS23106 (AMERICAN TOWER DO BRASIL-COMUNICA��O MULTIM�DIA LT)
+
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 210402 withdraws.
+Peer ASN(s): AS31027 (GlobalConnect-AS31027)
+
+Most origin ASNs per prefix: 1 prefix(es) had 21 origin ASNs.
+Prefix 37.209.198.0/24 from origin ASN(s) AS19905 (SECURITYSERVICES) AS397220 (SECURITYSERVICES) AS397234 (SECURITYSERVICES) AS397238 (SECURITYSERVICES) AS397239 (SECURITYSERVICES) AS397241 (SECURITYSERVICES) AS397213 (SECURITYSERVICES) AS12008 (SECURITYSERVICES) AS397229 (SECURITYSERVICES) AS397221 (SECURITYSERVICES) AS397222 (SECURITYSERVICES) AS397218 (SECURITYSERVICES) AS397232 (SECURITYSERVICES) AS397235 (SECURITYSERVICES) AS397233 (SECURITYSERVICES) AS397240 (SECURITYSERVICES) AS397237 (SECURITYSERVICES) AS397225 (SECURITYSERVICES) AS397215 (SECURITYSERVICES) AS397224 (SECURITYSERVICES) AS397231 (SECURITYSERVICES)
+
+Most unknown attributes per prefix: 13 prefix(es) had 1 unknown attribute(s).
+Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
+Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
+Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 192.88.9.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 192.88.10.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
+Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 199.229.102.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
+Prefix 199.229.103.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
+
+Prefixes with most unregistered origin ASNs per prefix: 16 prefix(es) had 1 bogon origin ASNs.
+Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
+Prefix 212.8.48.0/24 from origin ASN(s) AS297889
+Prefix 31.44.180.0/23 from origin ASN(s) AS565541
+Prefix 109.95.68.0/24 from origin ASN(s) AS2106440
+Prefix 2804:2098::/32 from origin ASN(s) AS245600
+Prefix 134.132.51.0/24 from origin ASN(s) AS227171
+Prefix 195.128.150.0/24 from origin ASN(s) AS566129
+Prefix 64.76.168.0/24 from origin ASN(s) AS650950004
+Prefix 83.239.47.0/24 from origin ASN(s) AS6515312
+Prefix 45.231.45.0/24 from origin ASN(s) AS255546
+Prefix 181.189.28.0/22 from origin ASN(s) AS2714040
+Prefix 38.110.79.0/24 from origin ASN(s) AS230105
+Prefix 102.220.248.0/24 from origin ASN(s) AS322806
+Prefix 134.132.48.0/21 from origin ASN(s) AS227171
+Prefix 134.132.52.0/22 from origin ASN(s) AS227171
+Prefix 134.132.48.0/22 from origin ASN(s) AS227171
+

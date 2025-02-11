@@ -553,7 +553,7 @@ Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 Prefix 199.229.102.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
 Prefix 199.229.103.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
 
-Prefixes with most unregistered origin ASNs per prefix: 22 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 22 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2804:2098::/32 from origin ASN(s) AS245600
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 212.8.48.0/24 from origin ASN(s) AS297889

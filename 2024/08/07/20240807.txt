@@ -132,7 +132,7 @@ Prefix 181.117.16.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
 Prefix 181.117.17.0/24 from origin ASN(s) AS19037 has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 13 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 13 prefix(es) had 1 unregistered origin ASNs.
 Prefix 102.220.248.0/24 from origin ASN(s) AS322806
 Prefix 38.137.160.0/22 from origin ASN(s) AS277034
 Prefix 64.76.168.0/24 from origin ASN(s) AS650950004

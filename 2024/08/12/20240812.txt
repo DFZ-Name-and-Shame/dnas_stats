@@ -69,7 +69,7 @@ Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attri
 Prefix 137.44.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 200.219.246.80/28 from origin ASN(s) AS16397 (EQUINIX BRASIL) has attribute(s) {21}
 
-Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 unregistered origin ASNs.
 Prefix 157.191.67.0/24 from origin ASN(s) AS365366
 Prefix 157.191.147.0/24 from origin ASN(s) AS365366
 Prefix 157.191.4.0/24 from origin ASN(s) AS365366

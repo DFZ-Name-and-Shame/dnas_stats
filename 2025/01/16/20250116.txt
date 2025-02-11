@@ -73,7 +73,7 @@ Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones I
 Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}
 Prefix 199.229.102.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
 
-Prefixes with most unregistered origin ASNs per prefix: 17 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 17 prefix(es) had 1 unregistered origin ASNs.
 Prefix 134.132.51.0/24 from origin ASN(s) AS227171
 Prefix 64.76.168.0/24 from origin ASN(s) AS650950004
 Prefix 212.8.48.0/24 from origin ASN(s) AS297889

@@ -83,6 +83,6 @@ Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 1 prefix(es) had 3 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 1 prefix(es) had 3 unregistered origin ASNs.
 Prefix 186.237.152.0/23 from origin ASN(s) AS805580400 AS805715792 AS805713184
 

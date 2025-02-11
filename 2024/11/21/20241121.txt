@@ -98,7 +98,7 @@ Prefix 192.88.9.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 192.88.10.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 101.198.194.0/24 from origin ASN(s) AS4187048001
 Prefix 186.194.12.0/24 from origin ASN(s) AS279045

@@ -62,7 +62,7 @@ Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
 Prefix 199.229.103.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
 
-Prefixes with most unregistered origin ASNs per prefix: 23 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 23 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 64.76.168.0/24 from origin ASN(s) AS650950004
 Prefix 134.132.51.0/24 from origin ASN(s) AS227171

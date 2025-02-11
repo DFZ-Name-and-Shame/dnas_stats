@@ -110,7 +110,7 @@ Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute
 Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
 Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 20 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 102.220.248.0/24 from origin ASN(s) AS322806
 Prefix 38.110.79.0/24 from origin ASN(s) AS230105

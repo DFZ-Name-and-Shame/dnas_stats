@@ -8931,7 +8931,7 @@ Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 17 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 17 prefix(es) had 1 unregistered origin ASNs.
 Prefix 212.8.48.0/24 from origin ASN(s) AS297889
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 102.22.223.0/24 from origin ASN(s) AS805661248

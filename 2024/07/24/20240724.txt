@@ -276,7 +276,7 @@ Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
 Prefix 181.117.16.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
 Prefix 181.117.17.0/24 from origin ASN(s) AS19037 (AMX Argentina S.A.) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 22 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 22 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 64.76.168.0/24 from origin ASN(s) AS650950004
 Prefix 134.132.51.0/24 from origin ASN(s) AS227171

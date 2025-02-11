@@ -7638,7 +7638,7 @@ Prefix 199.229.102.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 10 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 10 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 212.8.48.0/24 from origin ASN(s) AS297889
 Prefix 134.132.51.0/24 from origin ASN(s) AS227171

@@ -72,7 +72,7 @@ Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones I
 Prefix 192.88.9.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 192.88.10.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 
-Prefixes with most unregistered origin ASNs per prefix: 18 prefix(es) had 1 bogon origin ASNs.
+Prefixes with most unregistered origin ASNs per prefix: 18 prefix(es) had 1 unregistered origin ASNs.
 Prefix 2801:1f:d800::/48 from origin ASN(s) AS254455
 Prefix 2804:2098::/32 from origin ASN(s) AS245600
 Prefix 102.208.228.0/24 from origin ASN(s) AS3288824

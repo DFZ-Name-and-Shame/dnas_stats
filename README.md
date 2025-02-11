@@ -67,11 +67,17 @@ The set of unique collectors from the list above are shown in the table below. A
 
 ## Report Definitions
 
-Only the *worst* stats are collected and shown in the report. The definition of "worst" varies by the type of statistic being reported. For example, a prefix originated by more origin ASNs is more "visible" in the DFZ than a prefix with fewer origin ASNs. Thus, a BOGON prefix announced by multiple origin ASNs is considered worse than a BOGON prefix announced by a single origin, because it is more like to propagate across the DFZ the more ASNs originate the prefix. This is because there is no single view of the DFZ, "pollution" seen in the DFZ might not have been seen by many networks or even any networks at all, if good filtering is in place.
+Only the *worst* stats are collected and shown in the report. The definition of "worst" varies by the type of statistic being reported. For example, a prefix originated by more origin ASNs is more "visible" in the DFZ than a prefix with fewer origin ASNs. Thus, a BOGON prefix announced by multiple origin ASNs is considered worse than a BOGON prefix announced by a single origin, because it is more likely to propagate across the DFZ the more ASNs originate the prefix. This is because there is no single view of the DFZ, "pollution" seen in the DFZ might not have been seen by many networks or even any networks at all, if good filtering is in place.
 
 As a further example, if the statistic is the highest MED seen, 20 prefixes may have been seen with a MED of 12M (out of a maximum of 16.7M), but even if only 1 prefix was seen with a MED of 15M (leaving just a small percentage of the total metric space still usable), the 1 prefix would be shown in the report, not the 20 prefixes (because the 1 prefix leaves even less usable metric space than the 20 for onward propagation without hitting the max MED).
 
-All of this means that there is lots of DFZ "noise" not shown in the report. Showing it all would result in a huge report and some of it isnt very interesting or much of a problem. This is why only the worst data from the past 24 hours is reported. The report serves as a kind of warning of stuff that should probably be fixed.
+All of this means that there is lots of DFZ "noise" not shown in the report. Showing it all would result in a huge report and some of it isn't very interesting or much of a problem. This is why only the "worst" data from the past 24 hours is reported. The report serves as a kind of warning of stuff that should probably be fixed.
+
+[Here](https://github.com/DFZ-Name-and-Shame/dnas_stats/blob/c4f64168199bad63aaa6bfb976d9d440961a3539/2025/01/01/20250101.txt#L3) is a day in which there were no prefixes originated from more than 1 BOGON origin ASN.
+
+[Here](https://github.com/DFZ-Name-and-Shame/dnas_stats/blob/c4f64168199bad63aaa6bfb976d9d440961a3539/2025/01/03/20250103.txt#L3) is a day in which there were a few prefixes originated from 2 BOGON origin ASNs each.
+
+There are prefixes being advertised from a single BOGON origin ASN on the day of the second exmaple, but they are not shown in the repo due to the reasoning explained above.
 
 Additionally, some statistics are cumulative across MRT sources while some are not, depending on whether it makes sense for each specific statistic (this is explained below).
 
@@ -204,6 +210,16 @@ A list of prefixes which have the same highest number of unknown BGP attributes 
 The prefixes listed may have been seen from different MRT sources.
 
 Prefixes with more unknown attributes are considered worse.
+
+### Most unregistered origin ASNs per prefix
+
+A list of prefixes which have the same highest number of unregistered origin ASNs.
+
+The prefixes listed may have been seen from different MRT sources.
+
+Prefixes with more unregistered orign ASNs are considered worse.
+
+The list of ASN allocations to RIRs is pulled once per day from IANA. Here unregistered means if the ASN was allocated to an RIR and thus _could_ be seen in the DFZ. 
 
 ## Contact
 

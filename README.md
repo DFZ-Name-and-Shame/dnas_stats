@@ -24,6 +24,8 @@ Each day a report is generated for the previous day. The stats from each source 
 
 The original goal was to gather data from all the [Tier 1 networks](https://asrank.caida.org/) and the largest Tier 2 networks (don't get me started, I think this terminology is ridiculous!). The table below lists which of these Tier 1/2 networks are contributing data to the DNAS reports (not that many other networks contribute data to the same router collectors meaning data is being collected by many more networks than those listed below).
 
+A list of peers of RIS and RouteViews collectors, and the number of prefixes each peers is sending, can be found [here](https://ui.broker.bgpkit.com/).
+
 | ASN   | Name               | Tier | Collected          | Collector | 
 |-------|--------------------|------|--------------------|-----------|
 | 174   | Cogent             | 1    | :white_check_mark: | RRC25 |

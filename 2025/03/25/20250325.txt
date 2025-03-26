@@ -1,0 +1,631 @@
+For 2025/03/25 80744349 BGP UPDATES were parsed. 80090075 UPDATES contained prefix advertisements. 2081002 UPDATES contained prefix withdraws.
+
+Prefixes with most bogon origin ASNs per prefix: 9 prefix(es) had 2 bogon origin ASNs.
+Prefix 164.160.8.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 164.160.9.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 164.160.10.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 164.160.11.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 102.210.76.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 102.210.78.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 102.210.79.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 102.210.77.0/24 from origin ASN(s) AS64512 AS23456
+Prefix 170.245.144.0/24 from origin ASN(s) AS65539 AS65530
+
+Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
+
+ASNs originating the most bogons ASNs: 2 ASN(s) are originating 6 bogon ASNs.
+AS27651 (ENTEL CHILE S.A.) is originating 6 bogon ASNs: 64644 64668 64678 64674 64637 64669
+AS14537 (CL-1379-14537) is originating 6 bogon ASNs: 65057 65043 65211 64515 65052 65012
+
+Prefixes with the highest MED: 500 prefix(es) had a MED of 16854245.
+Prefix 163.123.132.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS398835 (LINKED-LAKES).
+Prefix 104.167.230.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26533 (STIBARC-AS-01).
+Prefix 173.243.96.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 173.243.106.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 192.40.224.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 212.165.64.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 216.86.240.0/20 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 216.129.170.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS25222 (AS-ISOL).
+Prefix 63.133.216.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS400212 (VERGETEL-GROUP-LLC).
+Prefix 63.133.216.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS400212 (VERGETEL-GROUP-LLC).
+Prefix 23.132.52.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS401598 (PANCHAL-ASN-01).
+Prefix 205.189.203.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS401612 (HUENET).
+Prefix 104.244.159.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 104.254.57.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 104.254.58.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 91.231.142.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 92.119.229.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 172.97.69.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 188.119.114.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 199.74.192.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 104.128.231.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 5.181.170.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 23.147.0.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 23.159.160.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.33.66.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.37.133.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 162.249.173.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.109.221.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.135.13.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 139.177.155.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 140.150.176.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.19.78.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.19.91.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.200.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.201.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.202.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.203.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.204.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.205.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 146.185.206.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 147.78.180.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 147.78.181.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 147.78.182.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 147.78.183.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.176.237.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.193.164.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.217.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.218.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.219.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.221.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.222.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.61.223.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.202.80.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.202.82.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.203.8.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 193.203.10.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.68.185.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 91.198.230.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 91.199.3.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 185.88.100.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 206.162.246.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 206.162.250.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 206.162.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 194.56.255.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 194.104.11.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 91.229.104.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 194.105.158.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 194.107.125.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.10.166.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.66.208.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.80.104.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.132.184.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.138.100.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.140.206.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.145.130.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.148.124.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.148.232.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.148.234.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.56.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.57.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.58.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.59.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.60.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.61.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.62.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 46.161.63.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.192.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.212.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.216.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.220.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.224.0/20 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.244.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 50.114.252.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 77.220.193.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 77.220.194.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 83.142.52.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 83.142.54.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.82.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.184.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 91.240.71.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 207.174.24.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 157.254.4.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 157.254.204.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 157.254.232.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 157.254.244.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 93.177.118.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 191.96.196.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 212.119.44.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 212.119.46.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 213.108.2.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 216.177.134.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 217.145.224.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 217.145.226.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 217.145.227.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 45.66.209.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.132.185.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.138.101.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.159.20.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 93.177.116.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 5.181.171.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 5.183.253.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 5.183.254.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 5.188.217.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 89.19.35.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 193.151.188.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 141.98.85.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 141.98.86.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.61.216.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.61.220.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.81.144.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.81.145.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.88.37.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.88.101.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.88.102.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.88.103.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.96.37.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.102.112.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 185.102.113.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.66.210.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.66.211.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.80.106.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.132.186.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.132.187.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.138.102.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.138.103.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.148.125.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.148.126.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 45.148.127.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 212.119.40.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 213.232.121.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 213.232.123.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS35830 (BTTGROUP-AS).
+Prefix 23.155.24.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS33535 (MONOXIDE).
+Prefix 23.155.25.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS33535 (MONOXIDE).
+Prefix 103.158.222.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS38230 (NAVICENET-AS-AP).
+Prefix 200.1.154.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS207036 (aaNetworks).
+Prefix 192.73.80.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS394735 (TABUSH).
+Prefix 104.225.216.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 172.93.49.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 199.241.136.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 208.87.128.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 208.87.133.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 208.87.134.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.96.90.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.163.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.124.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.74.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.24.156.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.140.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.25.148.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.143.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.132.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.155.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 109.176.235.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.153.56.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.67.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.25.172.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 89.213.236.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.75.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.58.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.73.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.109.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 109.176.40.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.21.139.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 109.176.32.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 109.176.56.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.240.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.243.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 213.130.149.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 213.130.130.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 109.176.48.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 213.218.214.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.57.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.26.184.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.152.226.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.26.176.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.247.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.42.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.41.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 166.88.170.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS216093 (SERVERGUARD).
+Prefix 23.183.81.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS53667 (PONYNET).
+Prefix 23.183.82.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS53667 (PONYNET).
+Prefix 23.183.83.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS53667 (PONYNET).
+Prefix 198.98.48.0/20 via peer AS174 (COGENT-174) from origin ASN(s) AS53667 (PONYNET).
+Prefix 199.195.248.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS53667 (PONYNET).
+Prefix 91.90.195.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS204957 (GREENFLOID-AS).
+Prefix 195.123.232.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS204957 (GREENFLOID-AS).
+Prefix 185.190.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS204957 (GREENFLOID-AS).
+Prefix 92.38.182.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199524 (GCORE).
+Prefix 206.82.248.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS399765 (FASNET-SERVICES).
+Prefix 88.218.207.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS210025 (XXSL).
+Prefix 63.116.170.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397109 (CPASNET1).
+Prefix 172.86.96.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS14956 (ROUTERHOSTING).
+Prefix 172.86.104.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS14956 (ROUTERHOSTING).
+Prefix 185.38.201.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 82.163.48.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 82.163.248.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 83.151.198.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 95.183.1.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 95.183.2.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 95.183.5.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 212.18.254.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS199391 (XGlobe-199391).
+Prefix 5.181.159.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39798 (MivoCloud).
+Prefix 23.132.92.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397730 (MILDPANIC2).
+Prefix 208.99.44.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26930 (PARALLAX).
+Prefix 172.98.49.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS399728 (PFOUNDATION).
+Prefix 185.77.152.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS57168 (ICH-AS).
+Prefix 185.77.154.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS57168 (ICH-AS).
+Prefix 23.134.76.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS27284 (FOURPLEX-ASN).
+Prefix 38.225.240.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS27284 (FOURPLEX-ASN).
+Prefix 193.108.158.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS22399 (COBA-1).
+Prefix 208.74.52.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS22399 (COBA-1).
+Prefix 208.74.53.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS22399 (COBA-1).
+Prefix 23.162.104.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS401450 (PLXN-ASN-USEAST1).
+Prefix 74.113.32.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS26632 (CONNETRIX-01).
+Prefix 103.123.101.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS38047 (ADVANCED-AS-AP).
+Prefix 217.28.130.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS56322 (ServerAstra-AS).
+Prefix 206.168.132.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS400212 (VERGETEL-GROUP-LLC).
+Prefix 107.155.228.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.203.116.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.203.108.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.202.232.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.203.140.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.203.128.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.202.240.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.25.146.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 82.24.96.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 194.233.103.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 195.179.203.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 198.57.44.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.29.112.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.29.118.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.29.127.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.67.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.78.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.123.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.122.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.121.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.166.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.178.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.187.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.200.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.207.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 37.72.174.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 45.40.112.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.96.88.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.232.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.244.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.253.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.0.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.12.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.31.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.99.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.113.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 94.100.16.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.80.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.100.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.126.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 154.127.61.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 190.102.105.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.211.62.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.254.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 45.40.97.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.255.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 185.206.228.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 185.171.161.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.29.118.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 157.254.182.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 64.29.178.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 165.140.243.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS203380 (DAInternationalGroup).
+Prefix 165.140.242.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS203380 (DAInternationalGroup).
+Prefix 198.49.9.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS11926 (HARTSOFTWARE).
+Prefix 162.249.168.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 162.249.170.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 162.249.172.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.81.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.80.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.88.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 169.197.80.0/20 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 207.174.26.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS26548 (PUREVOLTAGE-INC).
+Prefix 162.244.94.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS965 (WEBHOSTINGHOLDINGS).
+Prefix 62.192.168.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 204.87.191.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.29.72.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.29.74.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 45.43.19.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.29.70.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.29.66.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 104.255.225.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.31.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.30.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.29.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.28.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.25.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.24.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.23.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 31.58.167.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 147.124.197.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 37.34.80.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 64.84.112.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 140.235.108.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.16.169.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 91.92.195.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 154.127.54.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 45.59.162.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 82.25.26.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 170.39.214.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 209.87.160.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 209.87.164.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 209.87.172.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 216.173.119.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 147.124.202.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 45.59.160.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS397423 (TIER-NET).
+Prefix 23.172.201.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS32595 (LIBERALLY-NETWORK-INTL).
+Prefix 172.111.48.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31786 (ZOOMINGWORK-LLC).
+Prefix 199.253.30.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31786 (ZOOMINGWORK-LLC).
+Prefix 162.217.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS58305 (SYN-US).
+Prefix 52.129.44.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS395092 (SHOCK-1).
+Prefix 107.161.50.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS395092 (SHOCK-1).
+Prefix 144.208.124.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS395092 (SHOCK-1).
+Prefix 146.71.86.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS395092 (SHOCK-1).
+Prefix 208.123.116.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS395092 (SHOCK-1).
+Prefix 206.168.135.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS400212 (VERGETEL-GROUP-LLC).
+Prefix 154.202.16.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 154.203.72.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 154.205.160.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 154.206.120.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 154.207.128.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 154.207.232.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.194.64.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.194.68.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.194.72.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.194.76.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.192.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.196.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.200.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.204.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.224.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.228.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.232.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 45.197.236.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.160.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.161.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.162.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.163.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.164.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.165.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.166.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.167.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.168.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.169.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.170.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 156.238.171.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 31.59.186.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 31.56.89.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS39600.
+Prefix 216.146.0.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS397031 (GALAXYGATE).
+Prefix 216.146.2.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS397031 (GALAXYGATE).
+Prefix 45.153.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS44841 (Egressif).
+Prefix 198.8.59.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS206628 (EzriCloud).
+Prefix 5.188.216.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 5.188.218.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 5.188.219.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.40.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.41.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.42.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.43.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.44.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.45.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.46.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 37.9.47.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 146.185.207.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 193.233.208.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 88.218.44.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 45.135.1.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 45.135.2.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 91.245.236.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 217.145.225.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS43444 (BNS-AS).
+Prefix 63.133.219.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS400945 (CSB-ASN).
+Prefix 165.140.209.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS399266 (PONENET).
+Prefix 165.140.210.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS399266 (PONENET).
+Prefix 66.96.81.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.252.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.250.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.248.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.247.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.244.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.242.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.240.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 199.167.149.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 199.231.166.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.211.52.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.211.50.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.211.49.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 192.211.56.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 190.124.44.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 144.168.42.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.106.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.119.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.89.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 104.254.130.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 96.31.74.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 94.72.164.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 94.72.167.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 94.72.165.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 91.191.210.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.26.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.232.107.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.22.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.20.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.206.10.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.248.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.21.144.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 46.21.148.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.176.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.171.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.202.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.181.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.189.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.188.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.187.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.186.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.185.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.184.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.176.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.160.0/20 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.151.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.150.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.149.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.145.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.148.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.136.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.70.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.68.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.29.114.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.96.92.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.71.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.75.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.97.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.98.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.118.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.123.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.120.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.226.32.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 198.167.132.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 199.175.98.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS395101 (ISP-CLUSTER-INC).
+Prefix 103.19.179.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS132647 (IDNIC-PANDI-AS-ID).
+Prefix 192.88.186.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS393812 (MDLAND-BGP-ASN).
+Prefix 192.211.57.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.152.0/21 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.146.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.147.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.190.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.111.144.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 66.165.249.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 74.50.109.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 162.216.7.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.92.72.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 217.79.251.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.204.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.115.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.227.173.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 172.93.54.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 107.155.216.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS29802 (HVC-AS).
+Prefix 23.94.142.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 148.135.171.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.94.34.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 154.206.41.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 157.254.14.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 200.229.19.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS5065 (BUNNY-COMMUNICATIONS-GLOBAL).
+Prefix 161.30.8.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31515 (AS-INMARSAT).
+Prefix 161.30.42.0/23 via peer AS174 (COGENT-174) from origin ASN(s) AS31515 (AS-INMARSAT).
+Prefix 161.30.166.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31515 (AS-INMARSAT).
+Prefix 185.174.252.0/22 via peer AS174 (COGENT-174) from origin ASN(s) AS42366 (TERRATRANSIT-AS).
+Prefix 94.156.204.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS42366 (TERRATRANSIT-AS).
+Prefix 185.194.150.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS42366 (TERRATRANSIT-AS).
+Prefix 166.88.185.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS400212 (VERGETEL-GROUP-LLC).
+Prefix 109.235.150.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS57168 (ICH-AS).
+Prefix 185.77.153.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS57168 (ICH-AS).
+Prefix 62.72.168.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31786 (ZOOMINGWORK-LLC).
+Prefix 46.202.225.0/24 via peer AS174 (COGENT-174) from origin ASN(s) AS31786 (ZOOMINGWORK-LLC).
+
+Longest AS path: 4 prefix(es) had an AS path length of 255 ASNs.
+Prefix 45.225.244.0/24 via peer AS23106 (AMERICAN TOWER DO BRASIL-COMUNICA��O MULTIM�DIA LT) from origin ASN(s) AS272626 (N9 TELECOM by Ligpronet). AS Path length 255: AS23106 AS52925 AS270417 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626.
+Prefix 45.225.244.0/24 via peer AS264479 (Turbozone Internet) from origin ASN(s) AS272626 (N9 TELECOM by Ligpronet). AS Path length 255: AS264479 AS61568 AS26615 AS10429 AS11432 AS270417 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626.
+Prefix 45.225.244.0/24 via peer AS23106 (AMERICAN TOWER DO BRASIL-COMUNICA��O MULTIM�DIA LT) from origin ASN(s) AS272626 (N9 TELECOM by Ligpronet). AS Path length 255: AS23106 AS10429 AS11432 AS270417 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626.
+Prefix 45.225.244.0/24 via peer AS263152 (MIGO TELECOM) from origin ASN(s) AS272626 (N9 TELECOM by Ligpronet). AS Path length 255: AS263152 AS52925 AS270417 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626 AS272626.
+
+Longest community set: 4 prefix(es) had a community set length of 336 communities.
+Prefix 104.254.194.0/24 via peer AS24961 (MYLOC-AS) from origin ASN(s) AS209181 (ZENEX5IVE-NL). Commnuity set length 336: 174:3010 174:3040 174:3060 174:3070 174:3120 174:3240 174:3290 174:3300 1273:65535 1299:65535 2603:65535 3216:65535 3786:65535 4134:65535 4230:65535 4637:65535 4788:65535 5400:65535 5432:65535 5511:65535 6327:65535 6453:65535 6461:65535 6663:65535 6805:65535 6830:19010 6830:19020 6830:19030 6830:19050 6830:19060 6830:19070 6830:19100 6830:19110 6830:19130 6830:19140 6830:19180 6830:19260 6830:19310 6830:19340 6830:19610 6830:65535 6849:65535 7473:65535 8218:65535 9121:65535 12576:65535 12874:65535 20485:65535 24961:2 24961:8016 24961:9004 58453:65535 65000:57 65000:174 65000:209 65000:260 65000:376 65000:701 65000:786 65000:812 65000:852 65000:855 65000:1267 65000:1273 65000:1299 65000:2116 65000:2119 65000:2381 65000:2516 65000:2609 65000:2711 65000:2914 65000:3223 65000:3257 65000:3262 65000:3292 65000:3320 65000:3356 65000:3491 65000:3737 65000:4134 65000:4181 65000:4230 65000:4540 65000:4637 65000:4648 65000:4764 65000:4766 65000:5511 65000:5603 65000:5607 65000:5645 65000:5650 65000:6204 65000:6327 65000:6453 65000:6461 65000:6752 65000:6762 65000:6810 65000:6848 65000:6866 65000:6939 65000:7018 65000:7459 65000:7713 65000:7794 65000:7795 65000:7843 65000:7922 65000:8075 65000:8151 65000:8220 65000:8301 65000:8452 65000:8551 65000:8680 65000:8708 65000:8717 65000:8767 65000:8932 65000:9002 65000:9009 65000:9050 65000:9063 65000:9070 65000:9121 65000:9142 65000:9186 65000:9269 65000:10099 65000:11019 65000:11260 65000:11290 65000:11404 65000:12083 65000:12252 65000:12355 65000:12400 65000:12586 65000:12611 65000:12693 65000:12735 65000:12779 65000:12876 65000:12956 65000:12975 65000:13045 65000:13213 65000:13287 65000:13335 65000:13876 65000:14593 65000:15128 65000:15146 65000:15169 65000:15763 65000:15924 65000:15994 65000:16509 65000:16611 65000:17676 65000:18734 65000:19255 65000:19318 65000:19515 65000:19901 65000:20055 65000:20115 65000:20473 65000:20677 65000:20912 65000:20940 65000:21013 65000:21034 65000:21409 65000:21413 65000:21488 65000:21497 65000:21804 65000:21859 65000:22351 65000:22616 65000:22646 65000:22652 65000:22709 65000:22773 65000:22995 65000:23089 65000:23314 65000:23316 65000:23470 65000:25369 65000:25394 65000:26827 65000:27364 65000:27425 65000:27589 65000:28458 65000:28469 65000:29049 65000:29119 65000:29222 65000:29286 65000:29314 65000:29535 65000:29655 65000:29695 65000:29802 65000:30029 65000:30036 65000:30058 65000:30148 65000:30633 65000:30722 65000:30848 65000:30950 65000:31042 65000:31115 65000:31263 65000:31287 65000:31317 65000:31404 65000:31655 65000:31736 65000:31775 65000:31898 65000:32098 65000:32934 65000:33576 65000:34525 65000:34594 65000:34659 65000:34984 65000:35266 65000:35320 65000:35370 65000:35444 65000:36352 65000:36459 65000:37282 65000:37492 65000:37558 65000:37693 65000:39271 65000:39386 65000:39878 65000:40676 65000:41160 65000:41327 65000:41549 65000:41564 65000:41998 65000:42831 65000:43372 65000:43406 65000:43440 65000:43541 65000:43599 65000:43641 65000:44212 65000:44384 65000:44735 65000:44788 65000:44901 65000:46450 65000:46475 65000:46562 65000:46844 65000:47866 65000:48101 65000:48544 65000:49088 65000:49220 65000:49600 65000:49605 65000:49808 65000:50183 65000:51167 65000:51175 65000:51681 65000:51978 65000:53407 65000:53764 65000:53828 65000:54113 65000:54994 65000:55943 65000:56630 65000:57717 65000:57795 65000:58453 65000:59605 65000:60068 65000:60798 65000:61273 65000:62044 65000:62240 65000:62713 65000:63023 65000:63199 65000:63351 65535:10030 65535:10040 65535:10060 65535:10070 65535:10080 65535:10100 65535:10120 65535:10140 65535:10150 65535:10160 65535:10170 65535:10180 65535:10210 65535:10220 65535:10240 24961:1:528 24961:2:1 24961:2:150 24961:2:155 24961:2:528 24961:3:2 24961:4:9004 24961:5:9004 24961:6:2 24961:7:206221 24961:8:8016 24961:9:3 24961:10:1 206221:899:18 206221:901:18 206221:901:62 206221:901:245 206221:901:374 206221:901:1083.
+Prefix 199.244.101.0/24 via peer AS24961 (MYLOC-AS) from origin ASN(s) AS209181 (ZENEX5IVE-NL). Commnuity set length 336: 174:3010 174:3040 174:3060 174:3070 174:3120 174:3240 174:3290 174:3300 1273:65535 1299:65535 2603:65535 3216:65535 3786:65535 4134:65535 4230:65535 4637:65535 4788:65535 5400:65535 5432:65535 5511:65535 6327:65535 6453:65535 6461:65535 6663:65535 6805:65535 6830:19010 6830:19020 6830:19030 6830:19050 6830:19060 6830:19070 6830:19100 6830:19110 6830:19130 6830:19140 6830:19180 6830:19260 6830:19310 6830:19340 6830:19610 6830:65535 6849:65535 7473:65535 8218:65535 9121:65535 12576:65535 12874:65535 20485:65535 24961:2 24961:8016 24961:9004 58453:65535 65000:57 65000:174 65000:209 65000:260 65000:376 65000:701 65000:786 65000:812 65000:852 65000:855 65000:1267 65000:1273 65000:1299 65000:2116 65000:2119 65000:2381 65000:2516 65000:2609 65000:2711 65000:2914 65000:3223 65000:3257 65000:3262 65000:3292 65000:3320 65000:3356 65000:3491 65000:3737 65000:4134 65000:4181 65000:4230 65000:4540 65000:4637 65000:4648 65000:4764 65000:4766 65000:5511 65000:5603 65000:5607 65000:5645 65000:5650 65000:6204 65000:6327 65000:6453 65000:6461 65000:6752 65000:6762 65000:6810 65000:6848 65000:6866 65000:6939 65000:7018 65000:7459 65000:7713 65000:7794 65000:7795 65000:7843 65000:7922 65000:8075 65000:8151 65000:8220 65000:8301 65000:8452 65000:8551 65000:8680 65000:8708 65000:8717 65000:8767 65000:8932 65000:9002 65000:9009 65000:9050 65000:9063 65000:9070 65000:9121 65000:9142 65000:9186 65000:9269 65000:10099 65000:11019 65000:11260 65000:11290 65000:11404 65000:12083 65000:12252 65000:12355 65000:12400 65000:12586 65000:12611 65000:12693 65000:12735 65000:12779 65000:12876 65000:12956 65000:12975 65000:13045 65000:13213 65000:13287 65000:13335 65000:13876 65000:14593 65000:15128 65000:15146 65000:15169 65000:15763 65000:15924 65000:15994 65000:16509 65000:16611 65000:17676 65000:18734 65000:19255 65000:19318 65000:19515 65000:19901 65000:20055 65000:20115 65000:20473 65000:20677 65000:20912 65000:20940 65000:21013 65000:21034 65000:21409 65000:21413 65000:21488 65000:21497 65000:21804 65000:21859 65000:22351 65000:22616 65000:22646 65000:22652 65000:22709 65000:22773 65000:22995 65000:23089 65000:23314 65000:23316 65000:23470 65000:25369 65000:25394 65000:26827 65000:27364 65000:27425 65000:27589 65000:28458 65000:28469 65000:29049 65000:29119 65000:29222 65000:29286 65000:29314 65000:29535 65000:29655 65000:29695 65000:29802 65000:30029 65000:30036 65000:30058 65000:30148 65000:30633 65000:30722 65000:30848 65000:30950 65000:31042 65000:31115 65000:31263 65000:31287 65000:31317 65000:31404 65000:31655 65000:31736 65000:31775 65000:31898 65000:32098 65000:32934 65000:33576 65000:34525 65000:34594 65000:34659 65000:34984 65000:35266 65000:35320 65000:35370 65000:35444 65000:36352 65000:36459 65000:37282 65000:37492 65000:37558 65000:37693 65000:39271 65000:39386 65000:39878 65000:40676 65000:41160 65000:41327 65000:41549 65000:41564 65000:41998 65000:42831 65000:43372 65000:43406 65000:43440 65000:43541 65000:43599 65000:43641 65000:44212 65000:44384 65000:44735 65000:44788 65000:44901 65000:46450 65000:46475 65000:46562 65000:46844 65000:47866 65000:48101 65000:48544 65000:49088 65000:49220 65000:49600 65000:49605 65000:49808 65000:50183 65000:51167 65000:51175 65000:51681 65000:51978 65000:53407 65000:53764 65000:53828 65000:54113 65000:54994 65000:55943 65000:56630 65000:57717 65000:57795 65000:58453 65000:59605 65000:60068 65000:60798 65000:61273 65000:62044 65000:62240 65000:62713 65000:63023 65000:63199 65000:63351 65535:10030 65535:10040 65535:10060 65535:10070 65535:10080 65535:10100 65535:10120 65535:10140 65535:10150 65535:10160 65535:10170 65535:10180 65535:10210 65535:10220 65535:10240 24961:1:528 24961:2:1 24961:2:150 24961:2:155 24961:2:528 24961:3:2 24961:4:9004 24961:5:9004 24961:6:2 24961:7:206221 24961:8:8016 24961:9:3 24961:10:1 206221:899:18 206221:901:18 206221:901:62 206221:901:245 206221:901:374 206221:901:1083.
+Prefix 45.86.92.0/24 via peer AS24961 (MYLOC-AS) from origin ASN(s) AS209181 (ZENEX5IVE-NL). Commnuity set length 336: 174:3010 174:3040 174:3060 174:3070 174:3120 174:3240 174:3290 174:3300 1273:65535 1299:65535 2603:65535 3216:65535 3786:65535 4134:65535 4230:65535 4637:65535 4788:65535 5400:65535 5432:65535 5511:65535 6327:65535 6453:65535 6461:65535 6663:65535 6805:65535 6830:19010 6830:19020 6830:19030 6830:19050 6830:19060 6830:19070 6830:19100 6830:19110 6830:19130 6830:19140 6830:19180 6830:19260 6830:19310 6830:19340 6830:19610 6830:65535 6849:65535 7473:65535 8218:65535 9121:65535 12576:65535 12874:65535 20485:65535 24961:2 24961:8016 24961:9004 58453:65535 65000:57 65000:174 65000:209 65000:260 65000:376 65000:701 65000:786 65000:812 65000:852 65000:855 65000:1267 65000:1273 65000:1299 65000:2116 65000:2119 65000:2381 65000:2516 65000:2609 65000:2711 65000:2914 65000:3223 65000:3257 65000:3262 65000:3292 65000:3320 65000:3356 65000:3491 65000:3737 65000:4134 65000:4181 65000:4230 65000:4540 65000:4637 65000:4648 65000:4764 65000:4766 65000:5511 65000:5603 65000:5607 65000:5645 65000:5650 65000:6204 65000:6327 65000:6453 65000:6461 65000:6752 65000:6762 65000:6810 65000:6848 65000:6866 65000:6939 65000:7018 65000:7459 65000:7713 65000:7794 65000:7795 65000:7843 65000:7922 65000:8075 65000:8151 65000:8220 65000:8301 65000:8452 65000:8551 65000:8680 65000:8708 65000:8717 65000:8767 65000:8932 65000:9002 65000:9009 65000:9050 65000:9063 65000:9070 65000:9121 65000:9142 65000:9186 65000:9269 65000:10099 65000:11019 65000:11260 65000:11290 65000:11404 65000:12083 65000:12252 65000:12355 65000:12400 65000:12586 65000:12611 65000:12693 65000:12735 65000:12779 65000:12876 65000:12956 65000:12975 65000:13045 65000:13213 65000:13287 65000:13335 65000:13876 65000:14593 65000:15128 65000:15146 65000:15169 65000:15763 65000:15924 65000:15994 65000:16509 65000:16611 65000:17676 65000:18734 65000:19255 65000:19318 65000:19515 65000:19901 65000:20055 65000:20115 65000:20473 65000:20677 65000:20912 65000:20940 65000:21013 65000:21034 65000:21409 65000:21413 65000:21488 65000:21497 65000:21804 65000:21859 65000:22351 65000:22616 65000:22646 65000:22652 65000:22709 65000:22773 65000:22995 65000:23089 65000:23314 65000:23316 65000:23470 65000:25369 65000:25394 65000:26827 65000:27364 65000:27425 65000:27589 65000:28458 65000:28469 65000:29049 65000:29119 65000:29222 65000:29286 65000:29314 65000:29535 65000:29655 65000:29695 65000:29802 65000:30029 65000:30036 65000:30058 65000:30148 65000:30633 65000:30722 65000:30848 65000:30950 65000:31042 65000:31115 65000:31263 65000:31287 65000:31317 65000:31404 65000:31655 65000:31736 65000:31775 65000:31898 65000:32098 65000:32934 65000:33576 65000:34525 65000:34594 65000:34659 65000:34984 65000:35266 65000:35320 65000:35370 65000:35444 65000:36352 65000:36459 65000:37282 65000:37492 65000:37558 65000:37693 65000:39271 65000:39386 65000:39878 65000:40676 65000:41160 65000:41327 65000:41549 65000:41564 65000:41998 65000:42831 65000:43372 65000:43406 65000:43440 65000:43541 65000:43599 65000:43641 65000:44212 65000:44384 65000:44735 65000:44788 65000:44901 65000:46450 65000:46475 65000:46562 65000:46844 65000:47866 65000:48101 65000:48544 65000:49088 65000:49220 65000:49600 65000:49605 65000:49808 65000:50183 65000:51167 65000:51175 65000:51681 65000:51978 65000:53407 65000:53764 65000:53828 65000:54113 65000:54994 65000:55943 65000:56630 65000:57717 65000:57795 65000:58453 65000:59605 65000:60068 65000:60798 65000:61273 65000:62044 65000:62240 65000:62713 65000:63023 65000:63199 65000:63351 65535:10030 65535:10040 65535:10060 65535:10070 65535:10080 65535:10100 65535:10120 65535:10140 65535:10150 65535:10160 65535:10170 65535:10180 65535:10210 65535:10220 65535:10240 24961:1:528 24961:2:1 24961:2:150 24961:2:155 24961:2:528 24961:3:2 24961:4:9004 24961:5:9004 24961:6:2 24961:7:206221 24961:8:8016 24961:9:3 24961:10:1 206221:899:18 206221:901:18 206221:901:62 206221:901:245 206221:901:374 206221:901:1083.
+Prefix 2.58.195.0/24 via peer AS24961 (MYLOC-AS) from origin ASN(s) AS209181 (ZENEX5IVE-NL). Commnuity set length 336: 174:3010 174:3040 174:3060 174:3070 174:3120 174:3240 174:3290 174:3300 1273:65535 1299:65535 2603:65535 3216:65535 3786:65535 4134:65535 4230:65535 4637:65535 4788:65535 5400:65535 5432:65535 5511:65535 6327:65535 6453:65535 6461:65535 6663:65535 6805:65535 6830:19010 6830:19020 6830:19030 6830:19050 6830:19060 6830:19070 6830:19100 6830:19110 6830:19130 6830:19140 6830:19180 6830:19260 6830:19310 6830:19340 6830:19610 6830:65535 6849:65535 7473:65535 8218:65535 9121:65535 12576:65535 12874:65535 20485:65535 24961:2 24961:8016 24961:9004 58453:65535 65000:57 65000:174 65000:209 65000:260 65000:376 65000:701 65000:786 65000:812 65000:852 65000:855 65000:1267 65000:1273 65000:1299 65000:2116 65000:2119 65000:2381 65000:2516 65000:2609 65000:2711 65000:2914 65000:3223 65000:3257 65000:3262 65000:3292 65000:3320 65000:3356 65000:3491 65000:3737 65000:4134 65000:4181 65000:4230 65000:4540 65000:4637 65000:4648 65000:4764 65000:4766 65000:5511 65000:5603 65000:5607 65000:5645 65000:5650 65000:6204 65000:6327 65000:6453 65000:6461 65000:6752 65000:6762 65000:6810 65000:6848 65000:6866 65000:6939 65000:7018 65000:7459 65000:7713 65000:7794 65000:7795 65000:7843 65000:7922 65000:8075 65000:8151 65000:8220 65000:8301 65000:8452 65000:8551 65000:8680 65000:8708 65000:8717 65000:8767 65000:8932 65000:9002 65000:9009 65000:9050 65000:9063 65000:9070 65000:9121 65000:9142 65000:9186 65000:9269 65000:10099 65000:11019 65000:11260 65000:11290 65000:11404 65000:12083 65000:12252 65000:12355 65000:12400 65000:12586 65000:12611 65000:12693 65000:12735 65000:12779 65000:12876 65000:12956 65000:12975 65000:13045 65000:13213 65000:13287 65000:13335 65000:13876 65000:14593 65000:15128 65000:15146 65000:15169 65000:15763 65000:15924 65000:15994 65000:16509 65000:16611 65000:17676 65000:18734 65000:19255 65000:19318 65000:19515 65000:19901 65000:20055 65000:20115 65000:20473 65000:20677 65000:20912 65000:20940 65000:21013 65000:21034 65000:21409 65000:21413 65000:21488 65000:21497 65000:21804 65000:21859 65000:22351 65000:22616 65000:22646 65000:22652 65000:22709 65000:22773 65000:22995 65000:23089 65000:23314 65000:23316 65000:23470 65000:25369 65000:25394 65000:26827 65000:27364 65000:27425 65000:27589 65000:28458 65000:28469 65000:29049 65000:29119 65000:29222 65000:29286 65000:29314 65000:29535 65000:29655 65000:29695 65000:29802 65000:30029 65000:30036 65000:30058 65000:30148 65000:30633 65000:30722 65000:30848 65000:30950 65000:31042 65000:31115 65000:31263 65000:31287 65000:31317 65000:31404 65000:31655 65000:31736 65000:31775 65000:31898 65000:32098 65000:32934 65000:33576 65000:34525 65000:34594 65000:34659 65000:34984 65000:35266 65000:35320 65000:35370 65000:35444 65000:36352 65000:36459 65000:37282 65000:37492 65000:37558 65000:37693 65000:39271 65000:39386 65000:39878 65000:40676 65000:41160 65000:41327 65000:41549 65000:41564 65000:41998 65000:42831 65000:43372 65000:43406 65000:43440 65000:43541 65000:43599 65000:43641 65000:44212 65000:44384 65000:44735 65000:44788 65000:44901 65000:46450 65000:46475 65000:46562 65000:46844 65000:47866 65000:48101 65000:48544 65000:49088 65000:49220 65000:49600 65000:49605 65000:49808 65000:50183 65000:51167 65000:51175 65000:51681 65000:51978 65000:53407 65000:53764 65000:53828 65000:54113 65000:54994 65000:55943 65000:56630 65000:57717 65000:57795 65000:58453 65000:59605 65000:60068 65000:60798 65000:61273 65000:62044 65000:62240 65000:62713 65000:63023 65000:63199 65000:63351 65535:10030 65535:10040 65535:10060 65535:10070 65535:10080 65535:10100 65535:10120 65535:10140 65535:10150 65535:10160 65535:10170 65535:10180 65535:10210 65535:10220 65535:10240 24961:1:528 24961:2:1 24961:2:150 24961:2:155 24961:2:528 24961:3:2 24961:4:9004 24961:5:9004 24961:6:2 24961:7:206221 24961:8:8016 24961:9:3 24961:10:1 206221:899:18 206221:901:18 206221:901:62 206221:901:245 206221:901:374 206221:901:1083.
+
+Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 4 origin ASNs.
+Prefix 0.0.0.0/0 from origin ASN(s) AS174 (COGENT-174) AS16735 (ALGAR TELECOM S/A) AS13786 (SEABORN) AS61568 (ALOO TELECOM - FSF TECNOLOGIA SA)
+
+Most BGP advertisements per prefix: 1 prefix(es) had 1552656 advertisements.
+Prefix(es): 160.238.104.0/22
+
+Most BGP updates per prefix: 1 prefix(es) had 1699114 updates.
+Prefix(es): 160.238.104.0/22
+
+Most BGP withdraws per prefix: 1 prefix(es) had 143921 withdraws.
+Prefix(es): 2a03:eec0:3212::/48
+
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1515931 advertisements.
+Origin ASN(s): AS16509 (AMAZON-02)
+
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 39334801 advertisements.
+Peer ASN(s): AS202365 (Chronos)
+
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 39402732 updates.
+Peer ASN(s): AS202365 (Chronos)
+
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 211394 withdraws.
+Peer ASN(s): AS37721 (Virtual-Technologies-Solutions-SA)
+
+Most origin ASNs per prefix: 1 prefix(es) had 11 origin ASNs.
+Prefix 45.225.244.0/24 from origin ASN(s) AS272626 (N9 TELECOM by Ligpronet) AS26615 AS52925 AS270417 AS264479 (Turbozone Internet) AS61568 (ALOO TELECOM - FSF TECNOLOGIA SA) AS23106 (AMERICAN TOWER DO BRASIL-COMUNICA��O MULTIM�DIA LT) AS263152 (MIGO TELECOM) AS10429 AS11432 AS28624
+
+Most unknown attributes per prefix: 15 prefix(es) had 1 unknown attribute(s).
+Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
+Prefix 17.76.122.0/24 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
+Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 64.0.192.0/24 from origin ASN(s) AS7014 (XO-AS7014) has attribute(s) {21}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
+Prefix 199.229.102.0/24 from origin ASN(s) AS131231 (WPPNET-AS-AP) has attribute(s) {21}
+Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 192.88.9.0/24 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 192.88.10.0/24 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+
+Prefixes with most unregistered origin ASNs per prefix: 51 prefix(es) had 1 unregistered origin ASNs.
+Prefix 185.155.170.0/24 from origin ASN(s) AS42241111
+Prefix 194.62.65.0/24 from origin ASN(s) AS520202
+Prefix 212.8.48.0/24 from origin ASN(s) AS297889
+Prefix 109.71.87.0/24 from origin ASN(s) AS520202
+Prefix 109.71.80.0/22 from origin ASN(s) AS520202
+Prefix 103.105.102.0/24 from origin ASN(s) AS1333304
+Prefix 103.159.30.0/24 from origin ASN(s) AS1333304
+Prefix 102.220.248.0/24 from origin ASN(s) AS322806
+Prefix 169.255.185.0/24 from origin ASN(s) AS372885
+Prefix 196.249.109.0/24 from origin ASN(s) AS372885
+Prefix 196.249.118.0/24 from origin ASN(s) AS372885
+Prefix 196.249.119.0/24 from origin ASN(s) AS372885
+Prefix 169.255.184.0/24 from origin ASN(s) AS372885
+Prefix 169.255.187.0/24 from origin ASN(s) AS372885
+Prefix 196.249.65.0/24 from origin ASN(s) AS372885
+Prefix 196.249.67.0/24 from origin ASN(s) AS372885
+Prefix 196.249.68.0/24 from origin ASN(s) AS372885
+Prefix 196.249.69.0/24 from origin ASN(s) AS372885
+Prefix 196.249.92.0/24 from origin ASN(s) AS372885
+Prefix 196.249.96.0/24 from origin ASN(s) AS372885
+Prefix 196.249.120.0/24 from origin ASN(s) AS372885
+Prefix 196.249.121.0/24 from origin ASN(s) AS372885
+Prefix 196.249.122.0/24 from origin ASN(s) AS372885
+Prefix 196.249.123.0/24 from origin ASN(s) AS372885
+Prefix 196.249.124.0/24 from origin ASN(s) AS372885
+Prefix 196.249.126.0/24 from origin ASN(s) AS372885
+Prefix 196.249.127.0/24 from origin ASN(s) AS372885
+Prefix 2804:2098::/32 from origin ASN(s) AS245600
+Prefix 137.169.45.0/24 from origin ASN(s) AS339586
+Prefix 83.239.47.0/24 from origin ASN(s) AS6515312
+Prefix 38.110.79.0/24 from origin ASN(s) AS230105
+Prefix 196.249.79.0/24 from origin ASN(s) AS372885
+Prefix 196.249.110.0/24 from origin ASN(s) AS372885
+Prefix 134.132.51.0/24 from origin ASN(s) AS227171
+Prefix 64.76.168.0/24 from origin ASN(s) AS650950004
+Prefix 196.249.99.0/24 from origin ASN(s) AS372885
+Prefix 196.249.66.0/24 from origin ASN(s) AS372885
+Prefix 45.231.45.0/24 from origin ASN(s) AS255546
+Prefix 103.180.196.0/24 from origin ASN(s) AS1949369
+Prefix 68.208.197.0/24 from origin ASN(s) AS3999974
+Prefix 74.174.59.0/24 from origin ASN(s) AS3999974
+Prefix 196.249.98.0/24 from origin ASN(s) AS372885
+Prefix 196.249.76.0/24 from origin ASN(s) AS372885
+Prefix 196.249.97.0/24 from origin ASN(s) AS372885
+Prefix 196.249.125.0/24 from origin ASN(s) AS372885
+Prefix 196.249.70.0/24 from origin ASN(s) AS372885
+Prefix 196.249.72.0/24 from origin ASN(s) AS372885
+Prefix 196.249.74.0/24 from origin ASN(s) AS372885
+Prefix 196.249.77.0/24 from origin ASN(s) AS372885
+Prefix 196.249.78.0/24 from origin ASN(s) AS372885
+Prefix 209.126.75.0/24 from origin ASN(s) AS534452
+

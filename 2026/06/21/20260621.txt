@@ -86,9 +86,9 @@ Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
 Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
-Prefix 45.181.125.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
-Prefix 45.181.127.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
-Prefix 38.172.56.0/24 from origin ASN(s) AS272955 has attribute(s) {39}
+Prefix 45.181.125.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
+Prefix 45.181.127.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
+Prefix 38.172.56.0/24 from origin ASN(s) AS272955 (GRUPO TECNOLIFE, C.A.) has attribute(s) {39}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}

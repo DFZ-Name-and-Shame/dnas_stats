@@ -1,0 +1,710 @@
+For 2026/07/14 53620371 BGP UPDATES were parsed. 53150423 UPDATES contained prefix advertisements. 2825569 UPDATES contained prefix withdraws.
+
+Prefixes with most bogon origin ASNs per prefix: 21 prefix(es) had 2 bogon origin ASNs.
+Prefix 2001:df2:4280::/48 from origin ASN(s) AS23456 AS65531
+Prefix 2405:e340:100::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:101::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:102::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:103::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:104::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:105::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:106::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:107::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:108::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:109::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10a::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10b::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10c::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10d::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10e::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:10f::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:110::/48 from origin ASN(s) AS23456 AS65584
+Prefix 2405:e340:112::/48 from origin ASN(s) AS23456 AS65584
+Prefix 193.32.56.0/24 from origin ASN(s) AS65131 AS65130
+Prefix 45.133.39.0/24 from origin ASN(s) AS64516 AS65003
+
+Bogon prefixes with most origin ASNs per prefix: 2 bogon prefix(es) had 2 origin ASNs.
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
+Prefix 2002::/16 from origin ASN(s) AS7725 (COMCAST-7725) AS6939 (HURRICANE)
+
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 16 bogon ASNs.
+AS4755 (TATACOMM-AS) is originating 16 bogon ASNs: 64716 64562 65049 64707 65069 65270 65120 65353 65223 65031 65309 4200057201 65534 65059 64867 64957
+
+Prefixes with the highest MED: 605 prefix(es) had a MED of 16777222.
+Prefix 2001:df5:4000::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS132647 (IDNIC-PANDI-AS-ID).
+Prefix 2804:e80:400::/38 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 2804:158c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 2804:11cc:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
+Prefix 2804:26d0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:acc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 2804:9dc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998 (Logos Net Servicos de Comunicacao Ltda).
+Prefix 2804:13c4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 2804:15ac::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263402.
+Prefix 2804:2ea0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265356.
+Prefix 45.65.140.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 103.19.177.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS132647 (IDNIC-PANDI-AS-ID).
+Prefix 45.224.45.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266939.
+Prefix 45.224.47.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266939.
+Prefix 45.224.44.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266939.
+Prefix 45.224.46.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266939.
+Prefix 45.224.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266939.
+Prefix 131.161.112.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264374.
+Prefix 45.4.195.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266087.
+Prefix 138.121.116.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 170.246.16.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 168.181.152.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 170.246.18.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 168.181.152.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 168.181.154.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 170.246.16.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 45.176.202.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268966.
+Prefix 2804:12c0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 2804:3b9c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266160.
+Prefix 2804:3878::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 2804:3878::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 2804:3878:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 2804:3878:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 2804:3878:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 2804:42f8:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267540.
+Prefix 2804:5ed0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269058.
+Prefix 2804:5de8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269000.
+Prefix 2804:5b90::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268855.
+Prefix 2804:581c:f800::/37 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
+Prefix 45.5.252.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266115.
+Prefix 131.221.251.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 131.221.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 131.221.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 131.221.250.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 131.221.249.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 131.255.76.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264518.
+Prefix 45.171.218.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 45.171.216.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 45.171.216.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 45.172.204.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 45.172.204.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 45.172.206.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 45.172.206.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 45.172.204.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 45.230.244.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267187.
+Prefix 168.227.180.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 168.227.180.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 45.174.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842.
+Prefix 45.225.52.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
+Prefix 45.225.52.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
+Prefix 45.225.53.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
+Prefix 170.80.166.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 170.0.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
+Prefix 177.87.112.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
+Prefix 179.106.108.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 179.106.99.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 186.224.80.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998 (Logos Net Servicos de Comunicacao Ltda).
+Prefix 2804:5c4c:100::/42 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900.
+Prefix 2804:3cec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266242.
+Prefix 2804:6350::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 2804:3420::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
+Prefix 2804:5f64::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 2804:6b80::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270404.
+Prefix 2804:4fc8:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268349.
+Prefix 2804:7da4:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:7da4:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:7da4::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:7da4:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:9510::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274496.
+Prefix 2804:864c:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271062.
+Prefix 2804:864c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271062.
+Prefix 2804:864c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271062.
+Prefix 2804:864c:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271062.
+Prefix 2804:7e38::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271610.
+Prefix 2804:7c7c:ff00::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 2804:8564::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 168.181.124.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265356.
+Prefix 170.245.124.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 170.245.124.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 170.245.126.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 177.128.226.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262379.
+Prefix 177.124.72.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52601.
+Prefix 177.124.76.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52601.
+Prefix 181.233.29.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 181.233.28.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 181.233.30.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 181.233.30.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 181.233.31.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 186.195.243.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270809.
+Prefix 179.48.101.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271072.
+Prefix 179.127.246.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 186.250.128.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262815.
+Prefix 187.85.249.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.255.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.241.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.253.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.244.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.242.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.254.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.250.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.251.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.252.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 189.76.69.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52752.
+Prefix 201.49.232.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.232.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.234.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.182.15.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267492.
+Prefix 201.182.14.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267492.
+Prefix 201.182.182.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
+Prefix 201.182.180.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
+Prefix 191.243.59.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.63.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.58.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.62.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.60.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.61.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.62.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.56.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.56.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.56.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.60.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.60.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.56.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.58.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 191.243.57.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 200.71.64.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266191.
+Prefix 200.39.32.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271333.
+Prefix 177.85.106.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52741.
+Prefix 2804:7894::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271252.
+Prefix 2804:7c64:73c0::/42 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271493.
+Prefix 2804:8b24::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273714.
+Prefix 2804:91ac::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274657.
+Prefix 2804:91ac:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274657.
+Prefix 2804:8f28::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273472.
+Prefix 2804:953c:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274508.
+Prefix 2804:953c:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274508.
+Prefix 2804:953c:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274508.
+Prefix 2804:91b4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274659.
+Prefix 2804:f20:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52741.
+Prefix 2804:2f5c:c000::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 2804:42d0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
+Prefix 2804:25b0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 2804:25b0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 2804:158c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 2804:158c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 2804:2050:9aac::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264485.
+Prefix 2804:2050:9aab::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264485.
+Prefix 2804:26d0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:8000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:4000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:1000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:163c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263277.
+Prefix 2804:163c:a::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263277.
+Prefix 2804:98c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263099.
+Prefix 2804:b7c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52762.
+Prefix 2804:b7c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52762.
+Prefix 2804:10dc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 45.160.136.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268409.
+Prefix 45.160.137.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268409.
+Prefix 45.176.106.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 45.176.107.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 45.176.104.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 45.176.105.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 45.176.104.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 45.227.120.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 45.227.122.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 45.227.120.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 45.176.207.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268952.
+Prefix 45.7.81.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266575.
+Prefix 45.166.222.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267971.
+Prefix 143.0.243.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271217.
+Prefix 2804:35e4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266313.
+Prefix 2804:3944::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 2804:3944:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 2804:3944:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 2804:3944:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 2804:302c::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 2804:302c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 2804:53ec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268616.
+Prefix 2804:53ec:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268616.
+Prefix 2804:53ec:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268616.
+Prefix 2804:53ec:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268616.
+Prefix 2804:53ec::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268616.
+Prefix 2804:5d5c::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268967.
+Prefix 2804:5d5c:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268967.
+Prefix 2804:5d5c:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268967.
+Prefix 2804:5d5c:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268967.
+Prefix 2804:603c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269154.
+Prefix 2804:603c::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269154.
+Prefix 2804:5aa8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
+Prefix 167.250.126.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273811.
+Prefix 167.250.127.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273811.
+Prefix 168.196.16.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265185.
+Prefix 168.228.152.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264939.
+Prefix 45.180.225.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 45.180.227.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 45.180.224.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 45.180.226.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 45.180.224.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 45.175.48.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268884.
+Prefix 45.234.12.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61590.
+Prefix 168.195.176.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
+Prefix 168.195.178.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
+Prefix 168.195.178.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
+Prefix 168.195.176.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
+Prefix 45.186.163.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 45.186.160.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 45.186.162.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 45.186.161.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 45.186.160.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 45.178.240.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269115.
+Prefix 177.37.99.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.103.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.102.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.107.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.104.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.97.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.100.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.111.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.106.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.96.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.109.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.98.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 177.37.108.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
+Prefix 187.73.224.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 177.91.117.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
+Prefix 177.91.116.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
+Prefix 186.251.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 186.251.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 2804:5c4c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900.
+Prefix 2804:3d8c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266538.
+Prefix 2804:5c00::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268882.
+Prefix 2804:383c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52601.
+Prefix 2804:5b6c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842.
+Prefix 2804:3ba8:ff00::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266163.
+Prefix 2804:45ac:c000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
+Prefix 2804:775c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271173.
+Prefix 2804:842c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:842c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:8868:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272769.
+Prefix 2804:8868::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272769.
+Prefix 2804:7c08:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 2804:7c08:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 2804:7c08:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271471.
+Prefix 2804:7c7c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 2804:8564:f000::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 170.244.216.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
+Prefix 170.244.46.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 170.244.44.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 170.244.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
+Prefix 177.184.187.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.176.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.191.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.176.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.180.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 170.84.90.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
+Prefix 170.84.88.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
+Prefix 170.84.88.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
+Prefix 181.233.54.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 181.233.52.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 181.233.53.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 181.233.55.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 179.48.7.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271062.
+Prefix 177.136.168.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263594.
+Prefix 177.136.169.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263594.
+Prefix 187.102.223.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270736.
+Prefix 187.102.220.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270736.
+Prefix 187.102.220.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270736.
+Prefix 187.102.221.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270736.
+Prefix 187.85.240.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 190.115.92.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270448.
+Prefix 206.0.141.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52762.
+Prefix 201.159.95.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272585.
+Prefix 189.91.146.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264485.
+Prefix 191.241.48.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263666.
+Prefix 201.49.238.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.228.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.236.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.228.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.230.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.224.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.237.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.228.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.239.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.49.229.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 201.218.191.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271673.
+Prefix 189.91.128.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 2804:7b5c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271427.
+Prefix 2804:702c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262909.
+Prefix 2804:8100::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262306.
+Prefix 2804:975c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS275618.
+Prefix 2804:95a4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274535.
+Prefix 2804:953c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274508.
+Prefix 2804:97cc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS275646.
+Prefix 2804:6f0::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 2804:6f0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 2804:25b0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
+Prefix 2804:df8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:df8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:df8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:2d8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:2d8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:2d8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:24bc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52695.
+Prefix 2804:1824::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
+Prefix 2804:cec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52575.
+Prefix 2804:2bf8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265185.
+Prefix 2804:978::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263087.
+Prefix 2804:ce8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52574.
+Prefix 24.239.166.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS55256 (NETSKOPE).
+Prefix 158.95.72.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS55256 (NETSKOPE).
+Prefix 163.116.230.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS55256 (NETSKOPE).
+Prefix 162.10.240.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS55256 (NETSKOPE).
+Prefix 45.171.68.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
+Prefix 45.182.253.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269248.
+Prefix 131.221.100.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 45.70.156.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 38.156.4.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272222.
+Prefix 138.117.254.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270663.
+Prefix 45.167.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268050.
+Prefix 143.137.232.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263402.
+Prefix 177.222.228.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263402.
+Prefix 2804:1140::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263666.
+Prefix 2804:3944::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266022.
+Prefix 2804:302c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 2804:59e4::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 2804:59e4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 2804:59e4:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268732.
+Prefix 2804:5d5c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268967.
+Prefix 2804:3c1c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266191.
+Prefix 2804:5c0c:4000::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268884.
+Prefix 167.250.0.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265185.
+Prefix 143.137.64.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
+Prefix 168.232.61.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 168.232.63.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 168.232.60.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 168.232.60.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 168.232.62.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
+Prefix 45.179.123.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269084.
+Prefix 45.169.118.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
+Prefix 45.169.118.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
+Prefix 45.184.32.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 45.184.32.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 45.184.34.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 164.163.116.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265961.
+Prefix 45.187.20.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269483.
+Prefix 45.185.116.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271511.
+Prefix 177.11.28.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270641.
+Prefix 177.11.28.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270641.
+Prefix 177.125.60.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 170.80.164.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 177.52.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.251.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.250.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.250.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.249.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.52.248.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.185.112.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.112.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.114.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.116.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.116.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.118.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 187.86.24.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 177.185.112.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 187.86.28.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 187.86.24.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 2804:5ddc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268997.
+Prefix 2804:4980::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267187.
+Prefix 2804:65fc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269526.
+Prefix 2804:4078::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265961.
+Prefix 2804:6590::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269500.
+Prefix 2804:64f4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269459.
+Prefix 2804:3fa8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265905.
+Prefix 2804:791c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 2804:791c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 2804:791c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 2804:842c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:8868::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272769.
+Prefix 2804:8868:400::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272769.
+Prefix 2804:8868:100::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272769.
+Prefix 2804:6f2c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270643.
+Prefix 2804:7f34:c100::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271673.
+Prefix 2804:87d4:d000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272734.
+Prefix 179.191.32.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52574.
+Prefix 177.84.31.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273704.
+Prefix 177.101.80.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
+Prefix 170.83.100.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52601.
+Prefix 179.63.179.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 179.63.178.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 177.105.236.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.226.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.224.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.224.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.224.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.228.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.227.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.232.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.228.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.232.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.224.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.228.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.226.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.105.238.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
+Prefix 177.184.181.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.176.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.188.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.186.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.182.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.190.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 179.127.243.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.244.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.245.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.242.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.240.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.247.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.241.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 181.233.184.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271497.
+Prefix 187.86.20.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273443.
+Prefix 187.73.227.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 200.52.230.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271018.
+Prefix 204.157.79.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273506.
+Prefix 45.231.56.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267200.
+Prefix 191.253.68.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
+Prefix 191.253.68.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
+Prefix 191.253.70.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
+Prefix 192.140.12.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266160.
+Prefix 190.107.168.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270404.
+Prefix 200.106.161.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271252.
+Prefix 200.106.160.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271252.
+Prefix 200.106.162.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271252.
+Prefix 200.106.160.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271252.
+Prefix 187.85.243.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 2804:8654::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272636.
+Prefix 2804:8654:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272636.
+Prefix 2804:7c7c:900::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271499.
+Prefix 2804:8af8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273704.
+Prefix 2804:8c9c:8380::/41 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273811.
+Prefix 2804:9120::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274620.
+Prefix 2804:9120:8030::/44 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274620.
+Prefix 2804:9120:8000::/44 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274620.
+Prefix 2804:9120:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274620.
+Prefix 2804:8de8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273389.
+Prefix 2804:8f74::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273491.
+Prefix 2804:42d0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
+Prefix 38.19.224.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272265.
+Prefix 2804:8484::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272265.
+Prefix 2804:e80::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 2804:e80:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 2804:e80::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 2804:894:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262379.
+Prefix 2804:894::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262379.
+Prefix 2804:3ae0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266115.
+Prefix 2804:24bc:48c::/46 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52695.
+Prefix 2804:24bc:49c::/46 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52695.
+Prefix 2804:24bc:484::/46 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52695.
+Prefix 2804:10a8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 2804:1ea4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
+Prefix 2804:135c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
+Prefix 2804:28b0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
+Prefix 200.25.17.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS7195 (LACNIC-7195).
+Prefix 2804:734::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262624.
+Prefix 38.224.189.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273484.
+Prefix 45.175.124.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268896.
+Prefix 45.175.124.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268896.
+Prefix 45.181.176.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269189.
+Prefix 45.181.178.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269189.
+Prefix 45.181.176.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269189.
+Prefix 45.181.179.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269189.
+Prefix 131.196.100.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265905.
+Prefix 45.161.196.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265905.
+Prefix 38.183.90.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274594.
+Prefix 128.201.64.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266634.
+Prefix 128.201.67.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266634.
+Prefix 128.201.65.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266634.
+Prefix 128.201.66.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266634.
+Prefix 128.201.64.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266634.
+Prefix 45.180.188.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269154.
+Prefix 45.180.188.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269154.
+Prefix 2804:20e0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264518.
+Prefix 2804:3040::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264939.
+Prefix 2804:44cc::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 2804:44cc:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 2804:6150::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 2804:6150:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 2804:6150::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269227.
+Prefix 2804:5de8:484::/46 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269000.
+Prefix 2804:5de8:48c::/46 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269000.
+Prefix 2804:5f38::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269084.
+Prefix 2804:581c:f800::/38 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
+Prefix 154.64.16.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271493.
+Prefix 167.250.126.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273811.
+Prefix 138.122.100.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 177.74.228.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 177.74.224.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 177.74.236.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 177.74.232.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
+Prefix 131.221.100.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 45.70.156.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 131.221.102.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 45.70.158.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267654.
+Prefix 45.174.112.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268855.
+Prefix 160.20.184.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266538.
+Prefix 45.175.55.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268882.
+Prefix 45.175.54.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268882.
+Prefix 45.175.54.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268882.
+Prefix 45.175.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 45.185.120.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 186.232.92.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 186.232.88.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 177.39.8.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 186.232.88.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
+Prefix 45.239.7.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268349.
+Prefix 170.239.254.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266360.
+Prefix 170.239.252.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266360.
+Prefix 170.80.45.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266368.
+Prefix 177.67.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262552.
+Prefix 179.127.240.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.240.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.242.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.244.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.244.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.240.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 179.127.246.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
+Prefix 2804:49d4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52631.
+Prefix 2804:4bf0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61590.
+Prefix 2804:2f5c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 2804:4b84::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267311.
+Prefix 2804:6554::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269483.
+Prefix 2804:3154::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
+Prefix 2804:5fa8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269115.
+Prefix 2804:9510::/37 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274496.
+Prefix 2804:9510:800::/37 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274496.
+Prefix 2804:842c::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:842c:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:842c:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:842c:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
+Prefix 2804:79f4:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271338.
+Prefix 2804:79f4::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271338.
+Prefix 2804:79f4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271338.
+Prefix 2804:79e0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271333.
+Prefix 2804:79e0:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271333.
+Prefix 2804:79e0::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271333.
+Prefix 2804:6f24:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270641.
+Prefix 177.104.25.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262624.
+Prefix 177.85.84.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266160.
+Prefix 177.85.80.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266160.
+Prefix 177.85.80.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266160.
+Prefix 177.128.174.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271429.
+Prefix 177.128.24.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52631.
+Prefix 179.51.164.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271173.
+Prefix 179.63.178.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 179.42.64.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273575.
+Prefix 179.108.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
+Prefix 186.216.28.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262663.
+Prefix 187.85.250.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.224.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.85.248.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS28205.
+Prefix 187.109.123.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262767.
+Prefix 189.50.192.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
+Prefix 189.50.195.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
+Prefix 189.50.193.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
+Prefix 201.182.14.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267492.
+Prefix 38.43.76.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268952.
+Prefix 191.6.128.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 201.182.219.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267540.
+Prefix 200.80.104.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 200.80.105.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 200.80.106.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
+Prefix 209.61.49.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274687.
+Prefix 2804:7da4::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:7da4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:7da4:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS61605.
+Prefix 2804:8904::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273575.
+Prefix 2804:7cac::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271511.
+Prefix 2804:9728::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:9728::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274388.
+Prefix 2804:8c9c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273811.
+Prefix 2804:9120::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274620.
+Prefix 2804:90ac::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274594.
+Prefix 2804:9210::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS274687.
+Prefix 2804:8b14::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273710.
+
+Longest AS path: 11 prefix(es) had an AS path length of 255 ASNs.
+Prefix 37.156.188.0/23 via peer AS328840 (ST-Digital-AS) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS328840 AS327727 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 94.176.176.0/22 via peer AS328840 (ST-Digital-AS) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS328840 AS327727 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 38.75.209.0/24 via peer AS328840 (ST-Digital-AS) from origin ASN(s) AS274159. AS Path length 255: AS328840 AS327727 AS174 AS23520 AS272112 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159 AS274159.
+Prefix 37.156.188.0/23 via peer AS49432 (SCHALLERT-AS) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS49432 AS215510 AS31543 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 94.176.176.0/22 via peer AS49432 (SCHALLERT-AS) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS49432 AS215510 AS31543 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 94.176.176.0/22 via peer AS917 (MISAKA) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS917 AS60068 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 37.156.188.0/23 via peer AS917 (MISAKA) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS917 AS60068 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 37.156.188.0/23 via peer AS917 (MISAKA) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS917 AS60068 AS33891 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 94.176.176.0/22 via peer AS917 (MISAKA) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS917 AS60068 AS33891 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 37.156.188.0/23 via peer AS37239 (ICTGLOBE) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS37239 AS37468 AS22356 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+Prefix 37.156.188.0/23 via peer AS37239 (ICTGLOBE) from origin ASN(s) AS205624 (telecoandaluzas). AS Path length 255: AS37239 AS37468 AS174 AS35699 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624 AS205624.
+
+Longest community set: 5 prefix(es) had a community set length of 378 communities.
+Prefix 179.63.178.0/24 via peer AS25220 (GLOBALNOC-AS) from origin ASN(s) AS61605. Commnuity set length 378: 999:1019 999:1039 999:1049 999:1059 999:3019 999:3029 999:3039 999:3049 999:3059 999:3069 1031:5 1031:1009 1031:1019 1031:1029 1031:1031 1031:1049 1031:1099 1031:1149 1031:2009 1031:2019 1031:2039 1031:3009 1031:3029 1031:3038 1031:3039 1031:3049 1031:3059 1031:4050 1031:4209 1031:4269 1031:4279 1031:4400 1031:4700 1031:6045 1031:7019 1031:7039 3333:1019 3333:1029 3333:1039 3333:1049 3333:1059 3333:2019 3333:2029 3333:2039 3333:2049 3333:3019 3333:3029 3333:3039 3333:3049 3333:3059 3333:3069 6453:1019 6453:1029 6453:1039 6453:1049 6453:1059 6453:2019 6453:2029 6453:2039 6453:2049 6453:2059 6453:3019 6453:3029 6453:3039 6453:3049 6453:3059 6453:3069 6453:3079 6453:3089 6453:3099 6453:30109 6453:30119 6453:30129 6453:30139 6453:30149 6453:30159 6461:1019 6461:1029 6461:1039 6461:1049 6461:1059 6461:2019 6461:2029 6461:2039 6461:2049 6461:2059 6461:3019 6461:3029 6461:3039 6461:3049 6461:3059 6461:3069 6461:3079 6461:3089 6461:3099 6461:30109 6461:30119 6461:30129 6461:30139 6461:30149 6461:30159 6507:1019 6507:1029 6507:1039 6507:1049 6507:1059 6507:2019 6507:2029 6507:2039 6507:2049 6507:3019 6507:3029 6507:3039 6507:3049 6507:3059 6507:3069 6777:2019 6939:1019 6939:1029 6939:1039 6939:1049 6939:1059 6939:2019 6939:2029 6939:2039 6939:2049 6939:2059 6939:3019 6939:3029 6939:3039 6939:3049 6939:3059 6939:3069 6939:3079 6939:3089 6939:3099 6939:30109 6939:30119 6939:30129 6939:30139 6939:30149 6939:30159 10429:1019 10429:1029 10429:1039 10429:1049 10429:1059 10429:2019 10429:2029 10429:2039 10429:2049 10429:2059 10429:3019 10429:3029 10429:3039 10429:3049 10429:3059 10429:3069 10429:3079 10429:3089 10429:3099 10429:30109 10429:30119 10429:30129 10429:30139 10429:30149 10429:30159 13335:1019 13335:1029 13335:1039 13335:1049 13335:1059 13335:2019 13335:2029 13335:2039 13335:2049 13335:3019 13335:3029 13335:3039 13335:3049 13335:3059 13335:3069 16276:1019 16276:1029 16276:1039 16276:1049 16276:1059 16276:2019 16276:2029 16276:2039 16276:2049 16276:2059 16276:3019 16276:3029 16276:3039 16276:3049 16276:3059 16276:3069 16735:1019 16735:1039 16735:1049 16735:1059 16735:3019 16735:3029 16735:3039 16735:3049 16735:3059 16735:3069 21859:1019 21859:1029 21859:1039 21859:1049 21859:1059 21859:2019 21859:2029 21859:2039 21859:2049 21859:3019 21859:3029 21859:3039 21859:3049 21859:3059 21859:3069 22356:1019 22356:1029 22356:1039 22356:1049 22356:1059 22356:2019 22356:2029 22356:2039 22356:2049 22356:2059 22356:3019 22356:3029 22356:3039 22356:3049 22356:3059 22356:3069 22356:3079 22356:3089 22356:3099 22697:1019 22697:1029 22697:1039 22697:1049 22697:1059 22697:2019 22697:2029 22697:2039 22697:2049 22697:2059 22697:3019 22697:3029 22697:3039 22697:3049 22697:3059 22697:3069 22697:3079 22697:3089 22697:3099 22697:30109 22697:30119 22697:30129 22697:30139 22697:30149 22697:30159 23344:1019 23344:1029 23344:1039 23344:1049 23344:1059 23344:2019 23344:2029 23344:2039 23344:2049 23344:3019 23344:3029 23344:3039 23344:3049 23344:3059 23344:3069 24115:1019 24115:3019 24940:1019 24940:1029 24940:1039 24940:1049 24940:1059 24940:2019 24940:2029 24940:2039 24940:2049 24940:2059 24940:3019 24940:3029 24940:3039 24940:3049 24940:3059 24940:3069 24940:3079 24940:3089 24940:3099 25220:1830 25220:4002 25220:4101 25220:4849 25220:4901 26162:301 26162:302 26162:303 26162:306 26162:3019 26162:3029 26162:3039 26162:3069 26162:3099 26162:3150 28165:1019 28165:1029 28165:1039 28165:1049 28165:1059 28165:2019 28165:2029 28165:2039 28165:2049 28165:3019 28165:3029 28165:3039 28165:3049 28165:3059 28165:3069 28604:3019 28604:3029 28604:3039 28604:3059 28604:3069 33891:33893 33891:33904 33891:40101 50263:2019 52320:3019 52320:3029 52320:3039 52320:3049 52320:3059 52320:3069 53991:1019 53991:1029 53991:1039 53991:1049 53991:1059 53991:2019 53991:2029 53991:2039 53991:2049 53991:3019 53991:3029 53991:3039 53991:3049 53991:3059 53991:3069 54113:1019 54113:1029 54113:1039 54113:1049 54113:1059 54113:2019 54113:2029 54113:2039 54113:2049 54113:3019 54113:3029 54113:3039 54113:3049 54113:3059 54113:3069.
+Prefix 179.63.179.0/24 via peer AS25220 (GLOBALNOC-AS) from origin ASN(s) AS61605. Commnuity set length 378: 999:1019 999:1039 999:1049 999:1059 999:3019 999:3029 999:3039 999:3049 999:3059 999:3069 1031:5 1031:1009 1031:1019 1031:1029 1031:1031 1031:1049 1031:1099 1031:1149 1031:2009 1031:2019 1031:2039 1031:3009 1031:3029 1031:3038 1031:3039 1031:3049 1031:3059 1031:4050 1031:4209 1031:4269 1031:4279 1031:4400 1031:4700 1031:6045 1031:7019 1031:7039 3333:1019 3333:1029 3333:1039 3333:1049 3333:1059 3333:2019 3333:2029 3333:2039 3333:2049 3333:3019 3333:3029 3333:3039 3333:3049 3333:3059 3333:3069 6453:1019 6453:1029 6453:1039 6453:1049 6453:1059 6453:2019 6453:2029 6453:2039 6453:2049 6453:2059 6453:3019 6453:3029 6453:3039 6453:3049 6453:3059 6453:3069 6453:3079 6453:3089 6453:3099 6453:30109 6453:30119 6453:30129 6453:30139 6453:30149 6453:30159 6461:1019 6461:1029 6461:1039 6461:1049 6461:1059 6461:2019 6461:2029 6461:2039 6461:2049 6461:2059 6461:3019 6461:3029 6461:3039 6461:3049 6461:3059 6461:3069 6461:3079 6461:3089 6461:3099 6461:30109 6461:30119 6461:30129 6461:30139 6461:30149 6461:30159 6507:1019 6507:1029 6507:1039 6507:1049 6507:1059 6507:2019 6507:2029 6507:2039 6507:2049 6507:3019 6507:3029 6507:3039 6507:3049 6507:3059 6507:3069 6777:2019 6939:1019 6939:1029 6939:1039 6939:1049 6939:1059 6939:2019 6939:2029 6939:2039 6939:2049 6939:2059 6939:3019 6939:3029 6939:3039 6939:3049 6939:3059 6939:3069 6939:3079 6939:3089 6939:3099 6939:30109 6939:30119 6939:30129 6939:30139 6939:30149 6939:30159 10429:1019 10429:1029 10429:1039 10429:1049 10429:1059 10429:2019 10429:2029 10429:2039 10429:2049 10429:2059 10429:3019 10429:3029 10429:3039 10429:3049 10429:3059 10429:3069 10429:3079 10429:3089 10429:3099 10429:30109 10429:30119 10429:30129 10429:30139 10429:30149 10429:30159 13335:1019 13335:1029 13335:1039 13335:1049 13335:1059 13335:2019 13335:2029 13335:2039 13335:2049 13335:3019 13335:3029 13335:3039 13335:3049 13335:3059 13335:3069 16276:1019 16276:1029 16276:1039 16276:1049 16276:1059 16276:2019 16276:2029 16276:2039 16276:2049 16276:2059 16276:3019 16276:3029 16276:3039 16276:3049 16276:3059 16276:3069 16735:1019 16735:1039 16735:1049 16735:1059 16735:3019 16735:3029 16735:3039 16735:3049 16735:3059 16735:3069 21859:1019 21859:1029 21859:1039 21859:1049 21859:1059 21859:2019 21859:2029 21859:2039 21859:2049 21859:3019 21859:3029 21859:3039 21859:3049 21859:3059 21859:3069 22356:1019 22356:1029 22356:1039 22356:1049 22356:1059 22356:2019 22356:2029 22356:2039 22356:2049 22356:2059 22356:3019 22356:3029 22356:3039 22356:3049 22356:3059 22356:3069 22356:3079 22356:3089 22356:3099 22697:1019 22697:1029 22697:1039 22697:1049 22697:1059 22697:2019 22697:2029 22697:2039 22697:2049 22697:2059 22697:3019 22697:3029 22697:3039 22697:3049 22697:3059 22697:3069 22697:3079 22697:3089 22697:3099 22697:30109 22697:30119 22697:30129 22697:30139 22697:30149 22697:30159 23344:1019 23344:1029 23344:1039 23344:1049 23344:1059 23344:2019 23344:2029 23344:2039 23344:2049 23344:3019 23344:3029 23344:3039 23344:3049 23344:3059 23344:3069 24115:1019 24115:3019 24940:1019 24940:1029 24940:1039 24940:1049 24940:1059 24940:2019 24940:2029 24940:2039 24940:2049 24940:2059 24940:3019 24940:3029 24940:3039 24940:3049 24940:3059 24940:3069 24940:3079 24940:3089 24940:3099 25220:1830 25220:4002 25220:4101 25220:4849 25220:4901 26162:301 26162:302 26162:303 26162:306 26162:3019 26162:3029 26162:3039 26162:3069 26162:3099 26162:3150 28165:1019 28165:1029 28165:1039 28165:1049 28165:1059 28165:2019 28165:2029 28165:2039 28165:2049 28165:3019 28165:3029 28165:3039 28165:3049 28165:3059 28165:3069 28604:3019 28604:3029 28604:3039 28604:3059 28604:3069 33891:33893 33891:33904 33891:40101 50263:2019 52320:3019 52320:3029 52320:3039 52320:3049 52320:3059 52320:3069 53991:1019 53991:1029 53991:1039 53991:1049 53991:1059 53991:2019 53991:2029 53991:2039 53991:2049 53991:3019 53991:3029 53991:3039 53991:3049 53991:3059 53991:3069 54113:1019 54113:1029 54113:1039 54113:1049 54113:1059 54113:2019 54113:2029 54113:2039 54113:2049 54113:3019 54113:3029 54113:3039 54113:3049 54113:3059 54113:3069.
+Prefix 201.182.14.0/24 via peer AS25220 (GLOBALNOC-AS) from origin ASN(s) AS267492. Commnuity set length 378: 999:1019 999:1039 999:1049 999:1059 999:3019 999:3029 999:3039 999:3049 999:3059 999:3069 1031:5 1031:1009 1031:1019 1031:1029 1031:1031 1031:1049 1031:1099 1031:1149 1031:2009 1031:2019 1031:2039 1031:3009 1031:3029 1031:3038 1031:3039 1031:3049 1031:3059 1031:4050 1031:4209 1031:4269 1031:4279 1031:4400 1031:4700 1031:6045 1031:7019 1031:7039 3333:1019 3333:1029 3333:1039 3333:1049 3333:1059 3333:2019 3333:2029 3333:2039 3333:2049 3333:3019 3333:3029 3333:3039 3333:3049 3333:3059 3333:3069 6453:1019 6453:1029 6453:1039 6453:1049 6453:1059 6453:2019 6453:2029 6453:2039 6453:2049 6453:2059 6453:3019 6453:3029 6453:3039 6453:3049 6453:3059 6453:3069 6453:3079 6453:3089 6453:3099 6453:30109 6453:30119 6453:30129 6453:30139 6453:30149 6453:30159 6461:1019 6461:1029 6461:1039 6461:1049 6461:1059 6461:2019 6461:2029 6461:2039 6461:2049 6461:2059 6461:3019 6461:3029 6461:3039 6461:3049 6461:3059 6461:3069 6461:3079 6461:3089 6461:3099 6461:30109 6461:30119 6461:30129 6461:30139 6461:30149 6461:30159 6507:1019 6507:1029 6507:1039 6507:1049 6507:1059 6507:2019 6507:2029 6507:2039 6507:2049 6507:3019 6507:3029 6507:3039 6507:3049 6507:3059 6507:3069 6777:2019 6939:1019 6939:1029 6939:1039 6939:1049 6939:1059 6939:2019 6939:2029 6939:2039 6939:2049 6939:2059 6939:3019 6939:3029 6939:3039 6939:3049 6939:3059 6939:3069 6939:3079 6939:3089 6939:3099 6939:30109 6939:30119 6939:30129 6939:30139 6939:30149 6939:30159 10429:1019 10429:1029 10429:1039 10429:1049 10429:1059 10429:2019 10429:2029 10429:2039 10429:2049 10429:2059 10429:3019 10429:3029 10429:3039 10429:3049 10429:3059 10429:3069 10429:3079 10429:3089 10429:3099 10429:30109 10429:30119 10429:30129 10429:30139 10429:30149 10429:30159 13335:1019 13335:1029 13335:1039 13335:1049 13335:1059 13335:2019 13335:2029 13335:2039 13335:2049 13335:3019 13335:3029 13335:3039 13335:3049 13335:3059 13335:3069 16276:1019 16276:1029 16276:1039 16276:1049 16276:1059 16276:2019 16276:2029 16276:2039 16276:2049 16276:2059 16276:3019 16276:3029 16276:3039 16276:3049 16276:3059 16276:3069 16735:1019 16735:1039 16735:1049 16735:1059 16735:3019 16735:3029 16735:3039 16735:3049 16735:3059 16735:3069 21859:1019 21859:1029 21859:1039 21859:1049 21859:1059 21859:2019 21859:2029 21859:2039 21859:2049 21859:3019 21859:3029 21859:3039 21859:3049 21859:3059 21859:3069 22356:1019 22356:1029 22356:1039 22356:1049 22356:1059 22356:2019 22356:2029 22356:2039 22356:2049 22356:2059 22356:3019 22356:3029 22356:3039 22356:3049 22356:3059 22356:3069 22356:3079 22356:3089 22356:3099 22697:1019 22697:1029 22697:1039 22697:1049 22697:1059 22697:2019 22697:2029 22697:2039 22697:2049 22697:2059 22697:3019 22697:3029 22697:3039 22697:3049 22697:3059 22697:3069 22697:3079 22697:3089 22697:3099 22697:30109 22697:30119 22697:30129 22697:30139 22697:30149 22697:30159 23344:1019 23344:1029 23344:1039 23344:1049 23344:1059 23344:2019 23344:2029 23344:2039 23344:2049 23344:3019 23344:3029 23344:3039 23344:3049 23344:3059 23344:3069 24115:1019 24115:3019 24940:1019 24940:1029 24940:1039 24940:1049 24940:1059 24940:2019 24940:2029 24940:2039 24940:2049 24940:2059 24940:3019 24940:3029 24940:3039 24940:3049 24940:3059 24940:3069 24940:3079 24940:3089 24940:3099 25220:1830 25220:4002 25220:4101 25220:4849 25220:4901 26162:301 26162:302 26162:303 26162:306 26162:3019 26162:3029 26162:3039 26162:3069 26162:3099 26162:3150 28165:1019 28165:1029 28165:1039 28165:1049 28165:1059 28165:2019 28165:2029 28165:2039 28165:2049 28165:3019 28165:3029 28165:3039 28165:3049 28165:3059 28165:3069 28604:3019 28604:3029 28604:3039 28604:3059 28604:3069 33891:33893 33891:33904 33891:40101 50263:2019 52320:3019 52320:3029 52320:3039 52320:3049 52320:3059 52320:3069 53991:1019 53991:1029 53991:1039 53991:1049 53991:1059 53991:2019 53991:2029 53991:2039 53991:2049 53991:3019 53991:3029 53991:3039 53991:3049 53991:3059 53991:3069 54113:1019 54113:1029 54113:1039 54113:1049 54113:1059 54113:2019 54113:2029 54113:2039 54113:2049 54113:3019 54113:3029 54113:3039 54113:3049 54113:3059 54113:3069.
+Prefix 201.182.14.0/23 via peer AS25220 (GLOBALNOC-AS) from origin ASN(s) AS267492. Commnuity set length 378: 999:1019 999:1039 999:1049 999:1059 999:3019 999:3029 999:3039 999:3049 999:3059 999:3069 1031:5 1031:1009 1031:1019 1031:1029 1031:1031 1031:1049 1031:1099 1031:1149 1031:2009 1031:2019 1031:2039 1031:3009 1031:3029 1031:3038 1031:3039 1031:3049 1031:3059 1031:4050 1031:4209 1031:4269 1031:4279 1031:4400 1031:4700 1031:6045 1031:7019 1031:7039 3333:1019 3333:1029 3333:1039 3333:1049 3333:1059 3333:2019 3333:2029 3333:2039 3333:2049 3333:3019 3333:3029 3333:3039 3333:3049 3333:3059 3333:3069 6453:1019 6453:1029 6453:1039 6453:1049 6453:1059 6453:2019 6453:2029 6453:2039 6453:2049 6453:2059 6453:3019 6453:3029 6453:3039 6453:3049 6453:3059 6453:3069 6453:3079 6453:3089 6453:3099 6453:30109 6453:30119 6453:30129 6453:30139 6453:30149 6453:30159 6461:1019 6461:1029 6461:1039 6461:1049 6461:1059 6461:2019 6461:2029 6461:2039 6461:2049 6461:2059 6461:3019 6461:3029 6461:3039 6461:3049 6461:3059 6461:3069 6461:3079 6461:3089 6461:3099 6461:30109 6461:30119 6461:30129 6461:30139 6461:30149 6461:30159 6507:1019 6507:1029 6507:1039 6507:1049 6507:1059 6507:2019 6507:2029 6507:2039 6507:2049 6507:3019 6507:3029 6507:3039 6507:3049 6507:3059 6507:3069 6777:2019 6939:1019 6939:1029 6939:1039 6939:1049 6939:1059 6939:2019 6939:2029 6939:2039 6939:2049 6939:2059 6939:3019 6939:3029 6939:3039 6939:3049 6939:3059 6939:3069 6939:3079 6939:3089 6939:3099 6939:30109 6939:30119 6939:30129 6939:30139 6939:30149 6939:30159 10429:1019 10429:1029 10429:1039 10429:1049 10429:1059 10429:2019 10429:2029 10429:2039 10429:2049 10429:2059 10429:3019 10429:3029 10429:3039 10429:3049 10429:3059 10429:3069 10429:3079 10429:3089 10429:3099 10429:30109 10429:30119 10429:30129 10429:30139 10429:30149 10429:30159 13335:1019 13335:1029 13335:1039 13335:1049 13335:1059 13335:2019 13335:2029 13335:2039 13335:2049 13335:3019 13335:3029 13335:3039 13335:3049 13335:3059 13335:3069 16276:1019 16276:1029 16276:1039 16276:1049 16276:1059 16276:2019 16276:2029 16276:2039 16276:2049 16276:2059 16276:3019 16276:3029 16276:3039 16276:3049 16276:3059 16276:3069 16735:1019 16735:1039 16735:1049 16735:1059 16735:3019 16735:3029 16735:3039 16735:3049 16735:3059 16735:3069 21859:1019 21859:1029 21859:1039 21859:1049 21859:1059 21859:2019 21859:2029 21859:2039 21859:2049 21859:3019 21859:3029 21859:3039 21859:3049 21859:3059 21859:3069 22356:1019 22356:1029 22356:1039 22356:1049 22356:1059 22356:2019 22356:2029 22356:2039 22356:2049 22356:2059 22356:3019 22356:3029 22356:3039 22356:3049 22356:3059 22356:3069 22356:3079 22356:3089 22356:3099 22697:1019 22697:1029 22697:1039 22697:1049 22697:1059 22697:2019 22697:2029 22697:2039 22697:2049 22697:2059 22697:3019 22697:3029 22697:3039 22697:3049 22697:3059 22697:3069 22697:3079 22697:3089 22697:3099 22697:30109 22697:30119 22697:30129 22697:30139 22697:30149 22697:30159 23344:1019 23344:1029 23344:1039 23344:1049 23344:1059 23344:2019 23344:2029 23344:2039 23344:2049 23344:3019 23344:3029 23344:3039 23344:3049 23344:3059 23344:3069 24115:1019 24115:3019 24940:1019 24940:1029 24940:1039 24940:1049 24940:1059 24940:2019 24940:2029 24940:2039 24940:2049 24940:2059 24940:3019 24940:3029 24940:3039 24940:3049 24940:3059 24940:3069 24940:3079 24940:3089 24940:3099 25220:1830 25220:4002 25220:4101 25220:4849 25220:4901 26162:301 26162:302 26162:303 26162:306 26162:3019 26162:3029 26162:3039 26162:3069 26162:3099 26162:3150 28165:1019 28165:1029 28165:1039 28165:1049 28165:1059 28165:2019 28165:2029 28165:2039 28165:2049 28165:3019 28165:3029 28165:3039 28165:3049 28165:3059 28165:3069 28604:3019 28604:3029 28604:3039 28604:3059 28604:3069 33891:33893 33891:33904 33891:40101 50263:2019 52320:3019 52320:3029 52320:3039 52320:3049 52320:3059 52320:3069 53991:1019 53991:1029 53991:1039 53991:1049 53991:1059 53991:2019 53991:2029 53991:2039 53991:2049 53991:3019 53991:3029 53991:3039 53991:3049 53991:3059 53991:3069 54113:1019 54113:1029 54113:1039 54113:1049 54113:1059 54113:2019 54113:2029 54113:2039 54113:2049 54113:3019 54113:3029 54113:3039 54113:3049 54113:3059 54113:3069.
+Prefix 201.182.15.0/24 via peer AS25220 (GLOBALNOC-AS) from origin ASN(s) AS267492. Commnuity set length 378: 999:1019 999:1039 999:1049 999:1059 999:3019 999:3029 999:3039 999:3049 999:3059 999:3069 1031:5 1031:1009 1031:1019 1031:1029 1031:1031 1031:1049 1031:1099 1031:1149 1031:2009 1031:2019 1031:2039 1031:3009 1031:3029 1031:3038 1031:3039 1031:3049 1031:3059 1031:4050 1031:4209 1031:4269 1031:4279 1031:4400 1031:4700 1031:6045 1031:7019 1031:7039 3333:1019 3333:1029 3333:1039 3333:1049 3333:1059 3333:2019 3333:2029 3333:2039 3333:2049 3333:3019 3333:3029 3333:3039 3333:3049 3333:3059 3333:3069 6453:1019 6453:1029 6453:1039 6453:1049 6453:1059 6453:2019 6453:2029 6453:2039 6453:2049 6453:2059 6453:3019 6453:3029 6453:3039 6453:3049 6453:3059 6453:3069 6453:3079 6453:3089 6453:3099 6453:30109 6453:30119 6453:30129 6453:30139 6453:30149 6453:30159 6461:1019 6461:1029 6461:1039 6461:1049 6461:1059 6461:2019 6461:2029 6461:2039 6461:2049 6461:2059 6461:3019 6461:3029 6461:3039 6461:3049 6461:3059 6461:3069 6461:3079 6461:3089 6461:3099 6461:30109 6461:30119 6461:30129 6461:30139 6461:30149 6461:30159 6507:1019 6507:1029 6507:1039 6507:1049 6507:1059 6507:2019 6507:2029 6507:2039 6507:2049 6507:3019 6507:3029 6507:3039 6507:3049 6507:3059 6507:3069 6777:2019 6939:1019 6939:1029 6939:1039 6939:1049 6939:1059 6939:2019 6939:2029 6939:2039 6939:2049 6939:2059 6939:3019 6939:3029 6939:3039 6939:3049 6939:3059 6939:3069 6939:3079 6939:3089 6939:3099 6939:30109 6939:30119 6939:30129 6939:30139 6939:30149 6939:30159 10429:1019 10429:1029 10429:1039 10429:1049 10429:1059 10429:2019 10429:2029 10429:2039 10429:2049 10429:2059 10429:3019 10429:3029 10429:3039 10429:3049 10429:3059 10429:3069 10429:3079 10429:3089 10429:3099 10429:30109 10429:30119 10429:30129 10429:30139 10429:30149 10429:30159 13335:1019 13335:1029 13335:1039 13335:1049 13335:1059 13335:2019 13335:2029 13335:2039 13335:2049 13335:3019 13335:3029 13335:3039 13335:3049 13335:3059 13335:3069 16276:1019 16276:1029 16276:1039 16276:1049 16276:1059 16276:2019 16276:2029 16276:2039 16276:2049 16276:2059 16276:3019 16276:3029 16276:3039 16276:3049 16276:3059 16276:3069 16735:1019 16735:1039 16735:1049 16735:1059 16735:3019 16735:3029 16735:3039 16735:3049 16735:3059 16735:3069 21859:1019 21859:1029 21859:1039 21859:1049 21859:1059 21859:2019 21859:2029 21859:2039 21859:2049 21859:3019 21859:3029 21859:3039 21859:3049 21859:3059 21859:3069 22356:1019 22356:1029 22356:1039 22356:1049 22356:1059 22356:2019 22356:2029 22356:2039 22356:2049 22356:2059 22356:3019 22356:3029 22356:3039 22356:3049 22356:3059 22356:3069 22356:3079 22356:3089 22356:3099 22697:1019 22697:1029 22697:1039 22697:1049 22697:1059 22697:2019 22697:2029 22697:2039 22697:2049 22697:2059 22697:3019 22697:3029 22697:3039 22697:3049 22697:3059 22697:3069 22697:3079 22697:3089 22697:3099 22697:30109 22697:30119 22697:30129 22697:30139 22697:30149 22697:30159 23344:1019 23344:1029 23344:1039 23344:1049 23344:1059 23344:2019 23344:2029 23344:2039 23344:2049 23344:3019 23344:3029 23344:3039 23344:3049 23344:3059 23344:3069 24115:1019 24115:3019 24940:1019 24940:1029 24940:1039 24940:1049 24940:1059 24940:2019 24940:2029 24940:2039 24940:2049 24940:2059 24940:3019 24940:3029 24940:3039 24940:3049 24940:3059 24940:3069 24940:3079 24940:3089 24940:3099 25220:1830 25220:4002 25220:4101 25220:4849 25220:4901 26162:301 26162:302 26162:303 26162:306 26162:3019 26162:3029 26162:3039 26162:3069 26162:3099 26162:3150 28165:1019 28165:1029 28165:1039 28165:1049 28165:1059 28165:2019 28165:2029 28165:2039 28165:2049 28165:3019 28165:3029 28165:3039 28165:3049 28165:3059 28165:3069 28604:3019 28604:3029 28604:3039 28604:3059 28604:3069 33891:33893 33891:33904 33891:40101 50263:2019 52320:3019 52320:3029 52320:3039 52320:3049 52320:3059 52320:3069 53991:1019 53991:1029 53991:1039 53991:1049 53991:1059 53991:2019 53991:2029 53991:2039 53991:2049 53991:3019 53991:3029 53991:3039 53991:3049 53991:3059 53991:3069 54113:1019 54113:1029 54113:1039 54113:1049 54113:1059 54113:2019 54113:2029 54113:2039 54113:2049 54113:3019 54113:3029 54113:3039 54113:3049 54113:3059 54113:3069.
+
+Abnormally large/small prefixes with most origin ASNs per prefix: 3 large/small prefix(es) had 2 origin ASNs.
+Prefix 178.79.148.220/32 from origin ASN(s) AS63949 (AKAMAI-LINODE-AP) AS20940 (AKAMAI-ASN1)
+Prefix 185.255.134.120/32 from origin ASN(s) AS50113 (SuperServersDatacenter) AS204997 (FIRSTBYTE-AS)
+Prefix 45.8.93.149/32 from origin ASN(s) AS28910 (INTAL-ASN) AS35598 (INETCOM)
+
+Most BGP advertisements per prefix: 1 prefix(es) had 903716 advertisements.
+Prefix(es): 2a10:2080:2::/48
+
+Most BGP updates per prefix: 1 prefix(es) had 2069776 updates.
+Prefix(es): 2602:feda:b8d::/48
+
+Most BGP withdraws per prefix: 1 prefix(es) had 1012426 withdraws.
+Prefix(es): 2602:feda:b8d::/48
+
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 3003361 advertisements.
+Origin ASN(s): AS200334 (netops-tr)
+
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 3876029 advertisements.
+Peer ASN(s): AS34872 (Servperso_Systems)
+
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 3870451 updates.
+Peer ASN(s): AS34872 (Servperso_Systems)
+
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 243458 withdraws.
+Peer ASN(s): AS56457 (FASTPATH)
+
+Most origin ASNs per prefix: 1 prefix(es) had 10 origin ASNs.
+Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS211575 (RuiNetwork) AS212532 (RUI-AS) AS213605 (Pysio-Research-NetWork) AS199310 (QFLink-AS) AS40929 (MOEDOVE-BN) AS202939 (CHIMON-NETWORK) AS204211 (LOCYAN-NETWORK-AS) AS51087 (BLING-AS) AS198304 AS200936 (GUO-AS)
+
+Most unknown attributes per prefix: 16 prefix(es) had 1 unknown attribute(s).
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 200.16.95.0/24 from origin ASN(s) AS262176 has attribute(s) {39}
+Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
+Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
+Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
+Prefix 38.172.56.0/24 from origin ASN(s) AS272955 has attribute(s) {39}
+Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
+Prefix 45.181.125.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
+Prefix 45.181.127.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
+Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 192.88.9.0/24 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
+Prefix 2a02:5400:64::/48 from origin ASN(s) AS33353 (SBS) has attribute(s) {21}
+
+Prefixes with most unregistered origin ASNs per prefix: 2 prefix(es) had 2 unregistered origin ASNs.
+Prefix 87.82.245.0/24 from origin ASN(s) AS219394 AS219393
+Prefix 87.82.240.0/24 from origin ASN(s) AS219394 AS219393
+

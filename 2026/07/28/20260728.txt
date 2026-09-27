@@ -4,8 +4,8 @@ Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin
 Prefix 94.154.43.0/24 from origin ASN(s) AS64516 AS65003
 
 Bogon prefixes with most origin ASNs per prefix: 2 bogon prefix(es) had 2 origin ASNs.
-Prefix 192.88.99.0/24 from origin ASN(s) AS6939 AS36732 (COMCAST-36732)
-Prefix 2002::/16 from origin ASN(s) AS6939 AS7725 (COMCAST-7725)
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
+Prefix 2002::/16 from origin ASN(s) AS6939 (HURRICANE) AS7725 (COMCAST-7725)
 
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 22 bogon ASNs.
 AS7713 (telkomnet-as-ap) is originating 22 bogon ASNs: 64602 64522 64646 65101 65254 64519 65402 65332 65505 65201 65203 65211 64703 65333 65306 65401 65302 65250 65261 65230 65213 23456
@@ -79,15 +79,15 @@ Prefix 45.181.124.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute
 Prefix 45.181.125.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 45.181.126.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(s) {21}
-Prefix 200.16.95.0/24 from origin ASN(s) AS262176 (BANCO EXTERIOR) has attribute(s) {39}
+Prefix 200.16.95.0/24 from origin ASN(s) AS262176 has attribute(s) {39}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 45.181.127.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
-Prefix 38.172.56.0/24 from origin ASN(s) AS272955 (GRUPO TECNOLIFE, C.A.) has attribute(s) {39}
-Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}
-Prefix 38.134.249.0/24 from origin ASN(s) AS273010 (TECNOSYSTEM IO, C.A) has attribute(s) {39}
-Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}
+Prefix 38.172.56.0/24 from origin ASN(s) AS272955 has attribute(s) {39}
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
+Prefix 38.134.249.0/24 from origin ASN(s) AS273010 has attribute(s) {39}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 

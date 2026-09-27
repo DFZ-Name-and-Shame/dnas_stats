@@ -4,7 +4,7 @@ Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin
 Prefix 2001:df2:4280::/48 from origin ASN(s) AS23456 AS65531
 
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
-Prefix 192.88.99.0/24 from origin ASN(s) AS6939 AS36732 (COMCAST-36732)
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
 
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 15 bogon ASNs.
 AS4755 (TATACOMM-AS) is originating 15 bogon ASNs: 65069 65223 64707 64562 64716 65353 64958 65270 65049 65309 65059 64867 65120 4200057201 64957
@@ -107,7 +107,7 @@ Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 355085 withdraws.
 Peer ASN(s): AS49432 (SCHALLERT-AS)
 
 Most origin ASNs per prefix: 1 prefix(es) had 10 origin ASNs.
-Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS211575 (RuiNetwork) AS212532 (RUI-AS) AS202939 (CHIMON-NETWORK) AS204211 (LOCYAN-NETWORK-AS) AS51087 (BLING-AS) AS198304 AS213605 (Pysio-Research-NetWork) AS207529 (NyanLoliNetwork) AS200936 (GUO-AS) AS199310 (QFLink-AS)
+Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS211575 (RuiNetwork) AS212532 (ACESHEEP-NETWORK) AS202939 (CHIMON-NETWORK) AS204211 (LOCYAN-NETWORK-AS) AS51087 (BLING-AS) AS198304 AS213605 (Pysio-Research-NetWork) AS207529 (NyanLoliNetwork) AS200936 (GUO-AS) AS199310 (QFLink-AS)
 
 Most unknown attributes per prefix: 17 prefix(es) had 1 unknown attribute(s).
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
@@ -121,8 +121,8 @@ Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) 
 Prefix 45.181.125.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
-Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
-Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 Prefix 192.88.9.0/24 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}

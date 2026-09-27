@@ -32,13 +32,13 @@ AS4755 (TATACOMM-AS) is originating 16 bogon ASNs: 64716 64562 65049 64707 65069
 
 Prefixes with the highest MED: 605 prefix(es) had a MED of 16777222.
 Prefix 2001:df5:4000::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS132647 (IDNIC-PANDI-AS-ID).
-Prefix 2804:e80:400::/38 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
-Prefix 2804:158c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
-Prefix 2804:11cc:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
-Prefix 2804:26d0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:acc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 2804:9dc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998 (Logos Net Servicos de Comunicacao Ltda).
-Prefix 2804:13c4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 2804:e80:400::/38 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
+Prefix 2804:158c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
+Prefix 2804:11cc:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440.
+Prefix 2804:26d0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:acc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 2804:9dc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998.
+Prefix 2804:13c4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825.
 Prefix 2804:15ac::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263402.
 Prefix 2804:2ea0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265356.
 Prefix 45.65.140.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263652.
@@ -88,19 +88,19 @@ Prefix 45.172.204.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268787.
 Prefix 45.230.244.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267187.
 Prefix 168.227.180.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
 Prefix 168.227.180.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264886.
-Prefix 45.174.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842.
-Prefix 45.225.52.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
-Prefix 45.225.52.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
-Prefix 45.225.53.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
-Prefix 170.80.166.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
-Prefix 170.0.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
-Prefix 177.87.112.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
-Prefix 179.106.108.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 179.106.99.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 186.224.80.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998 (Logos Net Servicos de Comunicacao Ltda).
-Prefix 2804:5c4c:100::/42 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900.
-Prefix 2804:3cec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266242.
-Prefix 2804:6350::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 45.174.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842 (Igape Telecomunica��es LTDA).
+Prefix 45.225.52.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942 (NAVEGADOR INTERNET LTDA ME).
+Prefix 45.225.52.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942 (NAVEGADOR INTERNET LTDA ME).
+Prefix 45.225.53.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942 (NAVEGADOR INTERNET LTDA ME).
+Prefix 170.80.166.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
+Prefix 170.0.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301 (NETMIG TELECOM EIRELI).
+Prefix 177.87.112.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301 (NETMIG TELECOM EIRELI).
+Prefix 179.106.108.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 179.106.99.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 186.224.80.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262998.
+Prefix 2804:5c4c:100::/42 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900 (Reabra Tecnologia Para Administrao de Redes Ltda -).
+Prefix 2804:3cec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266242 (VIANET GUARACIAMA EIRELI ME).
+Prefix 2804:6350::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353 (VOLAREHOST INTERNET LTDA ME).
 Prefix 2804:3420::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265437.
 Prefix 2804:5f64::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269096.
 Prefix 2804:6b80::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270404.
@@ -185,19 +185,19 @@ Prefix 2804:2f5c:c000::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS2648
 Prefix 2804:42d0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
 Prefix 2804:25b0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
 Prefix 2804:25b0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
-Prefix 2804:158c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
-Prefix 2804:158c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
+Prefix 2804:158c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
+Prefix 2804:158c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
 Prefix 2804:2050:9aac::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264485.
 Prefix 2804:2050:9aab::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264485.
-Prefix 2804:26d0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:8000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:4000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 2804:26d0:1000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 2804:26d0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:8000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:c000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:8000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:4000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:4000::/34 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 2804:26d0:1000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
 Prefix 2804:163c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263277.
 Prefix 2804:163c:a::/48 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263277.
 Prefix 2804:98c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263099.
@@ -271,18 +271,18 @@ Prefix 177.37.96.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
 Prefix 177.37.109.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
 Prefix 177.37.98.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
 Prefix 177.37.108.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262418.
-Prefix 187.73.224.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
-Prefix 177.91.117.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
-Prefix 177.91.116.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440 (WAVE UP TELECOM BRASIL LTDA - ME).
-Prefix 186.251.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
-Prefix 186.251.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
-Prefix 2804:5c4c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900.
+Prefix 187.73.224.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
+Prefix 177.91.117.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440.
+Prefix 177.91.116.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263440.
+Prefix 186.251.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825.
+Prefix 186.251.40.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825.
+Prefix 2804:5c4c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268900 (Reabra Tecnologia Para Administrao de Redes Ltda -).
 Prefix 2804:3d8c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266538.
 Prefix 2804:5c00::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268882.
 Prefix 2804:383c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52601.
-Prefix 2804:5b6c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842.
+Prefix 2804:5b6c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268842 (Igape Telecomunica��es LTDA).
 Prefix 2804:3ba8:ff00::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266163.
-Prefix 2804:45ac:c000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942.
+Prefix 2804:45ac:c000::/36 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266942 (NAVEGADOR INTERNET LTDA ME).
 Prefix 2804:775c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271173.
 Prefix 2804:842c::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
 Prefix 2804:842c:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272244.
@@ -297,11 +297,11 @@ Prefix 170.244.216.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263496.
 Prefix 170.244.46.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
 Prefix 170.244.44.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
 Prefix 170.244.44.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266479.
-Prefix 177.184.187.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.176.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.191.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.176.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.180.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.187.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.176.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.191.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.176.0/20 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.180.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
 Prefix 170.84.90.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
 Prefix 170.84.88.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
 Prefix 170.84.88.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265007.
@@ -344,14 +344,14 @@ Prefix 2804:97cc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS275646.
 Prefix 2804:6f0::/40 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
 Prefix 2804:6f0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS53047.
 Prefix 2804:25b0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264295.
-Prefix 2804:df8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 2804:df8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 2804:df8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 2804:2d8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 2804:2d8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
-Prefix 2804:2d8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532.
+Prefix 2804:df8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 2804:df8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 2804:df8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 2804:2d8::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 2804:2d8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
+Prefix 2804:2d8:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52532 (Speednet Telecomunica��es Ltda ME).
 Prefix 2804:24bc::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52695.
-Prefix 2804:1824::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301.
+Prefix 2804:1824::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262301 (NETMIG TELECOM EIRELI).
 Prefix 2804:cec::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52575.
 Prefix 2804:2bf8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265185.
 Prefix 2804:978::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263087.
@@ -388,23 +388,23 @@ Prefix 168.232.62.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264934.
 Prefix 45.179.123.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269084.
 Prefix 45.169.118.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
 Prefix 45.169.118.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268107.
-Prefix 45.184.32.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
-Prefix 45.184.32.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
-Prefix 45.184.34.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353.
+Prefix 45.184.32.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353 (VOLAREHOST INTERNET LTDA ME).
+Prefix 45.184.32.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353 (VOLAREHOST INTERNET LTDA ME).
+Prefix 45.184.34.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269353 (VOLAREHOST INTERNET LTDA ME).
 Prefix 164.163.116.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS265961.
 Prefix 45.187.20.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS269483.
 Prefix 45.185.116.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271511.
 Prefix 177.11.28.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270641.
 Prefix 177.11.28.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS270641.
-Prefix 177.125.60.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
-Prefix 170.80.164.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394 (Networks Wireless Telecom).
-Prefix 177.52.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.251.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.250.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.250.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.249.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
-Prefix 177.52.248.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454 (IPWAVE INTERNET LTDA).
+Prefix 177.125.60.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
+Prefix 170.80.164.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263394.
+Prefix 177.52.248.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.251.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.250.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.250.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.248.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.249.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
+Prefix 177.52.248.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262454.
 Prefix 177.185.112.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
 Prefix 177.185.112.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
 Prefix 177.185.114.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
@@ -452,12 +452,12 @@ Prefix 177.105.224.0/21 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
 Prefix 177.105.228.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
 Prefix 177.105.226.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
 Prefix 177.105.238.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262313.
-Prefix 177.184.181.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.176.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.188.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.186.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.182.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
-Prefix 177.184.190.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923 (Netcar Internet Telec Info e Tecnologia LTDA).
+Prefix 177.184.181.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.176.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.188.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.186.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.182.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
+Prefix 177.184.190.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52923.
 Prefix 179.127.243.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
 Prefix 179.127.244.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
 Prefix 179.127.245.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
@@ -467,7 +467,7 @@ Prefix 179.127.247.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
 Prefix 179.127.241.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
 Prefix 181.233.184.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271497.
 Prefix 187.86.20.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273443.
-Prefix 187.73.227.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 187.73.227.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
 Prefix 200.52.230.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271018.
 Prefix 204.157.79.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273506.
 Prefix 45.231.56.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267200.
@@ -495,9 +495,9 @@ Prefix 2804:8f74::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273491.
 Prefix 2804:42d0:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267529.
 Prefix 38.19.224.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272265.
 Prefix 2804:8484::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS272265.
-Prefix 2804:e80::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
-Prefix 2804:e80:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
-Prefix 2804:e80::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676 (Intervip Networks Ltda.).
+Prefix 2804:e80::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
+Prefix 2804:e80:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
+Prefix 2804:e80::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262676.
 Prefix 2804:894:8000::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262379.
 Prefix 2804:894::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262379.
 Prefix 2804:3ae0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS266115.
@@ -508,7 +508,7 @@ Prefix 2804:10a8::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263643.
 Prefix 2804:1ea4::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS264441.
 Prefix 2804:135c::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS263530.
 Prefix 2804:28b0::/32 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS52932.
-Prefix 200.25.17.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS7195 (LACNIC-7195).
+Prefix 200.25.17.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS7195.
 Prefix 2804:734::/33 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262624.
 Prefix 38.224.189.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS273484.
 Prefix 45.175.124.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268896.
@@ -613,7 +613,7 @@ Prefix 189.50.195.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
 Prefix 189.50.193.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268188.
 Prefix 201.182.14.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267492.
 Prefix 38.43.76.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS268952.
-Prefix 191.6.128.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825 (JL INFORMATICA LTDA).
+Prefix 191.6.128.0/22 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS262825.
 Prefix 201.182.219.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS267540.
 Prefix 200.80.104.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
 Prefix 200.80.105.0/24 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS271285.
@@ -684,13 +684,13 @@ Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 243458 withdraws.
 Peer ASN(s): AS56457 (FASTPATH)
 
 Most origin ASNs per prefix: 1 prefix(es) had 10 origin ASNs.
-Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS211575 (RuiNetwork) AS212532 (RUI-AS) AS213605 (Pysio-Research-NetWork) AS199310 (QFLink-AS) AS40929 (MOEDOVE-BN) AS202939 (CHIMON-NETWORK) AS204211 (LOCYAN-NETWORK-AS) AS51087 (BLING-AS) AS198304 AS200936 (GUO-AS)
+Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS211575 (RuiNetwork) AS212532 (ACESHEEP-NETWORK) AS213605 (Pysio-Research-NetWork) AS199310 (QFLink-AS) AS40929 (MOEDOVE-BN) AS202939 (CHIMON-NETWORK) AS204211 (LOCYAN-NETWORK-AS) AS51087 (BLING-AS) AS198304 AS200936 (GUO-AS)
 
 Most unknown attributes per prefix: 16 prefix(es) had 1 unknown attribute(s).
-Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 Prefix 198.17.60.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
 Prefix 198.17.61.0/24 from origin ASN(s) AS11720 (IBCP) has attribute(s) {21}
-Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
 Prefix 200.16.95.0/24 from origin ASN(s) AS262176 has attribute(s) {39}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}

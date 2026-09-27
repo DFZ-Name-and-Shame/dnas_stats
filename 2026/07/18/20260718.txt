@@ -4,39 +4,39 @@ Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin
 Prefix 103.158.65.0/24 from origin ASN(s) AS64515 AS64517
 
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
-Prefix 192.88.99.0/24 from origin ASN(s) AS6939 AS36732 (COMCAST-36732)
+Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
 
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 10 bogon ASNs.
 AS9583 (SIFY-AS-IN) is originating 10 bogon ASNs: 64555 65001 64764 65000 64520 65002 64811 64810 4227859454 65005
 
 Prefixes with the highest MED: 57 prefix(es) had a MED of 16785952.
-Prefix 45.173.100.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268809 (EDILEUZA EVARISTO BARRETO).
-Prefix 164.163.22.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265935 (TONY JOS� DE OLIVEIRA EIRELI).
-Prefix 177.125.76.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS52766 (Printnet telecomunica�oes).
-Prefix 45.183.124.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330 (BRAYANNET COMUNICACAO E MIDIA LTDA EPP).
-Prefix 45.239.12.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346 (FIBERNETT TELECOM LTDA).
-Prefix 45.164.11.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268585 (JULIANA N CORDEIRO DE LIMA SERVICOS DE COMUNICACO).
-Prefix 45.164.10.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268585 (JULIANA N CORDEIRO DE LIMA SERVICOS DE COMUNICACO).
-Prefix 186.209.160.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409 (DMESON CARLOS BARBOZA GON�ALVES DO NASCIMENTO).
-Prefix 45.186.52.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269411 (G3LINK TELECOM SERVICO DE COMUNICACAO MULTIMIDIA).
-Prefix 170.80.112.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266376 (CYBERNET TELECOM SERVI�OS DE INTERNET LTDA - ME).
-Prefix 128.201.158.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266635 (SOFIA NET).
-Prefix 187.86.163.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273417 (INFORTEC SERVICOS DE COMUNICACOES LTDA).
-Prefix 181.174.211.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271473 (NewFibra Telecomunicacoes - ME).
-Prefix 45.235.106.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413 (MGN FIBRA SERVICOS E COMUNICACAO LTDA).
-Prefix 45.235.104.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413 (MGN FIBRA SERVICOS E COMUNICACAO LTDA).
-Prefix 170.244.78.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505 (RJ Tecnologia Provedores do Brasil LTDA - ME).
-Prefix 170.244.76.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505 (RJ Tecnologia Provedores do Brasil LTDA - ME).
-Prefix 170.244.76.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505 (RJ Tecnologia Provedores do Brasil LTDA - ME).
-Prefix 138.94.215.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273417 (INFORTEC SERVICOS DE COMUNICACOES LTDA).
-Prefix 201.49.240.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954 (FELIPE C DE FREITAS SOLUCOES EM TECNOLOGIA).
-Prefix 201.49.240.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954 (FELIPE C DE FREITAS SOLUCOES EM TECNOLOGIA).
-Prefix 201.49.242.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954 (FELIPE C DE FREITAS SOLUCOES EM TECNOLOGIA).
-Prefix 45.239.12.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346 (FIBERNETT TELECOM LTDA).
-Prefix 45.183.127.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330 (BRAYANNET COMUNICACAO E MIDIA LTDA EPP).
+Prefix 45.173.100.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268809.
+Prefix 164.163.22.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265935.
+Prefix 177.125.76.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS52766.
+Prefix 45.183.124.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330.
+Prefix 45.239.12.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346.
+Prefix 45.164.11.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268585.
+Prefix 45.164.10.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268585.
+Prefix 186.209.160.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409.
+Prefix 45.186.52.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269411.
+Prefix 170.80.112.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266376.
+Prefix 128.201.158.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266635.
+Prefix 187.86.163.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273417.
+Prefix 181.174.211.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271473.
+Prefix 45.235.106.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413.
+Prefix 45.235.104.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413.
+Prefix 170.244.78.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505.
+Prefix 170.244.76.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505.
+Prefix 170.244.76.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266505.
+Prefix 138.94.215.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273417.
+Prefix 201.49.240.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954.
+Prefix 201.49.240.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954.
+Prefix 201.49.242.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270954.
+Prefix 45.239.12.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346.
+Prefix 45.183.127.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330.
 Prefix 45.230.96.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267160.
-Prefix 24.152.20.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273717 (TECNONET SINAL DE INTERNET LTDA).
-Prefix 45.239.14.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346 (FIBERNETT TELECOM LTDA).
+Prefix 24.152.20.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS273717.
+Prefix 45.239.14.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268346.
 Prefix 45.179.128.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
 Prefix 170.84.84.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
 Prefix 170.84.84.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
@@ -44,11 +44,11 @@ Prefix 170.84.86.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
 Prefix 45.179.130.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
 Prefix 45.179.128.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS264996.
 Prefix 177.84.48.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS262579.
-Prefix 45.189.162.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269704 (G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES).
-Prefix 45.191.104.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269704 (G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES).
+Prefix 45.189.162.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269704.
+Prefix 45.191.104.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269704.
 Prefix 168.196.220.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265462.
-Prefix 186.209.162.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409 (DMESON CARLOS BARBOZA GON�ALVES DO NASCIMENTO).
-Prefix 186.209.160.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409 (DMESON CARLOS BARBOZA GON�ALVES DO NASCIMENTO).
+Prefix 186.209.162.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409.
+Prefix 186.209.160.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271409.
 Prefix 45.177.30.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268963.
 Prefix 191.128.48.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS26615.
 Prefix 170.80.160.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266379.
@@ -56,16 +56,16 @@ Prefix 190.111.164.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270427.
 Prefix 168.196.84.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265447.
 Prefix 45.230.96.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267160.
 Prefix 45.230.98.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267160.
-Prefix 45.171.124.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268711 (ULTRACONECT COMUNICACAO LTDA).
-Prefix 168.197.234.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265486 (SUPERNET TELECOM LTDA - ME).
-Prefix 168.197.232.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265486 (SUPERNET TELECOM LTDA - ME).
-Prefix 45.228.112.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267060 (Jspnet servi�os de comunica��es multimidia eireli).
+Prefix 45.171.124.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS268711.
+Prefix 168.197.234.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265486.
+Prefix 168.197.232.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS265486.
+Prefix 45.228.112.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267060.
 Prefix 170.80.162.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266379.
 Prefix 170.80.160.0/23 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266379.
-Prefix 45.235.104.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413 (MGN FIBRA SERVICOS E COMUNICACAO LTDA).
+Prefix 45.235.104.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS267413.
 Prefix 131.108.154.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS270946.
-Prefix 45.183.125.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330 (BRAYANNET COMUNICACAO E MIDIA LTDA EPP).
-Prefix 181.233.92.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271441 (J.A TELECOM.PE).
+Prefix 45.183.125.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS269330.
+Prefix 181.233.92.0/24 via peer AS3549 (LVLT-3549) from origin ASN(s) AS271441.
 Prefix 192.144.96.0/22 via peer AS3549 (LVLT-3549) from origin ASN(s) AS266229.
 
 Longest AS path: 11 prefix(es) had an AS path length of 255 ASNs.
@@ -117,7 +117,7 @@ Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 354218 withdraws.
 Peer ASN(s): AS49432 (SCHALLERT-AS)
 
 Most origin ASNs per prefix: 1 prefix(es) had 9 origin ASNs.
-Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS51087 (BLING-AS) AS204211 (LOCYAN-NETWORK-AS) AS202939 (CHIMON-NETWORK) AS200936 (GUO-AS) AS207529 (NyanLoliNetwork) AS199310 (QFLink-AS) AS213605 (Pysio-Research-NetWork) AS211575 (RuiNetwork) AS212532 (RUI-AS)
+Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS51087 (BLING-AS) AS204211 (LOCYAN-NETWORK-AS) AS202939 (CHIMON-NETWORK) AS200936 (GUO-AS) AS207529 (NyanLoliNetwork) AS199310 (QFLink-AS) AS213605 (Pysio-Research-NetWork) AS211575 (RuiNetwork) AS212532 (ACESHEEP-NETWORK)
 
 Most unknown attributes per prefix: 18 prefix(es) had 1 unknown attribute(s).
 Prefix 200.16.95.0/24 from origin ASN(s) AS262176 has attribute(s) {39}

@@ -16,7 +16,7 @@ Prefix 172.16.104.120/30 from origin ASN(s) AS28615
 Prefix 172.16.112.168/30 from origin ASN(s) AS28615
 Prefix 172.16.113.56/30 from origin ASN(s) AS28615
 Prefix 172.16.106.128/32 from origin ASN(s) AS28624
-Prefix 100.127.205.2/32 from origin ASN(s) AS26118
+Prefix 100.127.205.2/32 from origin ASN(s) AS26118 (LACNIC-26118)
 Prefix 10.20.80.0/24 from origin ASN(s) AS31027 (GlobalConnect-AS31027)
 Prefix 100.72.198.0/23 from origin ASN(s) AS9583 (SIFY-AS-IN)
 Prefix 100.71.147.0/24 from origin ASN(s) AS9583 (SIFY-AS-IN)

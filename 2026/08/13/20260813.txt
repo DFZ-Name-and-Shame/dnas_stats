@@ -9,8 +9,8 @@ Prefix 188.132.152.0/24 from origin ASN(s) AS64516 AS65003
 Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin ASNs.
 Prefix 2002::/16 from origin ASN(s) AS7725 (COMCAST-7725) AS6939 (HURRICANE)
 
-ASNs originating the most bogons ASNs: 1 ASN(s) are originating 4 bogon ASNs.
-AS137967 (DIGICON-ISP-AS) is originating 4 bogon ASNs: 65109 65660 64942 65088
+ASNs originating the most bogons ASNs: 1 ASN(s) are originating 39 bogon ASNs.
+AS23956 (AMBERIT-BD-AS) is originating 39 bogon ASNs: 64533 65110 65388 65521 65398 65504 64519 64925 65370 65117 64629 65525 65522 64898 65496 65503 65518 65501 65514 65517 65473 65512 65486 64618 64865 64563 64521 64538 64516 65109 65063 65451 64957 64980 64856 65445 64916 64539 64531
 
 Prefixes with the highest MED: 1 prefix(es) had a MED of 16788324.
 Prefix 84.235.56.0/23 via peer AS6777 (AMS-IX-RS) from origin ASN(s) AS39386 (STC-IGW-AS).
@@ -124,11 +124,11 @@ Prefix(es): 216.20.185.0/24
 Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 1787887 advertisements.
 Origin ASN(s): AS16509 (AMAZON-02)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 2792066 advertisements.
-Peer ASN(s): AS34927 (iFog-GmbH)
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 3840653 advertisements.
+Peer ASN(s): AS3491 (PCCWG-APAC-HK)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 2794764 updates.
-Peer ASN(s): AS34927 (iFog-GmbH)
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 3842911 updates.
+Peer ASN(s): AS3491 (PCCWG-APAC-HK)
 
 Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 225649 withdraws.
 Peer ASN(s): AS49432 (SCHALLERT-AS)
@@ -143,10 +143,10 @@ Prefix 17.76.94.0/23 from origin ASN(s) AS714 (APPLE-ENGINEERING) has attribute(
 Prefix 45.181.126.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 45.181.124.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 45.181.125.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
-Prefix 38.172.56.0/24 from origin ASN(s) AS272955 (GRUPO TECNOLIFE, C.A.) has attribute(s) {39}
+Prefix 38.172.56.0/24 from origin ASN(s) AS272955 has attribute(s) {39}
 Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
-Prefix 38.134.249.0/24 from origin ASN(s) AS273010 (TECNOSYSTEM IO, C.A) has attribute(s) {39}
+Prefix 38.134.249.0/24 from origin ASN(s) AS273010 has attribute(s) {39}
 Prefix 204.114.8.0/24 from origin ASN(s) AS15205 (NCPDAS) has attribute(s) {21}
 Prefix 45.181.127.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}

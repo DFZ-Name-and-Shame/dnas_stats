@@ -66,7 +66,7 @@ Prefix 45.181.126.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute
 Prefix 45.181.124.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 45.181.125.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 147.133.116.0/23 from origin ASN(s) AS33632 (MSU-EAGLE) has attribute(s) {21}
-Prefix 38.172.56.0/24 from origin ASN(s) AS272955 has attribute(s) {39}
+Prefix 38.172.56.0/24 from origin ASN(s) AS272955 (GRUPO TECNOLIFE, C.A.) has attribute(s) {39}
 Prefix 45.181.127.0/24 from origin ASN(s) AS269732 (WUIPI TECH CA) has attribute(s) {39}
 Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}
 Prefix 38.92.22.0/24 from origin ASN(s) AS273010 (TECNOSYSTEM IO, C.A) has attribute(s) {39}

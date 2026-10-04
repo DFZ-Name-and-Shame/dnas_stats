@@ -87,8 +87,8 @@ Prefix 45.181.127.0/24 from origin ASN(s) AS269732 has attribute(s) {39}
 Prefix 134.89.0.0/16 from origin ASN(s) AS14706 (MBARI-MAIN) has attribute(s) {21}
 Prefix 200.16.95.0/24 from origin ASN(s) AS262176 has attribute(s) {39}
 Prefix 147.143.0.0/16 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
-Prefix 181.117.16.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
-Prefix 181.117.17.0/24 from origin ASN(s) AS11664 has attribute(s) {20}
+Prefix 181.117.16.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
+Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (LACNIC-11664) has attribute(s) {20}
 Prefix 192.88.9.0/24 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}
 Prefix 38.134.249.0/24 from origin ASN(s) AS273010 has attribute(s) {39}
 Prefix 144.124.0.0/17 from origin ASN(s) AS786 (RIPE-ASNBLOCK-786) has attribute(s) {20}

@@ -1,4 +1,4 @@
-For 2026/10/07 58865131 BGP UPDATES were parsed. 56694905 UPDATES contained prefix advertisements. 3031817 UPDATES contained prefix withdraws.
+For 2026/10/07 67661080 BGP UPDATES were parsed. 65150713 UPDATES contained prefix advertisements. 3500126 UPDATES contained prefix withdraws.
 
 Prefixes with most bogon origin ASNs per prefix: 1 prefix(es) had 2 bogon origin ASNs.
 Prefix 176.96.130.0/24 from origin ASN(s) AS65003 AS64516
@@ -7,7 +7,7 @@ Bogon prefixes with most origin ASNs per prefix: 1 bogon prefix(es) had 2 origin
 Prefix 192.88.99.0/24 from origin ASN(s) AS6939 (HURRICANE) AS36732 (COMCAST-36732)
 
 ASNs originating the most bogons ASNs: 1 ASN(s) are originating 10 bogon ASNs.
-AS9583 (SIFY-AS-IN) is originating 10 bogon ASNs: 4227859454 64555 64764 65001 64811 64810 65000 65002 64520 65005
+AS9583 (SIFY-AS-IN) is originating 10 bogon ASNs: 65001 4227859454 64811 64520 64810 65005 65002 64555 64764 65000
 
 Prefixes with the highest MED: 2 prefix(es) had a MED of 2147483647.
 Prefix 193.39.220.0/22 via peer AS6695 (DECIX-AS) from origin ASN(s) AS31214 (TIS-DIALOG-AS).
@@ -27,29 +27,29 @@ Prefix 179.63.178.0/23 via peer AS207910 (DAM64) from origin ASN(s) AS61605 (SEL
 Abnormally large/small prefixes with most origin ASNs per prefix: 1 large/small prefix(es) had 3 origin ASNs.
 Prefix 80.66.81.56/32 from origin ASN(s) AS207957 (ServHost-AS) AS62255 (BEMYLINK) AS35598 (INETCOM)
 
-Most BGP advertisements per prefix: 1 prefix(es) had 2229409 advertisements.
+Most BGP advertisements per prefix: 1 prefix(es) had 2617882 advertisements.
 Prefix(es): 200.23.137.0/24
 
-Most BGP updates per prefix: 1 prefix(es) had 3581842 updates.
+Most BGP updates per prefix: 1 prefix(es) had 4166427 updates.
 Prefix(es): 200.23.137.0/24
 
-Most BGP withdraws per prefix: 1 prefix(es) had 1485752 withdraws.
+Most BGP withdraws per prefix: 1 prefix(es) had 1722836 withdraws.
 Prefix(es): 200.23.137.0/24
 
-Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2242154 advertisements.
+Most BGP advertisements per origin ASN: 1 origin ASN(s) sent 2766208 advertisements.
 Origin ASN(s): AS203273 (NetCraftersOU)
 
-Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 12713015 advertisements.
+Most BGP advertisements per peer ASN: 1 peer ASN(s) sent 14913570 advertisements.
 Peer ASN(s): AS202365 (Chronos)
 
-Most BGP updates per peer ASN: 1 peer ASN(s) sent 12808081 updates.
+Most BGP updates per peer ASN: 1 peer ASN(s) sent 15025646 updates.
 Peer ASN(s): AS202365 (Chronos)
 
-Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 868131 withdraws.
+Most BGP withdraws per peer ASN: 1 peer ASN(s) sent 1008350 withdraws.
 Peer ASN(s): AS59919 (BRAINBOX)
 
 Most origin ASNs per prefix: 1 prefix(es) had 8 origin ASNs.
-Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS204211 (LOCYAN-NETWORK-AS) AS207529 (NyanLoliNetwork) AS213605 (Pysio-Research-NetWork) AS199310 (QFLink-AS) AS212532 (ACESHEEP-NETWORK) AS51087 (BLING-AS) AS198304 AS40929 (MOEDOVE-BN)
+Prefix 2a0f:9400:6110::/48 from origin ASN(s) AS212532 (ACESHEEP-NETWORK) AS51087 (BLING-AS) AS198304 AS40929 (MOEDOVE-BN) AS213605 (Pysio-Research-NetWork) AS204211 (LOCYAN-NETWORK-AS) AS207529 (NyanLoliNetwork) AS199310 (QFLink-AS)
 
 Most unknown attributes per prefix: 24 prefix(es) had 1 unknown attribute(s).
 Prefix 45.61.59.0/24 from origin ASN(s) AS36007 (KAMATERA) has attribute(s) {39}
@@ -78,5 +78,5 @@ Prefix 192.88.9.0/24 from origin ASN(s) AS786 (JANET) has attribute(s) {20}
 Prefix 181.117.17.0/24 from origin ASN(s) AS11664 (Techtel LMDS Comunicaciones Interactivas S.A.) has attribute(s) {20}
 
 Prefixes with most unregistered origin ASNs per prefix: 1 prefix(es) had 2 unregistered origin ASNs.
-Prefix 195.88.36.0/23 from origin ASN(s) AS818723 AS218723
+Prefix 195.88.36.0/23 from origin ASN(s) AS218723 AS818723
 
